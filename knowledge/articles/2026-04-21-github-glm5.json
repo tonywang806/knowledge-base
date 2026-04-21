@@ -1,0 +1,15 @@
+{
+  "id": "2026-04-21-github-glm5",
+  "title": "GLM-5: 智谱大语言模型",
+  "source": "github-trending",
+  "source_url": "https://github.com/zai-org/GLM-5",
+  "summary": "智谱最新模型，目标为复杂系统工程和长程 Agent 任务",
+  "analysis": {
+    "tech_highlights": ["744B 参数", "Agent 任务", "中文优势"],
+    "relevance_score": 6
+  },
+  "tags": ["llm", "agentic"],
+  "status": "draft",
+  "collected_at": "2026-04-21T10:00:00Z",
+  "updated_at": "2026-04-21T10:30:00Z"
+}

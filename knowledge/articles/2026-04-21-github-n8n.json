@@ -1,0 +1,15 @@
+{
+  "id": "2026-04-21-github-n8n",
+  "title": "n8n: 工作流自动化平台",
+  "source": "github-trending",
+  "source_url": "https://github.com/n8n-io/n8n",
+  "summary": "工作流自动化平台，原生支持 AI 能力，企业级工作流编排",
+  "analysis": {
+    "tech_highlights": ["工作流编排", "AI 集成", "自托管"],
+    "relevance_score": 7
+  },
+  "tags": ["workflow", "automation"],
+  "status": "draft",
+  "collected_at": "2026-04-21T10:00:00Z",
+  "updated_at": "2026-04-21T10:30:00Z"
+}

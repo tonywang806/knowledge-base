@@ -1,0 +1,15 @@
+{
+  "id": "2026-04-21-github-ollama",
+  "title": "Ollama: 本地大语言模型运行时",
+  "source": "github-trending",
+  "source_url": "https://github.com/ollama/ollama",
+  "summary": "本地运行大语言模型，无需网络即可部署 LLM，解决数据隐私问题",
+  "analysis": {
+    "tech_highlights": ["本地部署", "多模型支持", "隐私保护"],
+    "relevance_score": 9
+  },
+  "tags": ["llm", "local", "inference"],
+  "status": "draft",
+  "collected_at": "2026-04-21T10:00:00Z",
+  "updated_at": "2026-04-21T10:30:00Z"
+}

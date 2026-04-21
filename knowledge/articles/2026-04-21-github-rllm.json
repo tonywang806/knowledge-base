@@ -1,0 +1,15 @@
+{
+  "id": "2026-04-21-github-rllm",
+  "title": "rLLM: 强化学习训练框架",
+  "source": "github-trending",
+  "source_url": "https://github.com/rllm-org/rllm",
+  "summary": "用强化学习训练 AI Agent 的开源框架，任何框架均可使用",
+  "analysis": {
+    "tech_highlights": ["任意框架", "最小代码改动", "分布式训练"],
+    "relevance_score": 6
+  },
+  "tags": ["rl", "training"],
+  "status": "draft",
+  "collected_at": "2026-04-21T10:00:00Z",
+  "updated_at": "2026-04-21T10:30:00Z"
+}

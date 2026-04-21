@@ -1,0 +1,15 @@
+{
+  "id": "2026-04-21-github-gravitas",
+  "title": "Gravitas: AI 编程 Agent",
+  "source": "github-trending",
+  "source_url": "https://github.com/significant/gravitas",
+  "summary": "AI 编程 Agent，支持全代码库重构和自动化测试生成",
+  "analysis": {
+    "tech_highlights": ["全代码库", "自动化测试", "自研模型"],
+    "relevance_score": 5
+  },
+  "tags": ["coding", "autonomous"],
+  "status": "draft",
+  "collected_at": "2026-04-21T10:00:00Z",
+  "updated_at": "2026-04-21T10:30:00Z"
+}
