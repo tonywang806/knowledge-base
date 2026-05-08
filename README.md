@@ -82,6 +82,22 @@ Agent 和 Skill 的定义文件位于 `.opencode/` 目录：
 | github-trending | `.opencode/skills/github-trending/` | 采集 GitHub 热门项目 |
 | tech-summary | `.opencode/skills/tech-summary/` | 深度技术分析总结 |
 
+## 测试
+
+```bash
+# 运行全部测试（详细输出）
+uv run pytest tests/ -v
+
+# 运行单个测试文件
+uv run pytest tests/test_validate_json.py -v
+
+# 运行指定测试类
+uv run pytest tests/test_validate_json.py::TestRequiredFields -v
+
+# 运行指定测试用例
+uv run pytest tests/test_validate_json.py::TestCheckParse::test_parse_valid_json -v
+```
+
 ## 数据校验
 
 ```bash

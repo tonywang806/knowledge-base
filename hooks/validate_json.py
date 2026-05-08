@@ -181,7 +181,7 @@ def validate_files(file_paths: list[Path]) -> tuple[int, int, int]:
         passed = validator.validate()
 
         if passed:
-            print(f"PASS {fp} (0 errors)", end="")
+            print(f"\nPASS {fp} (0 errors)", end="")
             pass_count += 1
         else:
             print(f"FAIL {fp} ({len(validator.errors)} errors)", end="")
@@ -197,7 +197,7 @@ def validate_files(file_paths: list[Path]) -> tuple[int, int, int]:
 def main() -> None:
     """入口函数。"""
     if len(sys.argv) < 2:
-        print(f"用法: {sys.argv[0]} <json_file> [json_file2 ...]", file=sys.stderr)
+        print(f"\n用法: {sys.argv[0]} <json_file> [json_file2 ...]", file=sys.stderr)
         sys.exit(1)
 
     file_paths: list[Path] = []
@@ -211,11 +211,11 @@ def main() -> None:
             if matched:
                 file_paths.extend(matched)
             else:
-                print(f"错误: 文件不存在: {spec}", file=sys.stderr)
+                print(f"\n错误: 文件不存在: {spec}", file=sys.stderr)
                 sys.exit(1)
 
     if not file_paths:
-        print("错误: 没有匹配到任何文件", file=sys.stderr)
+        print("\n错误: 没有匹配到任何文件", file=sys.stderr)
         sys.exit(1)
 
     pass_count, fail_count, total_errors = validate_files(file_paths)
