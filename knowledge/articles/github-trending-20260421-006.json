@@ -1,14 +1,20 @@
 {
-  "id": "2026-04-21-github-klong",
+  "id": "github-trending-20260421-006",
   "title": "KLong: LLM Agent 长程任务训练",
   "source": "github-trending",
   "source_url": "https://github.com/yueliu1999/KLong",
   "summary": "训练 LLM Agent 解决超长程任务，NUS 和 MIT 联合研究",
   "analysis": {
-    "tech_highlights": ["长程任务", "轨迹分割", "论文发表"],
+    "tech_highlights": [
+      "长程任务",
+      "轨迹分割",
+      "论文发表"
+    ],
     "relevance_score": 4
   },
-  "tags": ["training"],
+  "tags": [
+    "training"
+  ],
   "status": "draft",
   "collected_at": "2026-04-21T10:00:00Z",
   "updated_at": "2026-04-21T10:30:00Z"

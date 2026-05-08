@@ -21,7 +21,7 @@
 
 ```json
 {
-  "id": "uuid",
+  "id": "{source}-{YYYYMMDD}-{NNN}",
   "title": "string",
   "source_url": "string",
   "summary": "string",

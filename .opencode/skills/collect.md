@@ -22,5 +22,5 @@ python -m agents.collect --source github,hn --limit 20
 
 ## 输出
 
-- 新增条目写入 `knowledge/raw/YYYY-MM-DD-*.json`
+- 新增条目写入 `knowledge/raw/{source}-{YYYYMMDD}-{NNN}.json`
 - 日志记录采集结果

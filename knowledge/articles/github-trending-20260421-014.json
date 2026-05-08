@@ -1,14 +1,21 @@
 {
-  "id": "2026-04-21-github-volt",
+  "id": "github-trending-20260421-014",
   "title": "Volt: 终端 AI 编程 Agent",
   "source": "github-trending",
   "source_url": "https://github.com/Martian-Engineering/volt",
   "summary": "终端 AI 编程 Agent，无损上下文管理，长程任务表现出色",
   "analysis": {
-    "tech_highlights": ["无损上下文", "LCM 技术", "长程任务"],
+    "tech_highlights": [
+      "无损上下文",
+      "LCM 技术",
+      "长程任务"
+    ],
     "relevance_score": 5
   },
-  "tags": ["coding", "context"],
+  "tags": [
+    "coding",
+    "context"
+  ],
   "status": "draft",
   "collected_at": "2026-04-21T10:00:00Z",
   "updated_at": "2026-04-21T10:30:00Z"

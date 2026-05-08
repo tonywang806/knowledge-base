@@ -21,5 +21,5 @@ python -m skills.analyze --status pending
 
 ## 输出
 
-- 分析结果写入 `knowledge/articles/YYYY-MM-DD-*.json`
+- 分析结果写入 `knowledge/articles/{source}-{YYYYMMDD}-{NNN}.json`
 - 日志记录分析结果

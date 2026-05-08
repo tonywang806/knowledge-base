@@ -21,7 +21,7 @@
 
 ```json
 {
-  "id": "uuid",
+  "id": "{source}-{YYYYMMDD}-{NNN}",
   "source": "github_trending|hn",
   "title": "string",
   "url": "string",
