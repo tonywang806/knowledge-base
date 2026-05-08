@@ -184,7 +184,7 @@ def validate_files(file_paths: list[Path]) -> tuple[int, int, int]:
             print(f"\nPASS {fp} (0 errors)", end="")
             pass_count += 1
         else:
-            print(f"FAIL {fp} ({len(validator.errors)} errors)", end="")
+            print(f"\nFAIL {fp} ({len(validator.errors)} errors)", end="")
             for error in validator.errors:
                 total_errors += 1
                 print(f"\n  {error}")
