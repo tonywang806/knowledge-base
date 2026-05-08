@@ -1,0 +1,27 @@
+{
+  "name": "personal_knowledgebase",
+  "version": "1.0.0",
+  "description": "自动从 GitHub Trending、Hacker News 采集 AI/LLM/Agent 领域技术动态，AI 分析后结构化存储为 JSON，支持多渠道分发（Telegram/飞书）。",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonywang806/knowledge-base.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tonywang806/knowledge-base/issues"
+  },
+  "homepage": "https://github.com/tonywang806/knowledge-base#readme",
+  "dependencies": {
+    "@opencode-ai/plugin": "^1.14.41"
+  }
+}
