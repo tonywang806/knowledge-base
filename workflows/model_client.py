@@ -7,7 +7,11 @@ from typing import Any, Optional, Tuple
 
 from dotenv import load_dotenv
 
+from exceptions import BudgetExceededError
+
 _loaded = False
+
+
 def _ensure_env():
     global _loaded
     if not _loaded:
@@ -17,6 +21,17 @@ def _ensure_env():
 
 
 logger = logging.getLogger(__name__)
+
+_cost_guard = None
+
+
+def get_cost_guard():
+    global _cost_guard
+    if _cost_guard is None:
+        from tests.cost_guard import CostGuard
+        budget = float(os.environ.get("BUDGET_YUAN", "1.0"))
+        _cost_guard = CostGuard(budget_yuan=budget, budget_exceeded_error=BudgetExceededError)
+    return _cost_guard
 
 
 def accumulate_usage(tracker: dict, usage: dict) -> None:
@@ -30,6 +45,7 @@ def chat(
     system: Optional[str] = None,
     model: Optional[str] = None,
     temperature: float = 0.7,
+    node_name: str = "unknown",
 ) -> Tuple[str, dict]:
     _ensure_env()
     api_key = os.environ.get("OPENAI_API_KEY", "")
@@ -66,6 +82,12 @@ def chat(
 
     choice = data["choices"][0]["message"]["content"]
     usage = data.get("usage", {})
+
+    if usage:
+        cost_guard = get_cost_guard()
+        cost_guard.record(node_name, usage, model)
+        cost_guard.check()
+
     return choice, usage
 
 
@@ -74,8 +96,9 @@ def chat_json(
     system: Optional[str] = None,
     model: Optional[str] = None,
     temperature: float = 0.0,
+    node_name: str = "unknown",
 ) -> Tuple[Any, dict]:
-    text, usage = chat(prompt, system=system, model=model, temperature=temperature)
+    text, usage = chat(prompt, system=system, model=model, temperature=temperature, node_name=node_name)
 
     text = text.strip()
     if text.startswith("```"):

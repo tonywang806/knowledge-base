@@ -3,15 +3,15 @@
   "title": "awesome-selfhosted",
   "source": "github-trending",
   "source_url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
-  "collected_at": "2026-05-09T12:36:06.924876+00:00",
-  "summary": "可自托管的免费软件网络服务和Web应用列表。",
+  "collected_at": "2026-05-09T14:46:35.390677+00:00",
+  "summary": "可自托管的自由软件网络服务和Web应用程序列表。",
   "analysis": {
-    "relevance_score": 0.76
+    "relevance_score": 0.74
   },
   "tags": [
     "自托管",
-    "免费软件",
-    "网络服务"
+    "软件",
+    "资源"
   ],
   "status": "draft"
 }

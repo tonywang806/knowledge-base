@@ -6,11 +6,7 @@ from dataclasses import dataclass, field
 from datetime import datetime
 from typing import Any
 
-
-class BudgetExceededError(Exception):
-    """预算超限异常。"""
-
-    pass
+from exceptions import BudgetExceededError
 
 
 @dataclass
@@ -34,6 +30,7 @@ class CostGuard:
         alert_threshold: float = 0.8,
         input_price_per_million: float = 1.0,
         output_price_per_million: float = 2.0,
+        budget_exceeded_error: type = BudgetExceededError,
     ):
         """初始化预算守卫。
 
@@ -42,11 +39,13 @@ class CostGuard:
             alert_threshold: 预警阈值（0-1）
             input_price_per_million: 输入价格（每百万 token）
             output_price_per_million: 输出价格（每百万 token）
+            budget_exceeded_error: 预算超限时抛出的异常类
         """
         self.budget_yuan = budget_yuan
         self.alert_threshold = alert_threshold
         self.input_price_per_million = input_price_per_million
         self.output_price_per_million = output_price_per_million
+        self.budget_exceeded_error = budget_exceeded_error
 
         self._records: list[CostRecord] = []
         self._total_cost_yuan: float = 0.0
@@ -113,7 +112,7 @@ class CostGuard:
         usage_ratio = self._total_cost_yuan / self.budget_yuan if self.budget_yuan > 0 else 0
 
         if usage_ratio >= 1.0:
-            raise BudgetExceededError(
+            raise self.budget_exceeded_error(
                 f"预算超限：已使用 {self._total_cost_yuan:.4f} 元，"
                 f"预算 {self.budget_yuan:.4f} 元"
             )

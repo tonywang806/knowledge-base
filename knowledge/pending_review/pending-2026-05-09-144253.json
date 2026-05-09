@@ -1,0 +1,287 @@
+{
+  "timestamp": "2026-05-09-144253",
+  "iterations_used": 2,
+  "last_feedback": "加权总分 6.42 < 7.0，请改进",
+  "analyses": [
+    {
+      "id": "github-20260509-001",
+      "title": "build-your-own-x",
+      "source": "github-trending",
+      "source_url": "https://github.com/codecrafters-io/build-your-own-x",
+      "collected_at": "2026-05-09T14:41:23.871267+00:00",
+      "summary": "该项目通过从零开始重建各种技术项目，帮助用户系统性地掌握编程技能，提升实践能力。",
+      "tags": [
+        "编程",
+        "技能提升",
+        "实践"
+      ],
+      "relevance_score": 0.9
+    },
+    {
+      "id": "github-20260509-002",
+      "title": "awesome",
+      "source": "github-trending",
+      "source_url": "https://github.com/sindresorhus/awesome",
+      "collected_at": "2026-05-09T14:41:23.871307+00:00",
+      "summary": "一个关于各种有趣主题的精彩资源列表，便于用户查阅和使用，促进学习与交流。",
+      "tags": [
+        "资源",
+        "学习",
+        "社区"
+      ],
+      "relevance_score": 0.85
+    },
+    {
+      "id": "github-20260509-003",
+      "title": "freeCodeCamp",
+      "source": "github-trending",
+      "source_url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "collected_at": "2026-05-09T14:41:23.871314+00:00",
+      "summary": "提供免费的数学、编程和计算机科学学习资源，适合希望自学的用户，支持多种学习方式。",
+      "tags": [
+        "教育",
+        "编程",
+        "自学"
+      ],
+      "relevance_score": 0.9
+    },
+    {
+      "id": "github-20260509-004",
+      "title": "public-apis",
+      "source": "github-trending",
+      "source_url": "https://github.com/public-apis/public-apis",
+      "collected_at": "2026-05-09T14:41:23.871319+00:00",
+      "summary": "一个集合了多种免费API的列表，方便开发者快速找到所需资源，支持多种开发需求。",
+      "tags": [
+        "API",
+        "开发",
+        "资源"
+      ],
+      "relevance_score": 0.8
+    },
+    {
+      "id": "github-20260509-005",
+      "title": "openclaw",
+      "source": "github-trending",
+      "source_url": "https://github.com/openclaw/openclaw",
+      "collected_at": "2026-05-09T14:41:23.871323+00:00",
+      "summary": "一个跨平台的个人AI助手项目，旨在提升用户的日常工作效率，提供智能化支持。",
+      "tags": [
+        "AI",
+        "助手",
+        "效率"
+      ],
+      "relevance_score": 0.95
+    },
+    {
+      "id": "github-20260509-006",
+      "title": "developer-roadmap",
+      "source": "github-trending",
+      "source_url": "https://github.com/nilbuild/developer-roadmap",
+      "collected_at": "2026-05-09T14:41:23.871327+00:00",
+      "summary": "提供互动式的开发者成长路线图和教育内容，帮助用户规划职业发展，提升专业技能。",
+      "tags": [
+        "职业发展",
+        "教育",
+        "规划"
+      ],
+      "relevance_score": 0.85
+    },
+    {
+      "id": "github-20260509-007",
+      "title": "system-design-primer",
+      "source": "github-trending",
+      "source_url": "https://github.com/donnemartin/system-design-primer",
+      "collected_at": "2026-05-09T14:41:23.871331+00:00",
+      "summary": "帮助用户学习如何设计大型系统，特别适合系统设计面试的准备，提升面试竞争力。",
+      "tags": [
+        "系统设计",
+        "面试",
+        "教育"
+      ],
+      "relevance_score": 0.85
+    },
+    {
+      "id": "github-20260509-008",
+      "title": "coding-interview-university",
+      "source": "github-trending",
+      "source_url": "https://github.com/jwasham/coding-interview-university",
+      "collected_at": "2026-05-09T14:41:23.871335+00:00",
+      "summary": "提供完整的计算机科学学习计划，帮助用户成为合格的软件工程师，适合各类学习者。",
+      "tags": [
+        "教育",
+        "计算机科学",
+        "学习"
+      ],
+      "relevance_score": 0.9
+    },
+    {
+      "id": "github-20260509-009",
+      "title": "awesome-python",
+      "source": "github-trending",
+      "source_url": "https://github.com/vinta/awesome-python",
+      "collected_at": "2026-05-09T14:41:23.871339+00:00",
+      "summary": "一个关于Python框架、库和工具的精选资源列表，适合开发者使用，支持快速上手。",
+      "tags": [
+        "Python",
+        "资源",
+        "开发"
+      ],
+      "relevance_score": 0.8
+    },
+    {
+      "id": "github-20260509-010",
+      "title": "awesome-selfhosted",
+      "source": "github-trending",
+      "source_url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+      "collected_at": "2026-05-09T14:41:23.871342+00:00",
+      "summary": "提供可自托管的免费软件和Web应用列表，适合开发者和爱好者，支持多种应用场景。",
+      "tags": [
+        "自托管",
+        "软件",
+        "资源"
+      ],
+      "relevance_score": 0.75
+    },
+    {
+      "id": "github-20260509-011",
+      "title": "project-based-learning",
+      "source": "github-trending",
+      "source_url": "https://github.com/practical-tutorials/project-based-learning",
+      "collected_at": "2026-05-09T14:41:23.871346+00:00",
+      "summary": "策划的项目基础教程列表，适合希望通过实践学习的用户，促进动手能力提升。",
+      "tags": [
+        "项目",
+        "学习",
+        "实践"
+      ],
+      "relevance_score": 0.8
+    },
+    {
+      "id": "github-20260509-012",
+      "title": "linux",
+      "source": "github-trending",
+      "source_url": "https://github.com/torvalds/linux",
+      "collected_at": "2026-05-09T14:41:23.871349+00:00",
+      "summary": "Linux内核源代码树，适合深入学习和理解Linux操作系统，支持技术研究与开发。",
+      "tags": [
+        "Linux",
+        "开源",
+        "系统"
+      ],
+      "relevance_score": 0.85
+    },
+    {
+      "id": "github-20260509-013",
+      "title": "the-book-of-secret-knowledge",
+      "source": "github-trending",
+      "source_url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+      "collected_at": "2026-05-09T14:41:23.871353+00:00",
+      "summary": "收集了各种灵感列表、手册和工具的知识书籍，适合自学者参考，促进知识积累。",
+      "tags": [
+        "知识",
+        "资源",
+        "工具"
+      ],
+      "relevance_score": 0.75
+    },
+    {
+      "id": "github-20260509-014",
+      "title": "computer-science",
+      "source": "github-trending",
+      "source_url": "https://github.com/ossu/computer-science",
+      "collected_at": "2026-05-09T14:41:23.871356+00:00",
+      "summary": "提供自学计算机科学的路径，适合希望自学的用户，支持多种学习资源整合。",
+      "tags": [
+        "自学",
+        "计算机科学",
+        "教育"
+      ],
+      "relevance_score": 0.85
+    },
+    {
+      "id": "github-20260509-015",
+      "title": "javascript-algorithms",
+      "source": "github-trending",
+      "source_url": "https://github.com/trekhleb/javascript-algorithms",
+      "collected_at": "2026-05-09T14:41:23.871360+00:00",
+      "summary": "用JavaScript实现的算法和数据结构，附有详细解释和链接，适合学习者深入理解。",
+      "tags": [
+        "JavaScript",
+        "算法",
+        "学习"
+      ],
+      "relevance_score": 0.8
+    },
+    {
+      "id": "github-20260509-016",
+      "title": "tensorflow",
+      "source": "github-trending",
+      "source_url": "https://github.com/tensorflow/tensorflow",
+      "collected_at": "2026-05-09T14:41:23.871363+00:00",
+      "summary": "一个开源机器学习框架，适合各类用户进行机器学习项目开发，支持多种应用场景。",
+      "tags": [
+        "机器学习",
+        "开源",
+        "框架"
+      ],
+      "relevance_score": 0.9
+    },
+    {
+      "id": "github-20260509-017",
+      "title": "claw-code",
+      "source": "github-trending",
+      "source_url": "https://github.com/ultraworkers/claw-code",
+      "collected_at": "2026-05-09T14:41:23.871366+00:00",
+      "summary": "一个快速的代码库，旨在提供高效的开发体验，适合开发者使用，支持快速迭代。",
+      "tags": [
+        "开发",
+        "高效",
+        "代码"
+      ],
+      "relevance_score": 0.7
+    },
+    {
+      "id": "github-20260509-018",
+      "title": "n8n",
+      "source": "github-trending",
+      "source_url": "https://github.com/n8n-io/n8n",
+      "collected_at": "2026-05-09T14:41:23.871369+00:00",
+      "summary": "一个公平代码的工作流自动化平台，具备原生AI能力，适合各类用户，提升工作效率。",
+      "tags": [
+        "自动化",
+        "AI",
+        "效率"
+      ],
+      "relevance_score": 0.95
+    },
+    {
+      "id": "github-20260509-019",
+      "title": "AutoGPT",
+      "source": "github-trending",
+      "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "collected_at": "2026-05-09T14:41:23.871372+00:00",
+      "summary": "AutoGPT旨在让每个人都能轻松使用和构建AI工具，提升可访问性，支持多种应用。",
+      "tags": [
+        "AI",
+        "工具",
+        "可访问性"
+      ],
+      "relevance_score": 0.95
+    },
+    {
+      "id": "github-20260509-020",
+      "title": "superpowers",
+      "source": "github-trending",
+      "source_url": "https://github.com/obra/superpowers",
+      "collected_at": "2026-05-09T14:41:23.871375+00:00",
+      "summary": "一个技能框架和软件开发方法论，旨在提升开发效率和团队协作，支持项目管理。",
+      "tags": [
+        "开发",
+        "方法论",
+        "效率"
+      ],
+      "relevance_score": 0.75
+    }
+  ]
+}
