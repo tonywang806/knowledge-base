@@ -441,32 +441,61 @@ def step_save(items: list[dict], dry_run: bool = False) -> int:
     return count
 
 
-def run(sources: list[str], limit: int, dry_run: bool = False, verbose: bool = False) -> None:
-    """Run the full pipeline.
+def run(
+    sources: list[str],
+    limit: int,
+    dry_run: bool = False,
+    verbose: bool = False,
+    steps: list[int] | None = None,
+) -> None:
+    """Run the pipeline (optionally subset of steps).
 
     Args:
         sources: Source list.
         limit: Max items per source.
         dry_run: Dry run mode.
         verbose: Verbose logging.
+        steps: List of step numbers to run (1-4). If None, runs all.
     """
     if verbose:
         logging.getLogger().setLevel(logging.DEBUG)
 
-    if not sources:
-        logger.error("No sources specified. Use --sources github,rss")
-        return
+    if steps is None:
+        steps = [1, 2, 3, 4]
 
-    items = step_collect(sources, limit, dry_run)
-    if not items and not dry_run:
-        logger.warning("No items collected, stopping pipeline")
-        return
+    logger.info(f"Running steps: {steps}")
 
-    analyzed = step_analyze(items, dry_run)
+    items = []
+    analyzed = []
+    organized = []
+    saved = 0
 
-    organized = step_organize(analyzed, dry_run)
+    if 1 in steps:
+        items = step_collect(sources, limit, dry_run)
+        if not items and not dry_run:
+            logger.warning("No items collected, stopping pipeline")
+            return
 
-    saved = step_save(organized, dry_run)
+    if 2 in steps:
+        if not items and not dry_run:
+            logger.warning("No items to analyze, skipping step 2")
+        else:
+            analyzed = step_analyze(items, dry_run) if items else []
+            if not analyzed and not dry_run:
+                logger.warning("No items analyzed, skipping remaining steps")
+                return
+
+    if 3 in steps:
+        if not analyzed and not dry_run:
+            logger.warning("No items to organize, skipping step 3")
+        else:
+            organized = step_organize(analyzed, dry_run) if analyzed else []
+
+    if 4 in steps:
+        if not organized and not dry_run:
+            logger.warning("No items to save, skipping step 4")
+        else:
+            saved = step_save(organized, dry_run) if organized else 0
 
     logger.info(f"=== Pipeline complete: {saved} articles saved ===")
 
@@ -504,11 +533,19 @@ def main() -> None:
         action="store_true",
         help="详细日志",
     )
+    parser.add_argument(
+        "--step",
+        action="append",
+        type=int,
+        choices=[1, 2, 3, 4],
+        help="指定要运行的步骤（可多次使用，如 --step 1 --step 2）",
+    )
     args = parser.parse_args()
 
     sources = [s.strip() for s in args.sources.split(",")]
+    steps = args.step if args.step else None
 
-    run(sources, args.limit, args.dry_run, args.verbose)
+    run(sources, args.limit, args.dry_run, args.verbose, steps)
 
 
 if __name__ == "__main__":
