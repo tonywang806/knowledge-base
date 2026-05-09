@@ -64,6 +64,17 @@ def get_timestamp() -> str:
     return datetime.now().isoformat()
 
 
+def build_fallback_summary(item: dict) -> str:
+    """Build a validation-safe summary when LLM analysis is unavailable."""
+    title = item.get("title", "") or "该项目"
+    description = item.get("description", "") or item.get("raw_content", "") or "暂无详细描述"
+    description = re.sub(r"\s+", " ", description).strip()
+    summary = f"{title}：{description[:80]}"
+    if len(summary) < 20:
+        summary += "，需要人工复核其技术价值和适用场景"
+    return summary[:100]
+
+
 def fetch_github(
     limit: int = 10,
     github_token: Optional[str] = None,
@@ -318,12 +329,16 @@ def step_analyze(items: list[dict], dry_run: bool = False) -> list[dict]:
             else:
                 result = json.loads(result_text)
 
+            summary = result.get("summary", "")
+            if len(summary) < 20:
+                summary = build_fallback_summary(item)
+
             analyzed_item = {
                 "id": item.get("id"),
                 "title": item.get("title"),
                 "source": item.get("source"),
                 "source_url": item.get("url"),
-                "summary": result.get("summary", ""),
+                "summary": summary,
                 "tags": result.get("tags", ["ai"]),
                 "analysis": {
                     "relevance_score": result.get("relevance_score", 5),
@@ -341,7 +356,7 @@ def step_analyze(items: list[dict], dry_run: bool = False) -> list[dict]:
                 "title": item.get("title"),
                 "source": item.get("source"),
                 "source_url": item.get("url"),
-                "summary": "[分析失败]",
+                "summary": build_fallback_summary(item),
                 "tags": ["ai"],
                 "analysis": {"relevance_score": 3},
                 "status": "draft",

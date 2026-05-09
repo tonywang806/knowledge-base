@@ -47,7 +47,7 @@ jobs:
           from pathlib import Path
 
           articles_dir = Path("knowledge/articles")
-          pattern = re.compile(r'^[a-z]+-\d{8}-\d{3}\.json$')
+          pattern = re.compile(r'^[a-z0-9]+(-[a-z0-9]+)*-\d{8}-\d{3}\.json$')
 
           for f in articles_dir.glob("*.json"):
             if not pattern.match(f.name):
