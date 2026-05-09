@@ -1,9 +1,9 @@
 {
   "id": "rss-20260509-027",
-  "title": "Teaching Claude Why",
+  "title": "Can LLMs model real-world systems in TLA+?",
   "source": "rss-hacker-news",
-  "source_url": "https://www.anthropic.com/research/teaching-claude-why",
-  "summary": "Teaching Claude Why：Comments]]>",
+  "source_url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
+  "summary": "Can LLMs model real-world systems in TLA+?：Comments]]>",
   "tags": [
     "ai"
   ],
@@ -11,5 +11,5 @@
     "relevance_score": 3
   },
   "status": "review",
-  "collected_at": "2026-05-09T07:41:57.622110"
+  "collected_at": "2026-05-09T08:32:42.962583"
 }
