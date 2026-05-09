@@ -301,7 +301,7 @@ def step_analyze(items: list[dict], dry_run: bool = False) -> list[dict]:
             messages = [
                 {
                     "role": "system",
-                    "content": "你是一个专业的技术文章分析师。请分析以下内容，生成中文摘要（不超过100字），推荐2-5个标签，返回JSON格式：{\"summary\": \"...\", \"tags\": [...], \"relevance_score\": <1-10整数>}。9-10改变格局，7-8直接有帮助，5-6值得了解，1-4价值有限。",
+                    "content": "你是一个专业的技术文章分析师。请分析以下内容，生成中文摘要（20-100字，必须至少20字），推荐2-5个标签，返回JSON格式：{\"summary\": \"...\", \"tags\": [...], \"relevance_score\": <1-10整数>}。9-10改变格局，7-8直接有帮助，5-6值得了解，1-4价值有限。摘要必须足够详细，至少20字。",
                 },
                 {
                     "role": "user",

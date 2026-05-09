@@ -39,6 +39,32 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python pipeline/pipeline.py --sources github,rss --limit 20 --verbose
 
+      - name: Clean up invalid articles
+        run: |
+          python3 << 'EOF'
+          import re
+          import json
+          from pathlib import Path
+
+          articles_dir = Path("knowledge/articles")
+          pattern = re.compile(r'^[a-z]+-\d{8}-\d{3}\.json$')
+
+          for f in articles_dir.glob("*.json"):
+            if not pattern.match(f.name):
+              print(f"Removing invalid: {f.name}")
+              f.unlink()
+              continue
+
+            try:
+              data = json.load(open(f))
+              if data.get("status") == "reviewed":
+                data["status"] = "review"
+                json.dump(data, open(f, "w"), ensure_ascii=False, indent=2)
+                print(f"Fixed status in: {f.name}")
+            except Exception as e:
+              print(f"Error processing {f.name}: {e}")
+          EOF
+
       - name: Validate collected articles
         run: |
           if ls knowledge/articles/*.json 1>/dev/null 2>&1; then
