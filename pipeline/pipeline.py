@@ -10,6 +10,7 @@ import uuid
 from datetime import datetime
 from pathlib import Path
 from typing import Optional
+from model_client import tracker
 
 import httpx
 import yaml
@@ -320,6 +321,7 @@ def step_analyze(items: list[dict], dry_run: bool = False) -> list[dict]:
                 },
             ]
             response = chat_with_retry(messages)
+
             import json
             import re
             result_text = response.content.strip()
@@ -546,6 +548,7 @@ def main() -> None:
     steps = args.step if args.step else None
 
     run(sources, args.limit, args.dry_run, args.verbose, steps)
+    tracker.report()
 
 
 if __name__ == "__main__":

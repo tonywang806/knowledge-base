@@ -227,3 +227,21 @@ personal_knowledgebase/
 | `TELEGRAM_BOT_TOKEN` | Telegram Bot Token | 分发时必填 |
 | `TELEGRAM_CHAT_ID` | Telegram Chat ID | 分发时必填 |
 | `FEISHU_WEBHOOK_URL` | 飞书 Webhook URL | 分发时必填 |
+
+---
+调试model_client.py
+```shell
+python3 -c "
+from pipeline.model_client import quick_chat, tracker
+
+# 做两次调用
+result1 = quick_chat('用一句话介绍 Python')
+print(f'回复 1: {result1[:80]}')
+
+result2 = quick_chat('用一句话介绍 JavaScript')
+print(f'回复 2: {result2[:80]}')
+
+# 打印成本报告
+tracker.report()
+"
+```
