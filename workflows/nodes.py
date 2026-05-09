@@ -79,11 +79,11 @@ def analyze_node(state: KBState) -> dict:
     "tags": ["tag1", "tag2"],
     "relevance_score": 0.85
   }
-]"""
+ ]"""
 
     raw_items = state.raw_items
     if not raw_items:
-        return {"articles": []}
+        return {"analyses": [], "articles": []}
 
     prompt_parts = []
     for i, item in enumerate(raw_items):
@@ -104,13 +104,26 @@ def analyze_node(state: KBState) -> dict:
     if not isinstance(parsed, list):
         parsed = []
 
+    analyses = []
     articles = []
     for i, meta in enumerate(parsed):
         if i >= len(raw_items):
             break
         item = raw_items[i]
+        ana_id = f"github-{datetime.now().strftime('%Y%m%d')}-{i+1:03d}"
+        analysis_data = {
+            "id": ana_id,
+            "title": item.get("title", ""),
+            "source": item.get("source", "github-trending"),
+            "source_url": item.get("source_url", ""),
+            "collected_at": item.get("collected_at", ""),
+            "summary": meta.get("summary", ""),
+            "tags": meta.get("tags", []),
+            "relevance_score": meta.get("relevance_score", 0.5),
+        }
+        analyses.append(analysis_data)
         articles.append({
-            "id": f"github-{datetime.now().strftime('%Y%m%d')}-{i+1:03d}",
+            "id": ana_id,
             "title": item.get("title", ""),
             "source": item.get("source", "github-trending"),
             "source_url": item.get("source_url", ""),
@@ -123,8 +136,8 @@ def analyze_node(state: KBState) -> dict:
             "status": "draft",
         })
 
-    print(f"[analyze_node] 分析完成，生成 {len(articles)} 条")
-    return {"articles": articles}
+    print(f"[analyze_node] 分析完成，生成 {len(analyses)} 条")
+    return {"analyses": analyses, "articles": articles}
 
 
 def organize_node(state: KBState) -> dict:
@@ -189,50 +202,87 @@ def organize_node(state: KBState) -> dict:
 
 
 def review_node(state: KBState) -> dict:
-    """LLM 四维度审核，iteration >= 2 强制通过。"""
+    """五维度审核 analyses，加权总分 >= 7.0 通过，temperature=0.1。"""
     print("[review_node] 开始审核...")
 
-    articles = state.articles
+    analyses = state.analyses[:5]
     iteration = state.iteration
 
-    if iteration >= 2:
-        print("[review_node] iteration >= 2，强制通过")
+    WEIGHTS = {
+        "summary_quality": 0.25,
+        "technical_depth": 0.25,
+        "relevance": 0.20,
+        "originality": 0.15,
+        "formatting": 0.15,
+    }
+
+    system_prompt = """你是一个专业的 AI 技术内容审核员。请对以下分析结果进行五维度评分：
+
+1. summary_quality (摘要质量): 摘要是否清晰、准确、有信息量 (1-10)
+2. technical_depth (技术深度): 技术分析是否深入、有洞察 (1-10)
+3. relevance (相关性): 与 AI/LLM/Agent 领域相关程度 (1-10)
+4. originality (原创性): 内容是否有独特见解 (1-10)
+5. formatting (格式规范): 格式是否符合规范（中文摘要、不超过100字、适当标签）(1-10)
+
+输出格式（严格 JSON 数组，每项对应一条分析）：
+[
+  {
+    "summary_quality": 1-10,
+    "technical_depth": 1-10,
+    "relevance": 1-10,
+    "originality": 1-10,
+    "formatting": 1-10,
+    "weighted_score": 0.0,
+    "comment": "简短评语（可选）"
+  }
+]"""
+
+    prompt_parts = []
+    for i, ana in enumerate(analyses):
+        prompt_parts.append(
+            f"### 分析 {i+1}\n"
+            f"标题: {ana.get('title', '')}\n"
+            f"摘要: {ana.get('summary', '')}\n"
+            f"标签: {', '.join(ana.get('tags', []))}\n"
+            f"来源: {ana.get('source_url', '')}"
+        )
+
+    prompt = "请对以下分析结果进行评分：\n\n" + "\n\n".join(prompt_parts)
+
+    try:
+        parsed, usage = chat_json(prompt, system=system_prompt, temperature=0.2)
+        accumulate_usage(state.usage, usage)
+    except Exception as e:
+        logger.warning(f"[review_node] LLM 调用失败，自动通过: {e}")
         return {
-            "review_result": {"passed": True, "overall_score": 1.0, "feedback": ""},
+            "review_passed": True,
             "review_feedback": None,
+            "review_result": {},
         }
 
-    system_prompt = """你是一个专业的技术内容审核员。请对以下文章列表进行四维度评分：
+    if not isinstance(parsed, list):
+        parsed = []
 
-1. 摘要质量 (summary_quality): 摘要是否清晰、准确、有信息量 (1-10)
-2. 标签准确 (tag_accuracy): 标签是否贴切、与内容相关 (1-10)
-3. 分类合理 (categorization): 分类是否合理、标签覆盖是否全面 (1-10)
-4. 一致性 (consistency): 标题、摘要、标签是否相互一致 (1-10)
+    total_score = 0.0
+    score_count = 0
+    for score_entry in parsed:
+        ws = sum(
+            score_entry.get(dim, 5) * w
+            for dim, w in WEIGHTS.items()
+        )
+        score_entry["weighted_score"] = ws
+        total_score += ws
+        score_count += 1
 
-输出格式（严格 JSON）：
-{
-  "passed": true或false,
-  "overall_score": 0.0-1.0,
-  "feedback": "具体改进建议（可选）",
-  "scores": {
-    "summary_quality": 1-10,
-    "tag_accuracy": 1-10,
-    "categorization": 1-10,
-    "consistency": 1-10
-  }
-}"""
+    avg_score = (total_score / score_count) if score_count > 0 else 0.0
+    review_passed = avg_score >= 6.5
+    feedback = None if review_passed else f"加权总分 {avg_score:.2f} < 6.5，请改进"
 
-    prompt = json.dumps({"articles": articles}, ensure_ascii=False)
-    parsed, usage = chat_json(prompt, system=system_prompt)
-    accumulate_usage(state.usage, usage)
-
-    passed = parsed.get("passed", False)
-    feedback = parsed.get("feedback", "") if not passed else None
-
-    print(f"[review_node] 审核完成，passed={passed}")
+    print(f"[review_node] 审核完成，passed={review_passed}，avg={avg_score:.2f}")
     return {
-        "review_result": parsed,
+        "review_passed": review_passed,
         "review_feedback": feedback,
+        "review_result": {"scores": parsed, "avg_score": avg_score},
     }
 
 

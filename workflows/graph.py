@@ -14,11 +14,10 @@ from workflows.state import KBState
 logger = logging.getLogger(__name__)
 
 
-def review_router(state: KBState) -> Literal["save", "organize"]:
-    passed = state.review_result.get("passed", False)
-    if passed:
+def review_router(state: KBState) -> Literal["save", "analyze"]:
+    if state.review_passed:
         return "save"
-    return "organize"
+    return "analyze"
 
 
 def build_graph() -> StateGraph:
@@ -39,7 +38,7 @@ def build_graph() -> StateGraph:
         review_router,
         {
             "save": "save",
-            "organize": "organize",
+            "analyze": "analyze",
         },
     )
 
@@ -67,14 +66,13 @@ if __name__ == "__main__":
         if node_name == "collect":
             print(f"采集条目数: {len(node_state.get('raw_items', []))}")
         elif node_name == "analyze":
-            print(f"分析条目数: {len(node_state.get('articles', []))}")
+            print(f"分析条目数: {len(node_state.get('analyses', []))}")
         elif node_name == "organize":
             print(f"整理后条目数: {len(node_state.get('articles', []))}")
         elif node_name == "review":
-            result = node_state.get("review_result", {})
-            passed = result.get("passed", False)
-            score = result.get("overall_score", 0.0)
-            print(f"审核通过: {passed}, 综合评分: {score}")
+            passed = node_state.get("review_passed", False)
+            avg = node_state.get("review_result", {}).get("avg_score", 0.0)
+            print(f"审核通过: {passed}, 平均加权分: {avg:.2f}")
         elif node_name == "save":
             saved = (node_state or {}).get("saved_ids", [])
             print(f"保存条目: {len(saved)}")
