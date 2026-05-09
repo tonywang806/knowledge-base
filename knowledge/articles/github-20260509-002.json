@@ -1,15 +1,17 @@
 {
   "id": "github-20260509-002",
-  "title": "promptfoo",
-  "source": "github-search",
-  "source_url": "https://github.com/promptfoo/promptfoo",
-  "summary": "promptfoo：Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni",
-  "tags": [
-    "ai"
-  ],
+  "title": "awesome",
+  "source": "github-trending",
+  "source_url": "https://github.com/sindresorhus/awesome",
+  "collected_at": "2026-05-09T12:01:14.973093+00:00",
+  "summary": "一个关于各种有趣主题的精彩列表集合。",
   "analysis": {
-    "relevance_score": 3
+    "relevance_score": 0.75
   },
-  "status": "review",
-  "collected_at": "2026-05-09T08:32:42.625972"
+  "tags": [
+    "资源",
+    "列表",
+    "社区"
+  ],
+  "status": "draft"
 }

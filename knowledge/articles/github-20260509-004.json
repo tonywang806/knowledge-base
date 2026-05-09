@@ -1,15 +1,17 @@
 {
   "id": "github-20260509-004",
-  "title": "zcf",
-  "source": "github-search",
-  "source_url": "https://github.com/UfoMiao/zcf",
-  "summary": "zcf：Zero-Config Code Flow for Claude code & Codex",
-  "tags": [
-    "ai"
-  ],
+  "title": "public-apis",
+  "source": "github-trending",
+  "source_url": "https://github.com/public-apis/public-apis",
+  "collected_at": "2026-05-09T12:01:14.973102+00:00",
+  "summary": "一个免费的API集合，供开发者使用。",
   "analysis": {
-    "relevance_score": 3
+    "relevance_score": 0.7
   },
-  "status": "review",
-  "collected_at": "2026-05-09T08:32:42.626116"
+  "tags": [
+    "API",
+    "开发",
+    "资源"
+  ],
+  "status": "draft"
 }

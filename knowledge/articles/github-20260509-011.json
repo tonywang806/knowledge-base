@@ -1,15 +1,17 @@
 {
   "id": "github-20260509-011",
-  "title": "openclaw-guide",
-  "source": "github-search",
-  "source_url": "https://github.com/liyupi/openclaw-guide",
-  "summary": "openclaw-guide：开源OpenClaw中文文档站，OpenClaw中文指南，支持小龙虾 AI 智能体安装部署、消息渠道接入、Agent 架构、Skills 技能配置、模型提供商、",
-  "tags": [
-    "ai"
-  ],
+  "title": "project-based-learning",
+  "source": "github-trending",
+  "source_url": "https://github.com/practical-tutorials/project-based-learning",
+  "collected_at": "2026-05-09T12:01:14.973122+00:00",
+  "summary": "策划的项目基础教程列表，帮助用户通过项目学习。",
   "analysis": {
-    "relevance_score": 3
+    "relevance_score": 0.75
   },
-  "status": "review",
-  "collected_at": "2026-05-09T08:32:42.626592"
+  "tags": [
+    "项目",
+    "学习",
+    "教程"
+  ],
+  "status": "draft"
 }

@@ -1,15 +1,17 @@
 {
   "id": "github-20260509-015",
-  "title": "animus-cli",
-  "source": "github-search",
-  "source_url": "https://github.com/launchapp-dev/animus-cli",
-  "summary": "animus-cli：Autonomous AI agent orchestrator — run multi-model dev teams (Claude, Gemini, GP",
-  "tags": [
-    "ai"
-  ],
+  "title": "javascript-algorithms",
+  "source": "github-trending",
+  "source_url": "https://github.com/trekhleb/javascript-algorithms",
+  "collected_at": "2026-05-09T12:01:14.973133+00:00",
+  "summary": "用JavaScript实现的算法和数据结构，附有解释和链接。",
   "analysis": {
-    "relevance_score": 3
+    "relevance_score": 0.75
   },
-  "status": "review",
-  "collected_at": "2026-05-09T08:32:42.626833"
+  "tags": [
+    "JavaScript",
+    "算法",
+    "学习"
+  ],
+  "status": "draft"
 }

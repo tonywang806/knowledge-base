@@ -1,15 +1,17 @@
 {
   "id": "github-20260509-008",
-  "title": "generative_ai_with_langchain",
-  "source": "github-search",
-  "source_url": "https://github.com/benman1/generative_ai_with_langchain",
-  "summary": "generative_ai_with_langchain：Build production-ready LLM applications and advanced agents using Pytho",
-  "tags": [
-    "ai"
-  ],
+  "title": "coding-interview-university",
+  "source": "github-trending",
+  "source_url": "https://github.com/jwasham/coding-interview-university",
+  "collected_at": "2026-05-09T12:01:14.973114+00:00",
+  "summary": "提供完整的计算机科学学习计划，帮助成为软件工程师。",
   "analysis": {
-    "relevance_score": 3
+    "relevance_score": 0.85
   },
-  "status": "review",
-  "collected_at": "2026-05-09T08:32:42.626406"
+  "tags": [
+    "教育",
+    "计算机科学",
+    "学习"
+  ],
+  "status": "draft"
 }

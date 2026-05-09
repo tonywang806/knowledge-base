@@ -1,15 +1,17 @@
 {
   "id": "github-20260509-016",
-  "title": "UCAI",
-  "source": "github-search",
-  "source_url": "https://github.com/nirholas/UCAI",
-  "summary": "UCAI：Universal Contract AI Interface (UCAI) 🔗 ABI to MCP | The open standard for conn",
-  "tags": [
-    "ai"
-  ],
+  "title": "tensorflow",
+  "source": "github-trending",
+  "source_url": "https://github.com/tensorflow/tensorflow",
+  "collected_at": "2026-05-09T12:01:14.973136+00:00",
+  "summary": "一个开源的机器学习框架，适合所有人使用。",
   "analysis": {
-    "relevance_score": 3
+    "relevance_score": 0.9
   },
-  "status": "review",
-  "collected_at": "2026-05-09T08:32:42.626905"
+  "tags": [
+    "机器学习",
+    "开源",
+    "框架"
+  ],
+  "status": "draft"
 }

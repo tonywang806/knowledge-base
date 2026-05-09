@@ -1,15 +1,17 @@
 {
   "id": "github-20260509-013",
-  "title": "AgentHub",
-  "source": "github-search",
-  "source_url": "https://github.com/Prism-Shadow/AgentHub",
-  "summary": "AgentHub：AgentHub is the LLM API Hub for the Agent era, built for high-precision autonomo",
-  "tags": [
-    "ai"
-  ],
+  "title": "the-book-of-secret-knowledge",
+  "source": "github-trending",
+  "source_url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+  "collected_at": "2026-05-09T12:01:14.973128+00:00",
+  "summary": "收集灵感列表、手册、备忘单等的知识书籍。",
   "analysis": {
-    "relevance_score": 3
+    "relevance_score": 0.7
   },
-  "status": "review",
-  "collected_at": "2026-05-09T08:32:42.626710"
+  "tags": [
+    "知识",
+    "资源",
+    "手册"
+  ],
+  "status": "draft"
 }

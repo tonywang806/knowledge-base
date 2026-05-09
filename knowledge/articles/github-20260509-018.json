@@ -1,15 +1,17 @@
 {
   "id": "github-20260509-018",
-  "title": "genesis-agent",
-  "source": "github-search",
-  "source_url": "https://github.com/Garrus800-stack/genesis-agent",
-  "summary": "genesis-agent：Self-aware cognitive AI agent that reads, modifies & verifies its own code. Auto",
-  "tags": [
-    "ai"
-  ],
+  "title": "n8n",
+  "source": "github-trending",
+  "source_url": "https://github.com/n8n-io/n8n",
+  "collected_at": "2026-05-09T12:01:14.973147+00:00",
+  "summary": "一个具有原生AI能力的工作流自动化平台，支持多种集成。",
   "analysis": {
-    "relevance_score": 3
+    "relevance_score": 0.85
   },
-  "status": "review",
-  "collected_at": "2026-05-09T08:32:42.627026"
+  "tags": [
+    "工作流",
+    "自动化",
+    "AI"
+  ],
+  "status": "draft"
 }

@@ -1,15 +1,17 @@
 {
   "id": "github-20260509-006",
-  "title": "griptape",
-  "source": "github-search",
-  "source_url": "https://github.com/griptape-ai/griptape",
-  "summary": "griptape：Modular Python framework for AI agents and workflows with chain-of-thought reaso",
-  "tags": [
-    "ai"
-  ],
+  "title": "developer-roadmap",
+  "source": "github-trending",
+  "source_url": "https://github.com/nilbuild/developer-roadmap",
+  "collected_at": "2026-05-09T12:01:14.973109+00:00",
+  "summary": "提供互动式的开发者成长路线图和教育内容。",
   "analysis": {
-    "relevance_score": 3
+    "relevance_score": 0.8
   },
-  "status": "review",
-  "collected_at": "2026-05-09T08:32:42.626282"
+  "tags": [
+    "职业发展",
+    "教育",
+    "开发"
+  ],
+  "status": "draft"
 }

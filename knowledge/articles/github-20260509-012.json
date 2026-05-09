@@ -1,15 +1,17 @@
 {
   "id": "github-20260509-012",
-  "title": "Stellar-Chat",
-  "source": "github-search",
-  "source_url": "https://github.com/ktutak1337/Stellar-Chat",
-  "summary": "Stellar-Chat：A versatile multi-modal chat application that enables users to develop custom ag",
-  "tags": [
-    "ai"
-  ],
+  "title": "linux",
+  "source": "github-trending",
+  "source_url": "https://github.com/torvalds/linux",
+  "collected_at": "2026-05-09T12:01:14.973125+00:00",
+  "summary": "Linux内核源代码树，供开发者使用和学习。",
   "analysis": {
-    "relevance_score": 3
+    "relevance_score": 0.8
   },
-  "status": "review",
-  "collected_at": "2026-05-09T08:32:42.626652"
+  "tags": [
+    "Linux",
+    "开源",
+    "开发"
+  ],
+  "status": "draft"
 }

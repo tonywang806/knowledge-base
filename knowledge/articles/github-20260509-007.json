@@ -1,15 +1,17 @@
 {
   "id": "github-20260509-007",
-  "title": "py-gpt",
-  "source": "github-search",
-  "source_url": "https://github.com/szczyglis-dev/py-gpt",
-  "summary": "py-gpt：Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, De",
-  "tags": [
-    "ai"
-  ],
+  "title": "system-design-primer",
+  "source": "github-trending",
+  "source_url": "https://github.com/donnemartin/system-design-primer",
+  "collected_at": "2026-05-09T12:01:14.973111+00:00",
+  "summary": "帮助用户学习如何设计大型系统，适合系统设计面试准备。",
   "analysis": {
-    "relevance_score": 3
+    "relevance_score": 0.75
   },
-  "status": "review",
-  "collected_at": "2026-05-09T08:32:42.626345"
+  "tags": [
+    "系统设计",
+    "面试",
+    "学习"
+  ],
+  "status": "draft"
 }

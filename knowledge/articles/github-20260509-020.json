@@ -1,15 +1,17 @@
 {
   "id": "github-20260509-020",
-  "title": "ShampooSalesAgent",
-  "source": "github-search",
-  "source_url": "https://github.com/jackfsuia/ShampooSalesAgent",
-  "summary": "ShampooSalesAgent：A minimal LLM sales agent framework for sales agent fast deployment and benchmar",
-  "tags": [
-    "ai"
-  ],
+  "title": "superpowers",
+  "source": "github-trending",
+  "source_url": "https://github.com/obra/superpowers",
+  "collected_at": "2026-05-09T12:01:14.973153+00:00",
+  "summary": "一个有效的技能框架和软件开发方法论。",
   "analysis": {
-    "relevance_score": 3
+    "relevance_score": 0.65
   },
-  "status": "review",
-  "collected_at": "2026-05-09T08:32:42.627148"
+  "tags": [
+    "开发",
+    "方法论",
+    "技能"
+  ],
+  "status": "draft"
 }

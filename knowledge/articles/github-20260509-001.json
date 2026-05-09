@@ -1,15 +1,17 @@
 {
   "id": "github-20260509-001",
-  "title": "FastGPT",
-  "source": "github-search",
-  "source_url": "https://github.com/labring/FastGPT",
-  "summary": "FastGPT：FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive ",
-  "tags": [
-    "ai"
-  ],
+  "title": "build-your-own-x",
+  "source": "github-trending",
+  "source_url": "https://github.com/codecrafters-io/build-your-own-x",
+  "collected_at": "2026-05-09T12:01:14.973070+00:00",
+  "summary": "该项目通过从零开始重建技术，帮助用户掌握编程技能。",
   "analysis": {
-    "relevance_score": 3
+    "relevance_score": 0.8
   },
-  "status": "review",
-  "collected_at": "2026-05-09T08:32:42.625874"
+  "tags": [
+    "编程",
+    "学习",
+    "技术"
+  ],
+  "status": "draft"
 }
