@@ -1,0 +1,18 @@
+{
+  "id": "ee0d22af-9839-45cc-bd2d-e9bc078bf43b",
+  "title": "Dirty Frag: Universal Linux LPE",
+  "source": "rss-lobsters",
+  "source_url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+  "summary": "本文介绍名为“Dirty Frag”的通用Linux本地提权（LPE）漏洞利用技术。该方法可跨多数Linux发行版与内核版本实现权限提升，对系统安全构成广泛威胁，需及时更新内核并关注补丁。",
+  "tags": [
+    "Linux安全",
+    "本地提权(LPE)",
+    "漏洞利用",
+    "内核漏洞"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "reviewed",
+  "collected_at": "2026-05-09T14:54:18.717700"
+}

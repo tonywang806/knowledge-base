@@ -1,0 +1,18 @@
+{
+  "id": "4d87c0ea-3dc4-4624-9168-7da2dc2745ee",
+  "title": "openclaw-guide",
+  "source": "github-search",
+  "source_url": "https://github.com/liyupi/openclaw-guide",
+  "summary": "OpenClaw开源中文文档站详解智能体部署、渠道接入与技能配置，支持20+平台及30+大模型。提供Docker/多端部署指南与运维指南，术语规范持续更新，助力中文用户零门槛搭建开源自托管AI助手。",
+  "tags": [
+    "OpenClaw",
+    "AI智能体",
+    "开源文档",
+    "部署指南"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "reviewed",
+  "collected_at": "2026-05-09T14:54:17.343869"
+}

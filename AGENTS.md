@@ -60,7 +60,7 @@ personal_knowledgebase/
 
 ```json
 {
-  "id": "2026-03-01-github-openclaw",
+  "id": "github-20260301-001",
   "title": "OpenClaw: 开源 AI Agent 运行时",
   "source": "github-trending",
   "source_url": "https://github.com/example/project",

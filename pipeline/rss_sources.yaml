@@ -1,0 +1,60 @@
+# RSS 数据源配置
+# 用于知识库内容采集
+
+sources:
+  # 综合技术
+  - name: "Hacker News"
+    url: "https://news.ycombinator.com/rss"
+    category: "综合技术"
+    enabled: true
+
+  - name: "Lobsters"
+    url: "https://lobste.rs/rss"
+    category: "综合技术"
+    enabled: true
+
+  # AI 研究
+  - name: "arXiv cs.AI"
+    url: "http://export.arxiv.org/rss/cs.AI"
+    category: "AI 研究"
+    enabled: false  # 量太大，默认关闭
+
+  # 公司博客
+  - name: "OpenAI Blog"
+    url: "https://openai.com/news/rss"
+    category: "公司博客"
+    enabled: true
+
+  # AI 研究
+  - name: "Reddit r/MachineLearning"
+    url: "https://www.reddit.com/r/MachineLearning/hot.rss"
+    category: "AI 研究"
+    enabled: true
+
+  - name: "Reddit r/LocalLLaMA"
+    url: "https://www.reddit.com/r/LocalLLaMA/hot.rss"
+    category: "AI 研究"
+    enabled: true
+
+  # 公司博客
+  - name: "Google AI Blog"
+    url: "https://blog.google/technology/ai/rss/"
+    category: "公司博客"
+    enabled: true
+
+  # 新闻
+  - name: "The Verge AI"
+    url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+    category: "新闻"
+    enabled: true
+
+  # 中文社区
+  - name: "量子位"
+    url: "https://www.qbitai.com/feed"
+    category: "中文社区"
+    enabled: false  # 需确认 RSS 可用性，默认关闭
+
+  - name: "机器之心"
+    url: "https://www.jiqizhixin.com"
+    category: "中文社区"
+    enabled: false  # RSS 不可用，默认关闭

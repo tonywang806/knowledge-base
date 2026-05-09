@@ -1,0 +1,18 @@
+{
+  "id": "80f04bc2-8647-4cba-adbc-ddffa3a77fc4",
+  "title": "ask",
+  "source": "github-search",
+  "source_url": "https://github.com/elias-ba/ask",
+  "summary": "ask是一款面向终端开发者的AI命令行工具，支持多厂商LLM接入、智能体协作与终端原生交互，旨在将大模型能力深度融入命令行工作流以提升开发效率。",
+  "tags": [
+    "AI命令行工具",
+    "多模型集成",
+    "终端自动化",
+    "开发者工具"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "reviewed",
+  "collected_at": "2026-05-09T14:54:17.343940"
+}

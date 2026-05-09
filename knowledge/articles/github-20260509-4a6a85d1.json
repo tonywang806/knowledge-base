@@ -1,0 +1,18 @@
+{
+  "id": "4a6a85d1-2a1a-44bb-a566-2149f35e4b0f",
+  "title": "py-gpt",
+  "source": "github-search",
+  "source_url": "https://github.com/szczyglis-dev/py-gpt",
+  "summary": "py-gpt是一款跨平台桌面AI助手，集成GPT、Claude、Gemini等主流模型及Ollama本地部署。支持多模态交互、RAG检索、语音/图像生成、智能体插件、记忆与搜索等全栈功能，兼容Linux/Windows/macOS。",
+  "tags": [
+    "桌面AI助手",
+    "多模型集成",
+    "跨平台",
+    "智能体与插件"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "reviewed",
+  "collected_at": "2026-05-09T14:54:17.343764"
+}

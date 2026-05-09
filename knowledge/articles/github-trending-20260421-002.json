@@ -1,0 +1,22 @@
+{
+  "id": "github-trending-20260421-002",
+  "title": "DeepSeek-R1: 开源推理模型",
+  "source": "github-trending",
+  "source_url": "https://github.com/DeepSeek-AI/DeepSeek-R1",
+  "summary": "开源推理模型，验证思维链能力，可能是最接近 o1 的开源模型",
+  "analysis": {
+    "tech_highlights": [
+      "开源权重",
+      "思维链推理",
+      "高性能"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "status": "draft",
+  "collected_at": "2026-04-21T10:00:00Z",
+  "updated_at": "2026-04-21T10:30:00Z"
+}
