@@ -377,7 +377,7 @@ def step_organize(items: list[dict], dry_run: bool = False) -> list[dict]:
         if url:
             seen_urls.add(url)
 
-        item["status"] = "reviewed"
+        item["status"] = "review"
 
         if dry_run:
             logger.info(f"[DRY RUN] Organize: {title[:50]}")
@@ -402,10 +402,13 @@ def step_save(items: list[dict], dry_run: bool = False) -> int:
     """
     logger.info(f"=== Step 4: Save ({len(items)} items, dry={dry_run}) ===")
 
+    timestamp = datetime.now().strftime("%Y%m%d")
     count = 0
-    for item in items:
-        timestamp = datetime.now().strftime("%Y%m%d")
-        filename = f"{item['source'].split('-')[0]}-{timestamp}-{item['id'][:8]}.json"
+    for idx, item in enumerate(items, start=1):
+        source_prefix = item.get("source", "unknown").split("-")[0]
+        new_id = f"{source_prefix}-{timestamp}-{idx:03d}"
+        item["id"] = new_id
+        filename = f"{new_id}.json"
         filepath = ARTICLES_DIR / filename
 
         if dry_run:
