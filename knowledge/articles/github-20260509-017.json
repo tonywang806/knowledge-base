@@ -3,15 +3,15 @@
   "title": "claw-code",
   "source": "github-trending",
   "source_url": "https://github.com/ultraworkers/claw-code",
-  "collected_at": "2026-05-09T12:01:14.973143+00:00",
-  "summary": "一个快速的代码库，旨在提供高效的开发体验。",
+  "collected_at": "2026-05-09T12:36:06.924906+00:00",
+  "summary": "快速的代码库，支持Discord社区。",
   "analysis": {
-    "relevance_score": 0.6
+    "relevance_score": 0.7
   },
   "tags": [
-    "开发",
-    "高效",
-    "代码"
+    "快速开发",
+    "社区",
+    "代码库"
   ],
   "status": "draft"
 }

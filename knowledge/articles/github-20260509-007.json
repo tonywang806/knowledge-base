@@ -3,15 +3,15 @@
   "title": "system-design-primer",
   "source": "github-trending",
   "source_url": "https://github.com/donnemartin/system-design-primer",
-  "collected_at": "2026-05-09T12:01:14.973111+00:00",
-  "summary": "帮助用户学习如何设计大型系统，适合系统设计面试准备。",
+  "collected_at": "2026-05-09T12:36:06.924865+00:00",
+  "summary": "学习如何设计大规模系统，准备系统设计面试。",
   "analysis": {
-    "relevance_score": 0.75
+    "relevance_score": 0.84
   },
   "tags": [
     "系统设计",
-    "面试",
-    "学习"
+    "面试准备",
+    "教育"
   ],
   "status": "draft"
 }

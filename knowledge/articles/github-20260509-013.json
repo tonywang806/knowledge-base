@@ -3,14 +3,14 @@
   "title": "the-book-of-secret-knowledge",
   "source": "github-trending",
   "source_url": "https://github.com/trimstray/the-book-of-secret-knowledge",
-  "collected_at": "2026-05-09T12:01:14.973128+00:00",
-  "summary": "收集灵感列表、手册、备忘单等的知识书籍。",
+  "collected_at": "2026-05-09T12:36:06.924887+00:00",
+  "summary": "灵感列表、手册、备忘单等的集合。",
   "analysis": {
-    "relevance_score": 0.7
+    "relevance_score": 0.74
   },
   "tags": [
-    "知识",
     "资源",
+    "灵感",
     "手册"
   ],
   "status": "draft"

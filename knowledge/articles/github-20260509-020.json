@@ -3,15 +3,15 @@
   "title": "superpowers",
   "source": "github-trending",
   "source_url": "https://github.com/obra/superpowers",
-  "collected_at": "2026-05-09T12:01:14.973153+00:00",
+  "collected_at": "2026-05-09T12:36:06.924916+00:00",
   "summary": "一个有效的技能框架和软件开发方法论。",
   "analysis": {
-    "relevance_score": 0.65
+    "relevance_score": 0.72
   },
   "tags": [
-    "开发",
-    "方法论",
-    "技能"
+    "技能框架",
+    "开发方法",
+    "软件开发"
   ],
   "status": "draft"
 }
