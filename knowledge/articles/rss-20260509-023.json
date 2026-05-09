@@ -1,9 +1,9 @@
 {
   "id": "rss-20260509-023",
-  "title": "OpenAI’s WebRTC problem",
+  "title": "Using Claude Code: The unreasonable effectiveness of HTML",
   "source": "rss-hacker-news",
-  "source_url": "https://moq.dev/blog/webrtc-is-the-problem/",
-  "summary": "OpenAI’s WebRTC problem：Comments]]>",
+  "source_url": "https://twitter.com/trq212/status/2052809885763747935",
+  "summary": "Using Claude Code: The unreasonable effectiveness of HTML：Comments]]>",
   "tags": [
     "ai"
   ],
@@ -11,5 +11,5 @@
     "relevance_score": 3
   },
   "status": "review",
-  "collected_at": "2026-05-09T07:41:57.621801"
+  "collected_at": "2026-05-09T08:32:42.962233"
 }

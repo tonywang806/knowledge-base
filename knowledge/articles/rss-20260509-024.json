@@ -1,9 +1,9 @@
 {
   "id": "rss-20260509-024",
-  "title": "Mythos &#x27;Discovered&#x27; a CVE in Its Training Data and That&#x27;s Still Worrying",
+  "title": "OpenAI’s WebRTC problem",
   "source": "rss-hacker-news",
-  "source_url": "https://rival.security/posts/mythos-discovered-a-cve-already-in-its-training-data---and-thats-still-worrying",
-  "summary": "Mythos &#x27;Discovered&#x27; a CVE in Its Training Data and That&#x27;s Still Worrying：Comments]]>",
+  "source_url": "https://moq.dev/blog/webrtc-is-the-problem/",
+  "summary": "OpenAI’s WebRTC problem：Comments]]>",
   "tags": [
     "ai"
   ],
@@ -11,5 +11,5 @@
     "relevance_score": 3
   },
   "status": "review",
-  "collected_at": "2026-05-09T07:41:57.621860"
+  "collected_at": "2026-05-09T08:32:42.962320"
 }
