@@ -3,10 +3,10 @@
   "title": "tensorflow",
   "source": "github-trending",
   "source_url": "https://github.com/tensorflow/tensorflow",
-  "collected_at": "2026-05-09T12:36:06.924901+00:00",
+  "collected_at": "2026-05-09T14:46:35.390705+00:00",
   "summary": "一个开源机器学习框架，适合所有人使用。",
   "analysis": {
-    "relevance_score": 0.91
+    "relevance_score": 0.87
   },
   "tags": [
     "机器学习",

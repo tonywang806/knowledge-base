@@ -5,6 +5,7 @@ from pathlib import Path
 import requests
 
 from config import TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, FEISHU_WEBHOOK_URL, ARTICLES_DIR
+from tests.security import filter_output
 from utils.logger import get_logger
 from utils.storage import load_json, read_pending_items, save_json, update_item_status, list_files
 
@@ -177,14 +178,27 @@ def run(platform: str = "telegram") -> list[dict]:
         return []
 
     organized = []
+    total_pii = 0
     for item in items:
         organized_item = organize_article(item)
+
+        for field in ("summary", "content", "title"):
+            if field in organized_item and isinstance(organized_item[field], str):
+                filtered, detections = filter_output(organized_item[field], mask=True)
+                organized_item[field] = filtered
+                total_pii += len(detections)
+                if detections:
+                    logger.warning(f"[Security] {organized_item.get('id', '?')} {field} 掩码 PII：{detections}")
+
         organized.append(organized_item)
 
         if platform:
             distribute_article(organized_item, platform)
         else:
             save_json(organized_item, ARTICLES_DIR)
+
+    if total_pii > 0:
+        logger.warning(f"[Security] organize 阶段共掩码 {total_pii} 处 PII")
 
     logger.info(f"Organized {len(organized)} articles")
     return organized

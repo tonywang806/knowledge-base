@@ -3,6 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 
 from config import RAW_DIR
+from tests.security import sanitize_input
 from utils.logger import get_logger
 from utils.storage import generate_id, get_timestamp, save_json
 
@@ -173,8 +174,23 @@ def run(source: str = "github,hn", limit: int = 10) -> list[dict]:
     if "hn" in sources or "all" in sources:
         all_items.extend(collect_hn(limit))
 
-    logger.info(f"Total collected: {len(all_items)} items")
-    return all_items
+    total_warnings = 0
+    cleaned_items = []
+    for item in all_items:
+        for field in ("title", "description"):
+            if field in item and isinstance(item[field], str):
+                cleaned, warnings = sanitize_input(item[field])
+                item[field] = cleaned
+                total_warnings += len(warnings)
+                if warnings:
+                    logger.warning(f"[Security] {item.get('url', '?')} {field} 检出注入模式：{warnings}")
+        cleaned_items.append(item)
+
+    if total_warnings > 0:
+        logger.warning(f"[Security] collect 阶段共拦截 {total_warnings} 处可疑输入")
+
+    logger.info(f"Total collected: {len(cleaned_items)} items")
+    return cleaned_items
 
 
 if __name__ == "__main__":

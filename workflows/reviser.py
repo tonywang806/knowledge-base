@@ -8,9 +8,9 @@ from workflows.state import KBState
 
 def human_flag_node(state: KBState) -> dict:
     """审核循环超过上限时的兜底 —— 写入 pending_review/ 目录"""
-    analyses = state.analyses
-    iteration = state.iteration
-    feedback = state.review_feedback or ""
+    analyses = state["analyses"]
+    iteration = state["iteration"]
+    feedback = state["review_feedback"] or ""
 
     print(f"[HumanFlag] 达到 {iteration} 次审核仍未通过")
     print(f"[HumanFlag] 最后反馈: {feedback[:200]}")
