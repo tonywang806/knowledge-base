@@ -10,7 +10,7 @@ from .model_client import accumulate_usage, chat, chat_json
 from .state import KBState
 
 logger = logging.getLogger(__name__)
-
+REVIEWER_PASS_THRESHOLD=7.0
 
 def collect_node(state: KBState) -> dict:
     """采集 GitHub AI 相关仓库。"""
@@ -275,8 +275,8 @@ def review_node(state: KBState) -> dict:
         score_count += 1
 
     avg_score = (total_score / score_count) if score_count > 0 else 0.0
-    review_passed = avg_score >= 6.5
-    feedback = None if review_passed else f"加权总分 {avg_score:.2f} < 6.5，请改进"
+    review_passed = avg_score >= REVIEWER_PASS_THRESHOLD
+    feedback = None if review_passed else f"加权总分 {avg_score:.2f} < {REVIEWER_PASS_THRESHOLD}，请改进"
 
     print(f"[review_node] 审核完成，passed={review_passed}，avg={avg_score:.2f}")
     return {
@@ -284,6 +284,66 @@ def review_node(state: KBState) -> dict:
         "review_feedback": feedback,
         "review_result": {"scores": parsed, "avg_score": avg_score},
     }
+
+
+def revise_node(state: KBState) -> dict:
+    """根据审核反馈修改 analyses。"""
+    analyses = state.analyses
+    feedback = state.review_feedback
+
+    if not analyses or not feedback:
+        print("[revise_node] 无 analyses 或 feedback，跳过")
+        return {}
+
+    print("[revise_node] 开始修改...")
+
+    system_prompt = """你是一个严谨的技术编辑。请根据审核反馈，修改分析结果。
+
+要求：
+1. 修正摘要（更清晰、更准确）
+2. 调整标签（更贴切）
+3. 如有必要修正 relevance_score
+4. 保持 JSON 输出格式
+
+输出格式（JSON 数组，每项包含 id, summary, tags, relevance_score）：
+[
+  {
+    "id": "原 ID",
+    "summary": "修正后的摘要",
+    "tags": ["修正后的标签"],
+    "relevance_score": 修正后的评分
+  }
+ ]"""
+
+    input_data = {
+        "feedback": feedback,
+        "analyses": analyses,
+    }
+    prompt = json.dumps(input_data, ensure_ascii=False)
+
+    parsed, usage = chat_json(prompt, system=system_prompt, temperature=0.4)
+    accumulate_usage(state.usage, usage)
+
+    if not isinstance(parsed, list):
+        parsed = []
+
+    meta_map = {m["id"]: m for m in parsed}
+    improved = []
+    for item in analyses:
+        mid = item.get("id", "")
+        if mid in meta_map:
+            m = meta_map[mid]
+            improved.append({
+                **item,
+                "summary": m.get("summary", item.get("summary", "")),
+                "tags": m.get("tags", item.get("tags", [])),
+                "relevance_score": m.get("relevance_score", item.get("relevance_score", 0.5)),
+            })
+        else:
+            improved.append(item)
+
+    print(f"[revise_node] 修改完成，{len(improved)} 条")
+    return {"analyses": improved, "iteration": state.iteration + 1}
 
 
 def save_node(state: KBState) -> dict:
