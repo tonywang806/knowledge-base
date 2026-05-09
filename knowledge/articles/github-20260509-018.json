@@ -1,0 +1,15 @@
+{
+  "id": "github-20260509-018",
+  "title": "genesis-agent",
+  "source": "github-search",
+  "source_url": "https://github.com/Garrus800-stack/genesis-agent",
+  "summary": "genesis-agent：Self-aware cognitive AI agent that reads, modifies & verifies its own code. Auto",
+  "tags": [
+    "ai"
+  ],
+  "analysis": {
+    "relevance_score": 3
+  },
+  "status": "review",
+  "collected_at": "2026-05-09T07:41:57.470808"
+}

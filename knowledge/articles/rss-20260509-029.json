@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260509-029",
+  "title": "blaise: A modern, self-hosting Object Pascal compiler built for the 2020s. Zero legacy, full ARC, and unified UTF-8",
+  "source": "rss-lobsters",
+  "source_url": "https://github.com/graemeg/blaise",
+  "summary": "blaise: A modern, self-hosting Object Pascal compiler built for the 2020s. Zero legacy, full ARC, an",
+  "tags": [
+    "ai"
+  ],
+  "analysis": {
+    "relevance_score": 3
+  },
+  "status": "review",
+  "collected_at": "2026-05-09T07:41:58.015164"
+}
