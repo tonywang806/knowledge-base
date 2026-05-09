@@ -17,6 +17,55 @@ cp config/.env.example config/.env
 
 项目提供两种运行方式：
 
+### V3 — Pipeline 自动化流水线
+
+四步自动化流水线：**采集 → 分析 → 整理 → 保存**，一键运行。
+
+```bash
+# 完整流水线（GitHub + RSS，limit 20）
+python pipeline/pipeline.py --sources github,rss --limit 20
+
+# 只采集 GitHub
+python pipeline/pipeline.py --sources github --limit 5
+
+# 只采集 RSS
+python pipeline/pipeline.py --sources rss --limit 10
+
+# 干跑模式（不发 HTTP，不写文件，用于验证流程）
+python pipeline/pipeline.py --sources github,rss --limit 5 --dry-run
+
+# 详细日志（DEBUG 级）
+python pipeline/pipeline.py --verbose
+```
+
+**参数说明：**
+
+| 参数 | 说明 | 默认值 |
+|------|------|--------|
+| `--sources` | 数据源，逗号分隔 | `github,rss` |
+| `--limit` | 每个源最大采集条数 | `10` |
+| `--dry-run` | 干跑模式 | `False` |
+| `--verbose` | 详细日志 | `False` |
+
+**流水线步骤：**
+
+1. **Collect** — 从 GitHub Search API（AI 关键词搜索）和 RSS 源抓取内容，过滤 AI 相关项
+2. **Analyze** — 调用 LLM 生成中文摘要、标签、相关性评分
+3. **Organize** — URL 去重 + status 标记为 `reviewed`
+4. **Save** — JSON 保存到 `knowledge/articles/`
+
+**数据流：**
+
+```
+GitHub API / RSS 源
+    ↓
+knowledge/raw/     (原始采集数据)
+    ↓
+LLM 分析 + 整理
+    ↓
+knowledge/articles/  (结构化文章 JSON)
+```
+
 ### V1 — Python 脚本版
 
 通过 `uv run python` 直接运行各模块，适合开发调试和 CI 集成。
@@ -139,6 +188,10 @@ personal_knowledgebase/
 ├── knowledge/
 │   ├── raw/             # 采集原始数据
 │   └── articles/        # 分析后的结构化文章
+├── pipeline/            # V3: 自动化流水线
+│   ├── pipeline.py      # CLI 主入口（四步流水线）
+│   ├── model_client.py  # LLM 调用封装
+│   └── rss_sources.yaml # RSS 源配置
 ├── src/
 │   ├── agents/          # V1: Python Agent 实现
 │   │   ├── collector.py
@@ -168,6 +221,9 @@ personal_knowledgebase/
 | `OPENAI_API_KEY` | LLM API Key | 是 |
 | `OPENAI_BASE_URL` | LLM API 地址（默认 OpenAI） | 否 |
 | `OPENAI_MODEL` | 模型名称（默认 gpt-4o-mini） | 否 |
+| `LLM_PROVIDER` | 模型提供商：`ollama`（默认）、`deepseek`、`qwen`、`openai` | 否 |
+| `OLLAMA_BASE_URL` | Ollama 地址（默认 `http://localhost:11434`） | 否 |
+| `OLLAMA_MODEL` | Ollama 模型名（默认 `qwen3.6:latest`） | 否 |
 | `TELEGRAM_BOT_TOKEN` | Telegram Bot Token | 分发时必填 |
 | `TELEGRAM_CHAT_ID` | Telegram Chat ID | 分发时必填 |
 | `FEISHU_WEBHOOK_URL` | 飞书 Webhook URL | 分发时必填 |

@@ -1,0 +1,17 @@
+{
+  "id": "378031e2-d3cc-4f7d-87b1-f1841e35265a",
+  "title": "Teaching Claude Why",
+  "source": "rss-hacker-news",
+  "source_url": "https://www.anthropic.com/research/teaching-claude-why",
+  "summary": "内容仅为片段标题，疑似探讨向Claude大模型解释原因或优化提示词，但缺乏正文与具体技术细节，无法评估实际价值。",
+  "tags": [
+    "Claude",
+    "提示词工程",
+    "AI模型解析"
+  ],
+  "analysis": {
+    "relevance_score": 3
+  },
+  "status": "reviewed",
+  "collected_at": "2026-05-09T14:54:17.916427"
+}

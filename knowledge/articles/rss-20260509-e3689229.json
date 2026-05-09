@@ -1,0 +1,18 @@
+{
+  "id": "e3689229-76a0-4763-8159-7611488fe569",
+  "title": "Can LLMs model real-world systems in TLA+?",
+  "source": "rss-hacker-news",
+  "source_url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
+  "summary": "探讨大语言模型能否利用TLA+形式化语言对现实世界系统进行准确建模与验证，分析其在分布式系统设计中的潜力、局限及工程应用前景。",
+  "tags": [
+    "大语言模型",
+    "TLA+",
+    "形式化验证",
+    "AI辅助建模"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "reviewed",
+  "collected_at": "2026-05-09T14:54:17.916339"
+}

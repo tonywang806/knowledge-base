@@ -1,0 +1,18 @@
+{
+  "id": "a67f565a-7ea5-4ee9-9b68-801563e6cb90",
+  "title": "aide",
+  "source": "github-search",
+  "source_url": "https://github.com/nicepkg/aide",
+  "summary": "介绍VSCode AI插件AIDE，集成一键注释、代码转换、UI生成代码及批量文件处理功能，致力于提升开发者编码效率与自动化水平。",
+  "tags": [
+    "VSCode插件",
+    "AI编程",
+    "代码效率",
+    "UI转代码"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "reviewed",
+  "collected_at": "2026-05-09T14:54:17.343713"
+}

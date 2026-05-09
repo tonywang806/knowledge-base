@@ -1,0 +1,18 @@
+{
+  "id": "1e6be26f-9958-4a93-beec-99d672817127",
+  "title": "All means are fair except solving the problem",
+  "source": "rss-hacker-news",
+  "source_url": "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html",
+  "summary": "该片段仅为一句反讽评论，批评了工程实践中回避根因、盲目追求捷径的倾向。缺乏具体技术细节与深度分析，参考价值有限。",
+  "tags": [
+    "软件工程",
+    "研发文化",
+    "根因分析",
+    "技术管理"
+  ],
+  "analysis": {
+    "relevance_score": 3
+  },
+  "status": "reviewed",
+  "collected_at": "2026-05-09T14:54:17.916470"
+}

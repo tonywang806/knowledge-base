@@ -1,0 +1,18 @@
+{
+  "id": "346104c9-f0f2-4579-868b-e244db27da1d",
+  "title": "ShampooSalesAgent",
+  "source": "github-search",
+  "source_url": "https://github.com/jackfsuia/ShampooSalesAgent",
+  "summary": "ShampooSalesAgent是一个轻量级LLM销售智能体框架，支持快速部署与基准测试。兼容OpenAI、通义千问、文心一言等主流国内外大模型，为AI销售场景提供低门槛高效解决方案。",
+  "tags": [
+    "AI销售智能体",
+    "大模型应用",
+    "快速部署",
+    "轻量级框架"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "reviewed",
+  "collected_at": "2026-05-09T14:54:17.344085"
+}

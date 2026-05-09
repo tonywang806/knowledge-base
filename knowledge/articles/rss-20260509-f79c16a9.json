@@ -1,0 +1,19 @@
+{
+  "id": "f79c16a9-3855-4eaa-98e0-75ba462a85dc",
+  "title": "OpenAI&#x27;s WebRTC problem",
+  "source": "rss-hacker-news",
+  "source_url": "https://moq.dev/blog/webrtc-is-the-problem/",
+  "summary": "探讨OpenAI相关服务中遇到的WebRTC技术难题，涉及实时音视频通信与AI集成的兼容性及工程实现挑战。",
+  "tags": [
+    "OpenAI",
+    "WebRTC",
+    "实时通信",
+    "AI集成",
+    "技术故障"
+  ],
+  "analysis": {
+    "relevance_score": 6
+  },
+  "status": "reviewed",
+  "collected_at": "2026-05-09T14:54:17.916202"
+}
