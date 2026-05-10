@@ -53,6 +53,10 @@ def _save_articles(articles):
             "source_url": item.get("source_url", ""),
             "status": item.get("status", "draft"),
             "updated_at": datetime.now(timezone.utc).isoformat(),
+            "relevance_score": item.get("analysis", {}).get("relevance_score", 0.5),
+            "tags": item.get("tags", []),
+            "category": item.get("category", ""),
+            "summary": item.get("summary", ""),
         }
         saved.append(aid)
 
