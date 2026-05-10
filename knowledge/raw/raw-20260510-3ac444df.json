@@ -1,0 +1,12 @@
+{
+  "id": "3ac444df-88d3-4893-8966-f2cfb02c15ca",
+  "source": "github-search",
+  "title": "genesis-agent",
+  "url": "https://github.com/Garrus800-stack/genesis-agent",
+  "description": "Self-aware cognitive AI agent that reads, modifies & verifies its own code. Autonomous planning, episodic memory, emotional state & MCP integration. Runs on Claude, GPT-4 or Ollama. Electron desktop app for Windows, macOS & Linux.",
+  "stars": "24",
+  "language": "JavaScript",
+  "raw_content": "genesis-agent\nSelf-aware cognitive AI agent that reads, modifies & verifies its own code. Autonomous planning, episodic memory, emotional state & MCP integration. Runs on Claude, GPT-4 or Ollama. Electron desktop app for Windows, macOS & Linux.",
+  "status": "pending",
+  "collected_at": "2026-05-10T23:32:57.961709"
+}
