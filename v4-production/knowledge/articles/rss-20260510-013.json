@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260510-013",
+  "title": "AI is Breaking Two Vulnerability Cultures",
+  "source": "rss-lobsters",
+  "source_url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+  "summary": "文章探讨人工智能技术如何打破传统安全团队与新兴自动化漏洞管理之间的文化壁垒，推动漏洞检测与响应向智能化演进，重塑现代软件安全防御体系。",
+  "tags": [
+    "AI安全",
+    "漏洞管理",
+    "安全文化",
+    "自动化防御"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-10T19:22:17.886073"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260510-012",
+  "title": "WebRTC is the Problem",
+  "source": "rss-lobsters",
+  "source_url": "https://moq.dev/blog/webrtc-is-the-problem/",
+  "summary": "原文指出该文章虽以OpenAI为题，但实际重点在于WebRTC驱动的实时音频传输方案。作者通过修改URL后缀来更精准地对应核心技术主题。",
+  "tags": [
+    "WebRTC",
+    "实时音频传输",
+    "OpenAI",
+    "URL路径"
+  ],
+  "analysis": {
+    "relevance_score": 5
+  },
+  "status": "review",
+  "collected_at": "2026-05-10T19:22:17.885913"
+}

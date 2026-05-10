@@ -3,15 +3,15 @@
   "title": "claw-code",
   "source": "github-trending",
   "source_url": "https://github.com/ultraworkers/claw-code",
-  "collected_at": "2026-05-10T09:33:59.441397+00:00",
-  "summary": "一个快速的代码库，使用Rust构建，支持Discord社区。",
+  "collected_at": "2026-05-10T10:20:39.918461+00:00",
+  "summary": "一个快速的代码库，旨在超越100K星标，使用Rust构建。",
   "analysis": {
     "relevance_score": 0.7
   },
   "tags": [
     "Rust",
-    "社区",
-    "开发"
+    "开源",
+    "代码"
   ],
   "status": "draft"
 }

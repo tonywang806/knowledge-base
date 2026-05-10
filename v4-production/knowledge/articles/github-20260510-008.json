@@ -1,17 +1,18 @@
 {
   "id": "github-20260510-008",
-  "title": "coding-interview-university",
-  "source": "github-trending",
-  "source_url": "https://github.com/jwasham/coding-interview-university",
-  "collected_at": "2026-05-10T09:33:59.441368+00:00",
-  "summary": "提供完整的计算机科学学习计划，帮助成为软件工程师。",
-  "analysis": {
-    "relevance_score": 0.87
-  },
+  "title": "generative_ai_with_langchain",
+  "source": "github-search",
+  "source_url": "https://github.com/benman1/generative_ai_with_langchain",
+  "summary": "该仓库是LangChain生成式AI书籍的配套代码库，提供使用Python、LangChain和LangGraph构建生产级大语言模型应用与高级智能体的完整示例与实现指南。",
   "tags": [
-    "学习",
-    "计算机科学",
-    "教育"
+    "LangChain",
+    "生成式AI",
+    "大语言模型",
+    "LangGraph"
   ],
-  "status": "draft"
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-10T19:22:16.705036"
 }

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260510-014",
+  "title": "Chrome’s AI features may be hogging 4GB of your computer storage",
+  "source": "rss-lobsters",
+  "source_url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+  "summary": "Chrome浏览器的AI功能可能占用高达4GB的电脑存储空间，建议用户定期检查并清理相关缓存，以防磁盘空间不足影响正常使用。",
+  "tags": [
+    "Chrome",
+    "AI功能",
+    "存储空间",
+    "电脑优化"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-05-10T19:22:17.886120"
+}

@@ -1,17 +1,18 @@
 {
   "id": "github-20260510-003",
-  "title": "freeCodeCamp",
-  "source": "github-trending",
-  "source_url": "https://github.com/freeCodeCamp/freeCodeCamp",
-  "collected_at": "2026-05-10T09:33:59.441350+00:00",
-  "summary": "提供免费的数学、编程和计算机科学学习资源的开源代码库。",
-  "analysis": {
-    "relevance_score": 0.85
-  },
+  "title": "ai-guide",
+  "source": "github-search",
+  "source_url": "https://github.com/liyupi/ai-guide",
+  "summary": "该项目是程序员鱼皮开源的AI资源导航站，全面涵盖大模型教程、Prompt提示词、主流AI工具与框架使用指南及变现策略，助力开发者高效掌握前沿AI技术。",
   "tags": [
-    "教育",
-    "编程",
-    "开源"
+    "AI资源",
+    "大模型教程",
+    "AI编程工具",
+    "开发者导航"
   ],
-  "status": "draft"
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-10T19:22:16.704916"
 }

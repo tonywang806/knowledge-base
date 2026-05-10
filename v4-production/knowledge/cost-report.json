@@ -1,34 +1,25 @@
 {
-  "total_cost": 0.010924,
+  "total_cost": 0.004536,
   "budget": 1.0,
-  "usage_ratio": 0.010924,
-  "total_calls": 4,
-  "total_prompt_tokens": 4792,
-  "total_completion_tokens": 3066,
+  "usage_ratio": 0.004536,
+  "total_calls": 2,
+  "total_prompt_tokens": 1798,
+  "total_completion_tokens": 1369,
   "by_node": {
     "analyze": {
       "call_count": 1,
       "prompt_tokens": 1273,
-      "completion_tokens": 985,
-      "total_cost": 0.0032430000000000002,
+      "completion_tokens": 1000,
+      "total_cost": 0.003273,
       "models": [
         "gpt-4o-mini"
       ]
     },
     "review": {
-      "call_count": 2,
-      "prompt_tokens": 1068,
-      "completion_tokens": 744,
-      "total_cost": 0.002556,
-      "models": [
-        "gpt-4o-mini"
-      ]
-    },
-    "revise": {
       "call_count": 1,
-      "prompt_tokens": 2451,
-      "completion_tokens": 1337,
-      "total_cost": 0.005125,
+      "prompt_tokens": 525,
+      "completion_tokens": 369,
+      "total_cost": 0.001263,
       "models": [
         "gpt-4o-mini"
       ]

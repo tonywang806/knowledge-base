@@ -1,17 +1,18 @@
 {
   "id": "github-20260510-006",
-  "title": "developer-roadmap",
-  "source": "github-trending",
-  "source_url": "https://github.com/nilbuild/developer-roadmap",
-  "collected_at": "2026-05-10T09:33:59.441362+00:00",
-  "summary": "提供互动式的开发者成长路线图和教育内容。",
-  "analysis": {
-    "relevance_score": 0.82
-  },
+  "title": "griptape",
+  "source": "github-search",
+  "source_url": "https://github.com/griptape-ai/griptape",
+  "summary": "Griptape是一款面向AI代理与工作流开发的模块化Python框架，内置思维链推理、外部工具调用及记忆管理功能，助力高效构建智能系统。",
   "tags": [
-    "职业发展",
-    "教育",
-    "开发"
+    "Python",
+    "AI代理",
+    "工作流框架",
+    "思维链推理"
   ],
-  "status": "draft"
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-05-10T19:22:16.704997"
 }

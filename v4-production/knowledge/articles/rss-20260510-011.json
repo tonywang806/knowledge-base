@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260510-011",
+  "title": "Gemini API File Search is now multimodal",
+  "source": "rss-hacker-news",
+  "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+  "summary": "Google已为Gemini API的文件搜索功能新增多模态支持，开发者现在可通过该接口实现图像、音频及文本等多类型文件的智能检索与分析。",
+  "tags": [
+    "Gemini API",
+    "多模态",
+    "文件搜索",
+    "AI开发"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-10T19:22:17.348158"
+}

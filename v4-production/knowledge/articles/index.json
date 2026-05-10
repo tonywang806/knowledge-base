@@ -283,7 +283,7 @@
     "title": "build-your-own-x",
     "source_url": "https://github.com/codecrafters-io/build-your-own-x",
     "status": "draft",
-    "updated_at": "2026-05-10T09:34:34.094430+00:00",
+    "updated_at": "2026-05-10T10:20:55.018903+00:00",
     "relevance_score": 0.9,
     "tags": [
       "编程",
@@ -291,18 +291,18 @@
       "技术"
     ],
     "category": "",
-    "summary": "该项目通过从零开始重建技术，帮助用户掌握编程技能。"
+    "summary": "该项目帮助用户通过从零开始重建喜爱的技术来掌握编程技能。"
   },
   "github-20260510-002": {
     "title": "awesome",
     "source_url": "https://github.com/sindresorhus/awesome",
     "status": "draft",
-    "updated_at": "2026-05-10T09:34:34.094581+00:00",
+    "updated_at": "2026-05-10T10:20:55.019191+00:00",
     "relevance_score": 0.75,
     "tags": [
       "资源",
       "列表",
-      "社区"
+      "有趣"
     ],
     "category": "",
     "summary": "这是一个关于各种有趣主题的精彩列表集合。"
@@ -311,35 +311,35 @@
     "title": "freeCodeCamp",
     "source_url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "status": "draft",
-    "updated_at": "2026-05-10T09:34:34.094881+00:00",
-    "relevance_score": 0.85,
+    "updated_at": "2026-05-10T10:20:55.019443+00:00",
+    "relevance_score": 0.95,
     "tags": [
       "教育",
       "编程",
-      "开源"
+      "免费"
     ],
     "category": "",
-    "summary": "提供免费的数学、编程和计算机科学学习资源的开源代码库。"
+    "summary": "提供免费的数学、编程和计算机科学学习资源，适合自学者。"
   },
   "github-20260510-004": {
     "title": "public-apis",
     "source_url": "https://github.com/public-apis/public-apis",
     "status": "draft",
-    "updated_at": "2026-05-10T09:34:34.095208+00:00",
-    "relevance_score": 0.8,
+    "updated_at": "2026-05-10T10:20:55.019672+00:00",
+    "relevance_score": 0.85,
     "tags": [
       "API",
       "开发",
       "资源"
     ],
     "category": "",
-    "summary": "一个免费的API集合，供开发者使用。"
+    "summary": "一个集合的免费API列表，便于开发者使用。"
   },
   "github-20260510-005": {
     "title": "openclaw",
     "source_url": "https://github.com/openclaw/openclaw",
     "status": "draft",
-    "updated_at": "2026-05-10T09:34:34.095388+00:00",
+    "updated_at": "2026-05-10T10:20:55.019884+00:00",
     "relevance_score": 0.88,
     "tags": [
       "AI",
@@ -353,12 +353,12 @@
     "title": "developer-roadmap",
     "source_url": "https://github.com/nilbuild/developer-roadmap",
     "status": "draft",
-    "updated_at": "2026-05-10T09:34:34.095488+00:00",
-    "relevance_score": 0.82,
+    "updated_at": "2026-05-10T10:20:55.020089+00:00",
+    "relevance_score": 0.87,
     "tags": [
       "职业发展",
       "教育",
-      "开发"
+      "开发者"
     ],
     "category": "",
     "summary": "提供互动式的开发者成长路线图和教育内容。"
@@ -367,12 +367,12 @@
     "title": "system-design-primer",
     "source_url": "https://github.com/donnemartin/system-design-primer",
     "status": "draft",
-    "updated_at": "2026-05-10T09:34:34.095602+00:00",
-    "relevance_score": 0.84,
+    "updated_at": "2026-05-10T10:20:55.020285+00:00",
+    "relevance_score": 0.8,
     "tags": [
       "系统设计",
       "面试",
-      "教育"
+      "学习"
     ],
     "category": "",
     "summary": "帮助用户学习如何设计大型系统，适合系统设计面试准备。"
@@ -381,21 +381,21 @@
     "title": "coding-interview-university",
     "source_url": "https://github.com/jwasham/coding-interview-university",
     "status": "draft",
-    "updated_at": "2026-05-10T09:34:34.095710+00:00",
-    "relevance_score": 0.87,
+    "updated_at": "2026-05-10T10:20:55.020449+00:00",
+    "relevance_score": 0.92,
     "tags": [
       "学习",
       "计算机科学",
       "教育"
     ],
     "category": "",
-    "summary": "提供完整的计算机科学学习计划，帮助成为软件工程师。"
+    "summary": "提供完整的计算机科学学习计划，适合软件工程师。"
   },
   "github-20260510-009": {
     "title": "awesome-python",
     "source_url": "https://github.com/vinta/awesome-python",
     "status": "draft",
-    "updated_at": "2026-05-10T09:34:34.095795+00:00",
+    "updated_at": "2026-05-10T10:20:55.020747+00:00",
     "relevance_score": 0.78,
     "tags": [
       "Python",
@@ -409,12 +409,12 @@
     "title": "awesome-selfhosted",
     "source_url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
     "status": "draft",
-    "updated_at": "2026-05-10T09:34:34.095885+00:00",
+    "updated_at": "2026-05-10T10:20:55.020902+00:00",
     "relevance_score": 0.76,
     "tags": [
       "自托管",
       "软件",
-      "资源"
+      "服务"
     ],
     "category": "",
     "summary": "提供可以自托管的免费软件网络服务和Web应用列表。"
@@ -423,12 +423,12 @@
     "title": "project-based-learning",
     "source_url": "https://github.com/practical-tutorials/project-based-learning",
     "status": "draft",
-    "updated_at": "2026-05-10T09:34:34.095969+00:00",
-    "relevance_score": 0.79,
+    "updated_at": "2026-05-10T10:20:55.021043+00:00",
+    "relevance_score": 0.82,
     "tags": [
       "项目",
       "学习",
-      "教育"
+      "教程"
     ],
     "category": "",
     "summary": "策划的项目基础教程列表，适合实践学习。"
@@ -437,26 +437,26 @@
     "title": "linux",
     "source_url": "https://github.com/torvalds/linux",
     "status": "draft",
-    "updated_at": "2026-05-10T09:34:34.096062+00:00",
-    "relevance_score": 0.91,
+    "updated_at": "2026-05-10T10:20:55.021190+00:00",
+    "relevance_score": 0.85,
     "tags": [
       "Linux",
       "开源",
-      "操作系统"
+      "开发"
     ],
     "category": "",
-    "summary": "Linux内核源代码树，开源操作系统的核心。"
+    "summary": "Linux内核源代码树，适合开发者和研究者。"
   },
   "github-20260510-013": {
     "title": "the-book-of-secret-knowledge",
     "source_url": "https://github.com/trimstray/the-book-of-secret-knowledge",
     "status": "draft",
-    "updated_at": "2026-05-10T09:34:34.096137+00:00",
-    "relevance_score": 0.73,
+    "updated_at": "2026-05-10T10:20:55.021324+00:00",
+    "relevance_score": 0.74,
     "tags": [
       "知识",
       "资源",
-      "工具"
+      "手册"
     ],
     "category": "",
     "summary": "收集了各种灵感列表、手册和工具的知识书籍。"
@@ -465,8 +465,8 @@
     "title": "computer-science",
     "source_url": "https://github.com/ossu/computer-science",
     "status": "draft",
-    "updated_at": "2026-05-10T09:34:34.096228+00:00",
-    "relevance_score": 0.85,
+    "updated_at": "2026-05-10T10:20:55.021459+00:00",
+    "relevance_score": 0.9,
     "tags": [
       "自学",
       "计算机科学",
@@ -479,22 +479,22 @@
     "title": "javascript-algorithms",
     "source_url": "https://github.com/trekhleb/javascript-algorithms",
     "status": "draft",
-    "updated_at": "2026-05-10T09:34:34.096308+00:00",
-    "relevance_score": 0.8,
+    "updated_at": "2026-05-10T10:20:55.021590+00:00",
+    "relevance_score": 0.79,
     "tags": [
       "JavaScript",
       "算法",
       "学习"
     ],
     "category": "",
-    "summary": "用JavaScript实现的算法和数据结构，附有解释和阅读链接。"
+    "summary": "用JavaScript实现的算法和数据结构，附有解释和链接。"
   },
   "github-20260510-016": {
     "title": "tensorflow",
     "source_url": "https://github.com/tensorflow/tensorflow",
     "status": "draft",
-    "updated_at": "2026-05-10T09:34:34.096398+00:00",
-    "relevance_score": 0.92,
+    "updated_at": "2026-05-10T10:20:55.021720+00:00",
+    "relevance_score": 0.93,
     "tags": [
       "机器学习",
       "开源",
@@ -507,26 +507,26 @@
     "title": "claw-code",
     "source_url": "https://github.com/ultraworkers/claw-code",
     "status": "draft",
-    "updated_at": "2026-05-10T09:34:34.096482+00:00",
+    "updated_at": "2026-05-10T10:20:55.021856+00:00",
     "relevance_score": 0.7,
     "tags": [
       "Rust",
-      "社区",
-      "开发"
+      "开源",
+      "代码"
     ],
     "category": "",
-    "summary": "一个快速的代码库，使用Rust构建，支持Discord社区。"
+    "summary": "一个快速的代码库，旨在超越100K星标，使用Rust构建。"
   },
   "github-20260510-018": {
     "title": "n8n",
     "source_url": "https://github.com/n8n-io/n8n",
     "status": "draft",
-    "updated_at": "2026-05-10T09:34:34.096570+00:00",
-    "relevance_score": 0.86,
+    "updated_at": "2026-05-10T10:20:55.022001+00:00",
+    "relevance_score": 0.89,
     "tags": [
+      "工作流",
       "自动化",
-      "AI",
-      "平台"
+      "AI"
     ],
     "category": "",
     "summary": "一个公平代码的工作流自动化平台，具有原生AI能力。"
@@ -535,7 +535,7 @@
     "title": "superpowers",
     "source_url": "https://github.com/obra/superpowers",
     "status": "draft",
-    "updated_at": "2026-05-10T09:34:34.096655+00:00",
+    "updated_at": "2026-05-10T10:20:55.022131+00:00",
     "relevance_score": 0.72,
     "tags": [
       "开发",
@@ -549,12 +549,12 @@
     "title": "AutoGPT",
     "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
     "status": "draft",
-    "updated_at": "2026-05-10T09:34:34.096739+00:00",
-    "relevance_score": 0.89,
+    "updated_at": "2026-05-10T10:20:55.022260+00:00",
+    "relevance_score": 0.91,
     "tags": [
       "AI",
       "工具",
-      "开源"
+      "可访问性"
     ],
     "category": "",
     "summary": "AutoGPT旨在让每个人都能轻松使用和构建AI工具。"

@@ -1,17 +1,18 @@
 {
   "id": "github-20260510-007",
-  "title": "system-design-primer",
-  "source": "github-trending",
-  "source_url": "https://github.com/donnemartin/system-design-primer",
-  "collected_at": "2026-05-10T09:33:59.441365+00:00",
-  "summary": "帮助用户学习如何设计大型系统，适合系统设计面试准备。",
-  "analysis": {
-    "relevance_score": 0.84
-  },
+  "title": "py-gpt",
+  "source": "github-search",
+  "source_url": "https://github.com/szczyglis-dev/py-gpt",
+  "summary": "py-gpt是一款支持Linux/Windows/Mac的跨平台桌面AI助手，集成GPT-5、Claude等主流大模型，提供多模态对话、RAG检索、智能体、插件扩展及语音合成等强大功能。",
   "tags": [
-    "系统设计",
-    "面试",
-    "教育"
+    "AI助手",
+    "跨平台桌面应用",
+    "多模态大模型",
+    "RAG与智能体"
   ],
-  "status": "draft"
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-10T19:22:16.705017"
 }

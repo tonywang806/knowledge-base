@@ -1,17 +1,19 @@
 {
   "id": "github-20260510-010",
-  "title": "awesome-selfhosted",
-  "source": "github-trending",
-  "source_url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
-  "collected_at": "2026-05-10T09:33:59.441376+00:00",
-  "summary": "提供可以自托管的免费软件网络服务和Web应用列表。",
-  "analysis": {
-    "relevance_score": 0.76
-  },
+  "title": "UnrealGenAISupport",
+  "source": "github-search",
+  "source_url": "https://github.com/prajwalshettydev/UnrealGenAISupport",
+  "summary": "提供面向UE5的AI插件，集成多模态大模型与MCP服务，支持对话、NPC智能、3D生成及语音合成等能力，兼容主流云端与本地AI接口。",
   "tags": [
-    "自托管",
-    "软件",
-    "资源"
+    "UE5",
+    "AI插件",
+    "大模型集成",
+    "MCP协议",
+    "生成式AI"
   ],
-  "status": "draft"
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-10T19:22:16.705075"
 }

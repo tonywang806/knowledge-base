@@ -1,17 +1,18 @@
 {
   "id": "github-20260510-005",
-  "title": "openclaw",
-  "source": "github-trending",
-  "source_url": "https://github.com/openclaw/openclaw",
-  "collected_at": "2026-05-10T09:33:59.441358+00:00",
-  "summary": "一个个人AI助手项目，支持多平台使用。",
-  "analysis": {
-    "relevance_score": 0.88
-  },
+  "title": "aide",
+  "source": "github-search",
+  "source_url": "https://github.com/nicepkg/aide",
+  "summary": "该工具为VSCode扩展，提供一键代码注释、多格式转换、UI界面转代码及AI批量文件处理等高效功能，旨在大幅提升开发者编码效率。",
   "tags": [
-    "AI",
-    "助手",
-    "跨平台"
+    "VSCode扩展",
+    "AI编码",
+    "代码生成",
+    "开发提效"
   ],
-  "status": "draft"
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-10T19:22:16.704974"
 }

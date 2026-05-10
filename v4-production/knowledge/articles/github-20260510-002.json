@@ -1,17 +1,19 @@
 {
   "id": "github-20260510-002",
-  "title": "awesome",
-  "source": "github-trending",
-  "source_url": "https://github.com/sindresorhus/awesome",
-  "collected_at": "2026-05-10T09:33:59.441344+00:00",
-  "summary": "这是一个关于各种有趣主题的精彩列表集合。",
-  "analysis": {
-    "relevance_score": 0.75
-  },
+  "title": "promptfoo",
+  "source": "github-search",
+  "source_url": "https://github.com/promptfoo/promptfoo",
+  "summary": "promptfoo是面向AI应用的开源测试与安全框架，支持提示词、智能体与RAG系统的红队渗透测试及多模型性能对比。提供声明式配置与CI/CD集成，已被OpenAI等头部机构采用。",
   "tags": [
-    "资源",
-    "列表",
-    "社区"
+    "AI安全测试",
+    "提示词评估",
+    "RAG测试",
+    "多模型对比",
+    "CI/CD集成"
   ],
-  "status": "draft"
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-10T19:22:16.704857"
 }
