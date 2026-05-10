@@ -1,0 +1,22 @@
+{
+  "id": "github-trending-20260421-003",
+  "title": "AReaL: 异步强化学习系统",
+  "source": "github-trending",
+  "source_url": "https://github.com/inclusionAI/AReaL",
+  "summary": "异步强化学习系统，用于训练推理和 Agent 模型，清华姚班出品",
+  "analysis": {
+    "tech_highlights": [
+      "异步训练",
+      "大规模",
+      "清华背景"
+    ],
+    "relevance_score": 6
+  },
+  "tags": [
+    "rl",
+    "reasoning"
+  ],
+  "status": "draft",
+  "collected_at": "2026-04-21T10:00:00Z",
+  "updated_at": "2026-04-21T10:30:00Z"
+}

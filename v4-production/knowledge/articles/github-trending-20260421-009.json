@@ -1,0 +1,22 @@
+{
+  "id": "github-trending-20260421-009",
+  "title": "Mem0: AI Agent 记忆层",
+  "source": "github-trending",
+  "source_url": "https://github.com/mem0ai/mem0",
+  "summary": "AI Agent 的通用记忆层，支持个性化上下文，解决 AI 记忆问题",
+  "analysis": {
+    "tech_highlights": [
+      "个性化记忆",
+      "多模型支持",
+      "API 简单"
+    ],
+    "relevance_score": 7
+  },
+  "tags": [
+    "memory",
+    "agent"
+  ],
+  "status": "draft",
+  "collected_at": "2026-04-21T10:00:00Z",
+  "updated_at": "2026-04-21T10:30:00Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "github-20260509-019",
+  "title": "AutoGPT",
+  "source": "github-trending",
+  "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
+  "collected_at": "2026-05-09T14:46:35.390716+00:00",
+  "summary": "一个技能框架和软件开发方法论，旨在提升开发效率。",
+  "analysis": {
+    "relevance_score": 0.72
+  },
+  "tags": [
+    "开发",
+    "方法论",
+    "技能"
+  ],
+  "status": "draft"
+}
