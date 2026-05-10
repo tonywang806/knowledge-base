@@ -1,0 +1,17 @@
+{
+  "id": "github-20260510-014",
+  "title": "computer-science",
+  "source": "github-trending",
+  "source_url": "https://github.com/ossu/computer-science",
+  "collected_at": "2026-05-09T15:25:23.116129+00:00",
+  "summary": "提供自学计算机科学的路径，适合自学者。",
+  "analysis": {
+    "relevance_score": 0.8
+  },
+  "tags": [
+    "计算机科学",
+    "自学",
+    "教育"
+  ],
+  "status": "draft"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "github-20260510-009",
+  "title": "awesome-python",
+  "source": "github-trending",
+  "source_url": "https://github.com/vinta/awesome-python",
+  "collected_at": "2026-05-09T15:25:23.116125+00:00",
+  "summary": "一个关于Python框架和工具的精选列表。",
+  "analysis": {
+    "relevance_score": 0.7
+  },
+  "tags": [
+    "Python",
+    "资源",
+    "开发"
+  ],
+  "status": "draft"
+}
