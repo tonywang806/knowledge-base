@@ -3,15 +3,15 @@
   "title": "coding-interview-university",
   "source": "github-trending",
   "source_url": "https://github.com/jwasham/coding-interview-university",
-  "collected_at": "2026-05-09T15:25:23.116123+00:00",
-  "summary": "提供完整的计算机科学学习计划，适合软件工程师。",
+  "collected_at": "2026-05-10T09:33:59.441368+00:00",
+  "summary": "提供完整的计算机科学学习计划，帮助成为软件工程师。",
   "analysis": {
-    "relevance_score": 0.85
+    "relevance_score": 0.87
   },
   "tags": [
-    "计算机科学",
     "学习",
-    "计划"
+    "计算机科学",
+    "教育"
   ],
   "status": "draft"
 }

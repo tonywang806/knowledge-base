@@ -3,15 +3,15 @@
   "title": "openclaw",
   "source": "github-trending",
   "source_url": "https://github.com/openclaw/openclaw",
-  "collected_at": "2026-05-09T15:25:23.116121+00:00",
+  "collected_at": "2026-05-10T09:33:59.441358+00:00",
   "summary": "一个个人AI助手项目，支持多平台使用。",
   "analysis": {
-    "relevance_score": 0.9
+    "relevance_score": 0.88
   },
   "tags": [
     "AI",
     "助手",
-    "多平台"
+    "跨平台"
   ],
   "status": "draft"
 }

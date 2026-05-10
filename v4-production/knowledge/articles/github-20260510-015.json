@@ -3,15 +3,15 @@
   "title": "javascript-algorithms",
   "source": "github-trending",
   "source_url": "https://github.com/trekhleb/javascript-algorithms",
-  "collected_at": "2026-05-09T15:25:23.116130+00:00",
-  "summary": "用JavaScript实现的算法和数据结构，附有解释和链接。",
+  "collected_at": "2026-05-10T09:33:59.441392+00:00",
+  "summary": "用JavaScript实现的算法和数据结构，附有解释和阅读链接。",
   "analysis": {
-    "relevance_score": 0.7
+    "relevance_score": 0.8
   },
   "tags": [
     "JavaScript",
     "算法",
-    "数据结构"
+    "学习"
   ],
   "status": "draft"
 }

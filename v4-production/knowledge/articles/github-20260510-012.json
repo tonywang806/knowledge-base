@@ -3,15 +3,15 @@
   "title": "linux",
   "source": "github-trending",
   "source_url": "https://github.com/torvalds/linux",
-  "collected_at": "2026-05-09T15:25:23.116128+00:00",
-  "summary": "Linux内核源代码树，适合开发者和研究者。",
+  "collected_at": "2026-05-10T09:33:59.441383+00:00",
+  "summary": "Linux内核源代码树，开源操作系统的核心。",
   "analysis": {
-    "relevance_score": 0.75
+    "relevance_score": 0.91
   },
   "tags": [
     "Linux",
     "开源",
-    "开发"
+    "操作系统"
   ],
   "status": "draft"
 }

@@ -3,15 +3,15 @@
   "title": "awesome",
   "source": "github-trending",
   "source_url": "https://github.com/sindresorhus/awesome",
-  "collected_at": "2026-05-09T15:25:23.116116+00:00",
+  "collected_at": "2026-05-10T09:33:59.441344+00:00",
   "summary": "这是一个关于各种有趣主题的精彩列表集合。",
   "analysis": {
-    "relevance_score": 0.7
+    "relevance_score": 0.75
   },
   "tags": [
     "资源",
     "列表",
-    "有趣"
+    "社区"
   ],
   "status": "draft"
 }

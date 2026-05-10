@@ -3,10 +3,10 @@
   "title": "n8n",
   "source": "github-trending",
   "source_url": "https://github.com/n8n-io/n8n",
-  "collected_at": "2026-05-09T15:25:23.116133+00:00",
-  "summary": "一个公平代码的工作流自动化平台，具备原生AI能力。",
+  "collected_at": "2026-05-10T09:33:59.441401+00:00",
+  "summary": "一个公平代码的工作流自动化平台，具有原生AI能力。",
   "analysis": {
-    "relevance_score": 0.9
+    "relevance_score": 0.86
   },
   "tags": [
     "自动化",

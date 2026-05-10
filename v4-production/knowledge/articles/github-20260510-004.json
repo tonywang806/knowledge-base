@@ -3,10 +3,10 @@
   "title": "public-apis",
   "source": "github-trending",
   "source_url": "https://github.com/public-apis/public-apis",
-  "collected_at": "2026-05-09T15:25:23.116119+00:00",
-  "summary": "一个集合的免费API列表，便于开发者使用。",
+  "collected_at": "2026-05-10T09:33:59.441354+00:00",
+  "summary": "一个免费的API集合，供开发者使用。",
   "analysis": {
-    "relevance_score": 0.75
+    "relevance_score": 0.8
   },
   "tags": [
     "API",
