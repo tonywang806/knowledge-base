@@ -3,17 +3,17 @@
   "title": "ai-guide",
   "source": "github-search",
   "source_url": "https://github.com/liyupi/ai-guide",
-  "summary": "该文档是程序员鱼皮整理的 comprehensive AI 资源，包括 OpenClaw 教程、最新 AI 资讯、编程和开发框架指南等各类内容，旨在帮助用户快速掌握 AI 技术，适合零基础学习者和开发者使用。",
+  "summary": "本项目是程序员鱼皮的AI资源大全，涵盖从基础教程到大模型玩法、最新AI资讯、Prompt提示词、AI编程与工具用法等内容，旨在帮助用户快速掌握AI技术，紧跟时代潮流。该文档已开源，升级为鱼皮AI导航网站。",
   "tags": [
     "AI资源",
     "编程教程",
+    "大模型",
     "开源项目",
-    "技术指南",
-    "学习资料"
+    "技术培训"
   ],
   "analysis": {
     "relevance_score": 9
   },
   "status": "review",
-  "collected_at": "2026-05-11T09:08:07.928977"
+  "collected_at": "2026-05-11T23:48:30.778158"
 }

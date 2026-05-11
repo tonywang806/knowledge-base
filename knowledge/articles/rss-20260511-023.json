@@ -1,19 +1,19 @@
 {
   "id": "rss-20260511-023",
-  "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+  "title": "Can someone please explain whether Cloudflare blackmailed Canonical?",
   "source": "rss-hacker-news",
-  "source_url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
-  "summary": "一个用于编写代码的AI编程助手能有效降低维护成本，从而提升开发效率，并减少人力资源的投入。这类工具的引入可能改变软件开发行业的格局。",
+  "source_url": "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/",
+  "summary": "有网友在讨论Cloudflare是否对Canonical进行勒索，缺乏确凿证据支持这一说法，争议主要集中在两者之间的业务关系和事件背后蕴含的动机。",
   "tags": [
-    "人工智能",
-    "编程",
-    "代码维护",
-    "成本降低",
-    "软件开发"
+    "Cloudflare",
+    "Canonical",
+    "黑客攻击",
+    "业务关系",
+    "网络安全"
   ],
   "analysis": {
-    "relevance_score": 8
+    "relevance_score": 5
   },
   "status": "review",
-  "collected_at": "2026-05-11T09:08:08.209760"
+  "collected_at": "2026-05-11T23:48:30.922097"
 }

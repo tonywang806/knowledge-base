@@ -1,18 +1,19 @@
 {
   "id": "rss-20260511-027",
-  "title": "AI is Breaking Two Vulnerability Cultures",
-  "source": "rss-lobsters",
-  "source_url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-  "summary": "本文讨论了人工智能如何影响和改变两个脆弱性文化，探索技术与安全之间的关系，通过案例分析展示AI在应对脆弱性时的作用与挑战，提醒人们注意这些变化可能带来的影响。",
+  "title": "AMÁLIA and the future of European Portuguese LLMs",
+  "source": "rss-hacker-news",
+  "source_url": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
+  "summary": "本文探讨了AMÁLIA模型在欧洲葡萄牙语大语言模型（LLM）发展的前景，以及其在技术创新和应用中的重要性，展示了该技术对社会和语言处理的潜在影响。",
   "tags": [
+    "语言模型",
+    "葡萄牙语",
+    "技术创新",
     "人工智能",
-    "网络安全",
-    "脆弱性",
-    "技术变革"
+    "自然语言处理"
   ],
   "analysis": {
     "relevance_score": 8
   },
   "status": "review",
-  "collected_at": "2026-05-11T06:07:42.936860"
+  "collected_at": "2026-05-11T23:48:30.922356"
 }

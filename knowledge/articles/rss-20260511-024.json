@@ -1,19 +1,19 @@
 {
   "id": "rss-20260511-024",
-  "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
+  "title": "Gmail registration now requires scanning a QR code and sending a text message",
   "source": "rss-hacker-news",
-  "source_url": "https://github.com/adamjgmiller/adamsreview",
-  "summary": "adamsreview是一个针对Claude Code的多代理PR审核工具，旨在提升代码评审的效率和质量，以更好的满足开发者的需求。这个工具拥有协作评审功能，可以显著改善团队的代码审查过程和结果。",
+  "source_url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+  "summary": "Gmail注册过程新增了两个重要步骤：用户需要扫描二维码并发送短信，以提高账户安全性。这种改进旨在防止恶意注册和增强验证措施。",
   "tags": [
-    "代码审核",
-    "多代理",
-    "开发工具",
-    "协作",
-    "Claude Code"
+    "Gmail",
+    "注册",
+    "二维码",
+    "安全性",
+    "技术更新"
   ],
   "analysis": {
     "relevance_score": 8
   },
   "status": "review",
-  "collected_at": "2026-05-11T09:08:08.209826"
+  "collected_at": "2026-05-11T23:48:30.922173"
 }

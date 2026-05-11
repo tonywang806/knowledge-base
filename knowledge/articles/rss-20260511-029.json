@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260511-029",
+  "title": "Programmable Whitelist-based Configs: Embedding Rye in Go",
+  "source": "rss-lobsters",
+  "source_url": "https://ryelang.org/blog/posts/whitelist-config-with-rye/",
+  "summary": "本文探讨了在Go语言中嵌入可编程的基于白名单的配置，介绍了如何有效地实现和管理这些配置以确保安全性和可伸缩性，适合开发人员参考。",
+  "tags": [
+    "Go语言",
+    "编程",
+    "安全性",
+    "白名单",
+    "配置管理"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-05-11T23:48:31.209551"
+}

@@ -3,16 +3,17 @@
   "title": "SecureShell",
   "source": "github-search",
   "source_url": "https://github.com/divagr18/SecureShell",
-  "summary": "SecureShell是一种即插即用的终端安全层，专为大型语言模型（LLM）代理设计。它作为一个网关，能够有效阻止危险的shell命令，兼容OpenAI、Claude、Gemini等多个平台，提升了安全性和可控性。",
+  "summary": "SecureShell是一个即插即用的终端安全层，专为LLM代理设计，可以防止危险的shell命令。它兼容OpenAI、Claude、Gemini等多个平台，充当安全网关。",
   "tags": [
-    "安全技术",
-    "终端安全",
-    "人工智能",
-    "LLM代理"
+    "安全",
+    "LLM",
+    "终端",
+    "OpenAI",
+    "命令防护"
   ],
   "analysis": {
     "relevance_score": 8
   },
   "status": "review",
-  "collected_at": "2026-05-11T09:08:07.929758"
+  "collected_at": "2026-05-11T23:48:30.778758"
 }

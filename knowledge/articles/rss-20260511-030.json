@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260511-030",
+  "title": "Local AI Needs to be the Norm",
+  "source": "rss-lobsters",
+  "source_url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+  "summary": "文章讨论了本地人工智能在现代应用中的必要性，强调其在数据隐私、降低延迟和提升响应速度方面的优势。呼吁将本地AI作为标准，以提高用户体验和安全性。",
+  "tags": [
+    "人工智能",
+    "本地AI",
+    "数据隐私",
+    "技术趋势"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-11T23:48:31.209678"
+}

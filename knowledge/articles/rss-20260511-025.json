@@ -1,19 +1,19 @@
 {
   "id": "rss-20260511-025",
-  "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
+  "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop&#x2F;s to Tflop&#x2F;s",
   "source": "rss-hacker-news",
-  "source_url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
-  "summary": "本文章探讨了Claude作为用户空间IP栈对Ping请求的响应速度，分析了其性能表现以及与传统内核空间IP栈的比较，以帮助理解其在网络交互中的应用潜力。",
+  "source_url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+  "summary": "本文第一部分探讨了如何在Swift中训练大型语言模型（LLM），具体聚焦于将矩阵乘法的性能从每秒吉浮点运算（Gflop/s）提升至每秒太浮点运算（Tflop/s）的技术方法，分析了优化方法与算法改进的有效性。",
   "tags": [
-    "Claude",
-    "用户空间",
-    "IP栈",
-    "Ping响应",
-    "网络性能"
+    "机器学习",
+    "Swift编程",
+    "矩阵运算",
+    "性能优化",
+    "大型语言模型"
   ],
   "analysis": {
     "relevance_score": 8
   },
   "status": "review",
-  "collected_at": "2026-05-11T09:08:08.209878"
+  "collected_at": "2026-05-11T23:48:30.922243"
 }

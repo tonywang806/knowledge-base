@@ -1,18 +1,19 @@
 {
   "id": "rss-20260511-028",
-  "title": "A recent experience with ChatGPT 5.5 Pro",
-  "source": "rss-lobsters",
-  "source_url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-  "summary": "最近用户分享了他们与ChatGPT 5.5 Pro的使用经验，讨论了其功能增强和与之前版本的对比，重点在于如何改善用户交互和生成内容的质量，使得这款工具在各类应用中表现更加出色。",
+  "title": "Show HN: E2a – Open-source email gateway for AI agents",
+  "source": "rss-hacker-news",
+  "source_url": "https://github.com/Mnexa-AI/e2a",
+  "summary": "E2a是一款开源的电子邮件网关，旨在为人工智能代理提供支持。该项目的出现可能会改变人工智能与电子邮件交互的格局，提升其应用效率。",
   "tags": [
-    "ChatGPT",
+    "开源",
     "人工智能",
-    "用户体验",
-    "技术评论"
+    "电子邮件",
+    "技术创新",
+    "代理"
   ],
   "analysis": {
     "relevance_score": 8
   },
   "status": "review",
-  "collected_at": "2026-05-11T06:07:42.936939"
+  "collected_at": "2026-05-11T23:48:30.922417"
 }
