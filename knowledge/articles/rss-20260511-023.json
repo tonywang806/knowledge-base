@@ -3,17 +3,17 @@
   "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
   "source": "rss-hacker-news",
   "source_url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
-  "summary": "本文讨论了一种人工智能编程代理的应用，它可以帮助开发者写代码并减少维护成本。通过自动化编程过程，AI工具提高了开发效率，降低了长期技术支持的开销，适合希望优化资源的团队。",
+  "summary": "一个用于编写代码的AI编程助手能有效降低维护成本，从而提升开发效率，并减少人力资源的投入。这类工具的引入可能改变软件开发行业的格局。",
   "tags": [
     "人工智能",
     "编程",
-    "维护成本",
-    "技术支持",
-    "开发效率"
+    "代码维护",
+    "成本降低",
+    "软件开发"
   ],
   "analysis": {
     "relevance_score": 8
   },
   "status": "review",
-  "collected_at": "2026-05-11T06:07:42.658165"
+  "collected_at": "2026-05-11T09:08:08.209760"
 }
