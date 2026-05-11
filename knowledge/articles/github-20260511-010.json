@@ -1,0 +1,15 @@
+{
+  "id": "github-20260511-010",
+  "title": "UnrealGenAISupport",
+  "source": "github-search",
+  "source_url": "https://github.com/prajwalshettydev/UnrealGenAISupport",
+  "summary": "UnrealGenAISupport：Unreal Engine plugin for LLM/GenAI models & MCP UE5 server. OpenAI GPT-5, Deepse",
+  "tags": [
+    "ai"
+  ],
+  "analysis": {
+    "relevance_score": 3
+  },
+  "status": "review",
+  "collected_at": "2026-05-11T00:16:29.694208"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "github-20260511-002",
+  "title": "promptfoo",
+  "source": "github-search",
+  "source_url": "https://github.com/promptfoo/promptfoo",
+  "summary": "promptfoo：Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni",
+  "tags": [
+    "ai"
+  ],
+  "analysis": {
+    "relevance_score": 3
+  },
+  "status": "review",
+  "collected_at": "2026-05-11T00:16:29.693809"
+}
