@@ -3,17 +3,17 @@
   "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
   "source": "rss-hacker-news",
   "source_url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
-  "summary": "本文探讨了Claude作为用户空间IP栈对ping命令的响应速度。通过实测数据分析，提供了Claude在不同网络条件下的性能表现，并讨论了影响响应时间的关键因素，如系统资源和网络延迟。",
+  "summary": "本文章探讨了Claude作为用户空间IP栈对Ping请求的响应速度，分析了其性能表现以及与传统内核空间IP栈的比较，以帮助理解其在网络交互中的应用潜力。",
   "tags": [
-    "网络性能",
+    "Claude",
     "用户空间",
     "IP栈",
-    "Ping测试",
-    "Claude"
+    "Ping响应",
+    "网络性能"
   ],
   "analysis": {
     "relevance_score": 8
   },
   "status": "review",
-  "collected_at": "2026-05-11T06:07:42.658328"
+  "collected_at": "2026-05-11T09:08:08.209878"
 }

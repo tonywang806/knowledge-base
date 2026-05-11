@@ -3,16 +3,17 @@
   "title": "promptfoo",
   "source": "github-search",
   "source_url": "https://github.com/promptfoo/promptfoo",
-  "summary": "PromptFoo是一个用于测试提示、代理和RAG的工具，专注于AI的红队测试、渗透测试和漏洞扫描。它允许用户比较不同AI模型（如GPT、Claude、Gemini和Llama）的性能，并支持简单的声明式配置，具有命令行和CI/CD集成，已被OpenAI和Anthropic使用。",
+  "summary": "promptfoo 是一个用于测试提示、代理和 RAG 的工具，提供 AI 的红队测试、渗透测试和漏洞扫描服务。它支持 GPT、Claude、Gemini、Llama 等多个模型的性能比较，并提供简单的声明式配置，支持命令行与 CI/CD 集成，为 OpenAI 和 Anthropic 等公司所使用。",
   "tags": [
     "AI测试",
+    "漏洞扫描",
+    "红队测试",
     "性能比较",
-    "CICD",
-    "安全测试"
+    "CI/CD"
   ],
   "analysis": {
     "relevance_score": 8
   },
   "status": "review",
-  "collected_at": "2026-05-11T06:07:42.381655"
+  "collected_at": "2026-05-11T09:08:07.928916"
 }

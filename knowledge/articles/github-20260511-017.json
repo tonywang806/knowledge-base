@@ -3,16 +3,16 @@
   "title": "agentlys",
   "source": "github-search",
   "source_url": "https://github.com/myriade-ai/agentlys",
-  "summary": "Agentlys是一个轻量级的AI代理库，可以将Python函数或类瞬间转换为AI工具，无需繁琐的配置或复杂的抽象过程，简化了开发过程。",
+  "summary": "agentlys是一款轻量级的AI代理库，可以将Python函数和类瞬间转换为AI工具，简化配置和抽象过程，便于开发者使用。",
   "tags": [
-    "AI代理",
-    "Python库",
-    "轻量级工具",
-    "开发教育"
+    "AI工具",
+    "Python",
+    "轻量级库",
+    "开发者工具"
   ],
   "analysis": {
     "relevance_score": 8
   },
   "status": "review",
-  "collected_at": "2026-05-11T06:07:42.382707"
+  "collected_at": "2026-05-11T09:08:07.929679"
 }

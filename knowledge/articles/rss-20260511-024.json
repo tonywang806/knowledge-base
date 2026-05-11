@@ -3,16 +3,17 @@
   "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
   "source": "rss-hacker-news",
   "source_url": "https://github.com/adamjgmiller/adamsreview",
-  "summary": "adamsreview 是一种改进的多智能体 PR 审查工具，针对 Claude Code 提供更高效的协作和评审机制，提升开发者的生产力和代码质量。该工具的推出能够帮助团队更好地管理和整合不同智能体的审查建议，显著提高代码审查效率，并减少错误率。",
+  "summary": "adamsreview是一个针对Claude Code的多代理PR审核工具，旨在提升代码评审的效率和质量，以更好的满足开发者的需求。这个工具拥有协作评审功能，可以显著改善团队的代码审查过程和结果。",
   "tags": [
-    "开源工具",
-    "代码审查",
-    "人工智能",
-    "多智能体"
+    "代码审核",
+    "多代理",
+    "开发工具",
+    "协作",
+    "Claude Code"
   ],
   "analysis": {
     "relevance_score": 8
   },
   "status": "review",
-  "collected_at": "2026-05-11T06:07:42.658251"
+  "collected_at": "2026-05-11T09:08:08.209826"
 }
