@@ -1,9 +1,9 @@
 {
   "id": "rss-20260511-025",
-  "title": "A recent experience with ChatGPT 5.5 Pro",
-  "source": "rss-lobsters",
-  "source_url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-  "summary": "A recent experience with ChatGPT 5.5 Pro：&lt;p&gt;&lt;a href=\"https://lobste.rs/s/kabx8f/recent_expe",
+  "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
+  "source": "rss-hacker-news",
+  "source_url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
+  "summary": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?：Comments]]>",
   "tags": [
     "ai"
   ],
@@ -11,5 +11,5 @@
     "relevance_score": 3
   },
   "status": "review",
-  "collected_at": "2026-05-11T00:16:30.357905"
+  "collected_at": "2026-05-11T05:57:16.623677"
 }
