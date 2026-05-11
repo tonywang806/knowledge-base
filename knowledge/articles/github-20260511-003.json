@@ -3,13 +3,17 @@
   "title": "ai-guide",
   "source": "github-search",
   "source_url": "https://github.com/liyupi/ai-guide",
-  "summary": "ai-guide：程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemi",
+  "summary": "本文介绍了程序员鱼皮的AI资源大全，涵盖从零基础教程到深度学习的大型模型应用、AI编程、工具使用、开发框架等多方面内容，为学习和掌握AI技术提供了丰富的资料和指南，是一个适合各个层次程序员的开源资源项目。",
   "tags": [
-    "ai"
+    "AI资源",
+    "编程教程",
+    "大模型应用",
+    "开源文档",
+    "技术学习"
   ],
   "analysis": {
-    "relevance_score": 3
+    "relevance_score": 9
   },
   "status": "review",
-  "collected_at": "2026-05-11T05:57:16.256877"
+  "collected_at": "2026-05-11T06:07:42.381732"
 }

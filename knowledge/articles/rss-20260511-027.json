@@ -3,13 +3,16 @@
   "title": "AI is Breaking Two Vulnerability Cultures",
   "source": "rss-lobsters",
   "source_url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-  "summary": "AI is Breaking Two Vulnerability Cultures：&lt;p&gt;&lt;a href=\"https://lobste.rs/s/kuhmb0/ai_is_brea",
+  "summary": "本文讨论了人工智能如何影响和改变两个脆弱性文化，探索技术与安全之间的关系，通过案例分析展示AI在应对脆弱性时的作用与挑战，提醒人们注意这些变化可能带来的影响。",
   "tags": [
-    "ai"
+    "人工智能",
+    "网络安全",
+    "脆弱性",
+    "技术变革"
   ],
   "analysis": {
-    "relevance_score": 3
+    "relevance_score": 8
   },
   "status": "review",
-  "collected_at": "2026-05-11T05:57:16.776911"
+  "collected_at": "2026-05-11T06:07:42.936860"
 }

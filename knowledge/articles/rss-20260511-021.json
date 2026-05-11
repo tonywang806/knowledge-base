@@ -3,13 +3,16 @@
   "title": "Local AI needs to be the norm",
   "source": "rss-hacker-news",
   "source_url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-  "summary": "Local AI needs to be the norm：Comments]]>",
+  "summary": "本内容强调本地AI应成为标准，以应对数据隐私及个性化服务的需求，尤其在当前快速发展的技术环境中。",
   "tags": [
-    "ai"
+    "人工智能",
+    "本地化",
+    "数据隐私",
+    "技术发展"
   ],
   "analysis": {
-    "relevance_score": 3
+    "relevance_score": 8
   },
   "status": "review",
-  "collected_at": "2026-05-11T05:57:16.623335"
+  "collected_at": "2026-05-11T06:07:42.657983"
 }

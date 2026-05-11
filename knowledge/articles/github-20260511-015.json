@@ -3,13 +3,17 @@
   "title": "animus-cli",
   "source": "github-search",
   "source_url": "https://github.com/launchapp-dev/animus-cli",
-  "summary": "animus-cli：Autonomous AI agent orchestrator — run multi-model dev teams (Claude, Gemini, GP",
+  "summary": "animus-cli 是一个自主 AI 代理协调器，允许使用 YAML 工作流和守护进程调度来运行多模型开发团队（如 Claude、Gemini 和 GPT），并集成 MCP。该工具完全用 Rust 编写，旨在提升多模型管理的效率与协作能力。",
   "tags": [
-    "ai"
+    "AI",
+    "Rust",
+    "多模型协作",
+    "开发工具",
+    "自动化"
   ],
   "analysis": {
-    "relevance_score": 3
+    "relevance_score": 8
   },
   "status": "review",
-  "collected_at": "2026-05-11T05:57:16.257644"
+  "collected_at": "2026-05-11T06:07:42.382597"
 }

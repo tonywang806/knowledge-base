@@ -3,13 +3,17 @@
   "title": "py-gpt",
   "source": "github-search",
   "source_url": "https://github.com/szczyglis-dev/py-gpt",
-  "summary": "py-gpt：Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, De",
+  "summary": "py-gpt是一个桌面人工智能助手，利用多种尖端技术，包括GPT-5和GPT-4等，提供对话、图像、视频生成、语音识别和合成等多种功能，兼容Linux、Windows和Mac平台。",
   "tags": [
-    "ai"
+    "AI助手",
+    "GPT技术",
+    "跨平台",
+    "语音识别",
+    "图像生成"
   ],
   "analysis": {
-    "relevance_score": 3
+    "relevance_score": 8
   },
   "status": "review",
-  "collected_at": "2026-05-11T05:57:16.257149"
+  "collected_at": "2026-05-11T06:07:42.382162"
 }

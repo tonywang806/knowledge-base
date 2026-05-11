@@ -3,13 +3,16 @@
   "title": "cascadeflow",
   "source": "github-search",
   "source_url": "https://github.com/lemony-ai/cascadeflow",
-  "summary": "cascadeflow：Cascading runtime for AI agents. Optimize cost, latency, quality, and policy dec",
+  "summary": "Cascadeflow是一种用于AI代理的级联运行时，优化代理循环中的成本、延迟、质量和政策决策，通过智能调配资源提升整体性能。",
   "tags": [
-    "ai"
+    "AI代理",
+    "优化算法",
+    "系统设计",
+    "智能决策"
   ],
   "analysis": {
-    "relevance_score": 3
+    "relevance_score": 8
   },
   "status": "review",
-  "collected_at": "2026-05-11T05:57:16.257273"
+  "collected_at": "2026-05-11T06:07:42.382274"
 }

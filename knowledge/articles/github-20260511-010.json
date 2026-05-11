@@ -3,13 +3,17 @@
   "title": "UnrealGenAISupport",
   "source": "github-search",
   "source_url": "https://github.com/prajwalshettydev/UnrealGenAISupport",
-  "summary": "UnrealGenAISupport：Unreal Engine plugin for LLM/GenAI models & MCP UE5 server. OpenAI GPT-5, Deepse",
+  "summary": "UnrealGenAISupport是一个为虚幻引擎开发的插件，旨在支持多种大型语言模型和生成AI，包括OpenAI GPT-5等。该插件能够用于NPC AI、聊天、3D生成、文本到语音（TTS）及多模态应用，提供强大的功能以促进虚拟环境的互动性与沉浸感。",
   "tags": [
-    "ai"
+    "Unreal Engine",
+    "AI",
+    "生成模型",
+    "插件",
+    "虚拟现实"
   ],
   "analysis": {
-    "relevance_score": 3
+    "relevance_score": 8
   },
   "status": "review",
-  "collected_at": "2026-05-11T05:57:16.257338"
+  "collected_at": "2026-05-11T06:07:42.382316"
 }
