@@ -10,14 +10,13 @@ import uuid
 from datetime import datetime
 from pathlib import Path
 from typing import Optional
-from .model_client import tracker
 
 import httpx
 import yaml
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from model_client import chat_with_retry
+from model_client import chat_with_retry,tracker
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 KNOWLEDGE_DIR = BASE_DIR / "knowledge"

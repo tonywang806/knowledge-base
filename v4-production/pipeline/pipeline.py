@@ -10,7 +10,7 @@ import uuid
 from datetime import datetime
 from pathlib import Path
 from typing import Optional
-from .model_client import tracker, chat_with_retry
+from model_client import tracker, chat_with_retry
 
 import httpx
 import yaml

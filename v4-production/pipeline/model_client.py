@@ -171,6 +171,7 @@ def _get_default_provider() -> LLMProvider:
         LLMProvider 实例。
     """
     provider = os.getenv("LLM_PROVIDER", "ollama").lower()
+    logger.info(f"LLM_PROVIDER: {provider}")
 
     if provider == "ollama":
         return OpenAICompatibleProvider(
