@@ -10,7 +10,7 @@ import uuid
 from datetime import datetime
 from pathlib import Path
 from typing import Optional
-from model_client import tracker
+from .model_client import tracker
 
 import httpx
 import yaml
