@@ -11,6 +11,10 @@ from dataclasses import dataclass
 from typing import Optional
 
 import httpx
+from dotenv import load_dotenv
+
+# 加载 .env 文件中的环境变量
+load_dotenv()
 
 logger = logging.getLogger(__name__)
 
@@ -53,6 +57,12 @@ class LLMProvider(ABC):
         """获取模型名称。"""
         pass
 
+    @property
+    @abstractmethod
+    def provider_name(self) -> str:
+        """获取提供商名称。"""
+        pass
+
 
 class OpenAICompatibleProvider(LLMProvider):
     """OpenAI 兼容 API Provider 实现。"""
@@ -64,6 +74,7 @@ class OpenAICompatibleProvider(LLMProvider):
         model_name: str = "gpt-4o-mini",
         timeout: float = 60.0,
         is_ollama: bool = False,
+        provider_name: str = "openai",
     ):
         """初始化 Provider。
 
@@ -73,16 +84,23 @@ class OpenAICompatibleProvider(LLMProvider):
             model_name: 模型名称。
             timeout: 请求超时时间（秒）。
             is_ollama: 是否为 Ollama（使用不同 API 格式）。
+            provider_name: 提供商类型（deepseek/qwen/openai/ollama）。
         """
         self._base_url = base_url.rstrip("/")
         self._api_key = api_key
         self._model_name = model_name
         self._timeout = timeout
         self._is_ollama = is_ollama
+        self._provider_name = provider_name
 
     @property
     def model_name(self) -> str:
         return self._model_name
+
+    @property
+    def provider_name(self) -> str:
+        """获取提供商类型。"""
+        return self._provider_name
 
     def chat(self, messages: list[dict[str, str]]) -> LLMResponse:
         """发送聊天请求到 OpenAI 兼容 API。
@@ -179,6 +197,7 @@ def _get_default_provider() -> LLMProvider:
             api_key=None,
             model_name=os.getenv("OLLAMA_MODEL", "qwen3.6:latest"),
             is_ollama=True,
+            provider_name="ollama",
         )
     elif provider == "deepseek":
         api_key = os.getenv("DEEPSEEK_API_KEY")
@@ -188,6 +207,7 @@ def _get_default_provider() -> LLMProvider:
             base_url="https://api.deepseek.com/v1",
             api_key=api_key,
             model_name="deepseek-chat",
+            provider_name="deepseek",
         )
     elif provider == "qwen":
         api_key = os.getenv("QWEN_API_KEY")
@@ -197,6 +217,7 @@ def _get_default_provider() -> LLMProvider:
             base_url="https://dashscope.aliyuncs.com/compatible-mode/v1",
             api_key=api_key,
             model_name="qwen-turbo",
+            provider_name="qwen",
         )
     elif provider == "openai":
         api_key = os.getenv("OPENAI_API_KEY")
@@ -206,6 +227,7 @@ def _get_default_provider() -> LLMProvider:
             base_url="https://api.openai.com/v1",
             api_key=api_key,
             model_name="gpt-4o-mini",
+            provider_name="openai",
         )
     else:
         raise ValueError(f"不支持的 LLM_PROVIDER: {provider}")
@@ -253,7 +275,7 @@ def chat_with_retry(
 
     last_exception = None
     tracker = get_tracker()
-    provider_name = provider.model_name.split("-")[0] if provider else "ollama"
+    provider_name = provider.provider_name if provider else "ollama"
 
     for attempt in range(max_retries):
         try:
