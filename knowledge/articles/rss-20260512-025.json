@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260512-025",
+  "title": "Google says criminal hackers used AI to find a major software flaw",
+  "source": "rss-hacker-news",
+  "source_url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+  "summary": "谷歌指出，犯罪黑客利用人工智能发现了一处重大软件漏洞。这一举动展示了AI在网络安全领域的潜在威胁，提示相关机构需加强防护措施以应对不断演变的攻击手法。",
+  "tags": [
+    "网络安全",
+    "人工智能",
+    "软件漏洞",
+    "黑客",
+    "防护措施"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-12T08:57:56.314285"
+}

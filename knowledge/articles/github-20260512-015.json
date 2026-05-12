@@ -1,0 +1,18 @@
+{
+  "id": "github-20260512-015",
+  "title": "animus-cli",
+  "source": "github-search",
+  "source_url": "https://github.com/launchapp-dev/animus-cli",
+  "summary": "animus-cli是一个自主AI代理调度器，可通过YAML工作流和守护进程调度来管理多个模型开发团队（如Claude、Gemini和GPT），并与MCP集成，整个系统完全基于Rust开发。",
+  "tags": [
+    "AI代理",
+    "Rust",
+    "多模型开发",
+    "工作流管理"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-12T08:57:55.910259"
+}

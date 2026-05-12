@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260512-024",
+  "title": "Claude Platform on AWS",
+  "source": "rss-hacker-news",
+  "source_url": "https://claude.com/blog/claude-platform-on-aws",
+  "summary": "Claude平台在AWS上的应用将提升云计算技术的灵活性和扩展性，通过AWS的基础设施提供强大的支持，有助于用户更高效地进行数据处理与管理。",
+  "tags": [
+    "Claude平台",
+    "AWS",
+    "云计算",
+    "数据管理",
+    "技术支持"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-05-12T08:57:56.314160"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260512-021",
+  "title": "Postmortem: TanStack NPM supply-chain compromise",
+  "source": "rss-hacker-news",
+  "source_url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+  "summary": "TanStack NPM的供应链遭到破坏，事件经过及其影响被详细回顾。此事件引发了对软件供应链安全性的深刻反思，强调了开发者和公司在维护依赖项时的责任与重要性。",
+  "tags": [
+    "供应链安全",
+    "NPM",
+    "软件开发",
+    "网络安全",
+    "事件分析"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-12T08:57:56.313890"
+}

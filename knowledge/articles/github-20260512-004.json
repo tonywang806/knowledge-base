@@ -1,0 +1,19 @@
+{
+  "id": "github-20260512-004",
+  "title": "zcf",
+  "source": "github-search",
+  "source_url": "https://github.com/UfoMiao/zcf",
+  "summary": "本文介绍了为Claude和Codex开发的零配置代码流，讨论了其简化开发流程的优势，强调了无需复杂配置即可提高工作效率和代码执行的便利性。",
+  "tags": [
+    "Zero-Config",
+    "Claude",
+    "Codex",
+    "代码流",
+    "开发流程"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-12T08:57:55.909380"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3df0c06b-1a71-460d-9472-b1be50a73e6e",
+  "source": "github-search",
+  "title": "ShampooSalesAgent",
+  "url": "https://github.com/jackfsuia/ShampooSalesAgent",
+  "description": "A minimal LLM sales agent framework for sales agent fast deployment and benchmark. Support OpenAI models, Claude, HuggingFace models, Gemini, Ernie(文心一言4.0), Baichuan(百川), Qwen(通义千问), Moonshot(月之暗面), GLM(智谱), Deepseek. AI销售智能体微型框架.",
+  "stars": "19",
+  "language": "Python",
+  "raw_content": "ShampooSalesAgent\nA minimal LLM sales agent framework for sales agent fast deployment and benchmark. Support OpenAI models, Claude, HuggingFace models, Gemini, Ernie(文心一言4.0), Baichuan(百川), Qwen(通义千问), Moonshot(月之暗面), GLM(智谱), Deepseek. AI销售智能体微型框架.",
+  "status": "pending",
+  "collected_at": "2026-05-12T08:57:55.910558"
+}
