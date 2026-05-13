@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260513-026",
+  "title": "Any app on recent Android versions can leak certain traffic",
+  "source": "rss-lobsters",
+  "source_url": "https://mullvad.net/en/blog/any-app-on-recent-android-versions-can-leak-certain-traffic",
+  "summary": "近期研究表明，某些应用在最新的Android版本中可能会泄露特定的网络流量，这一发现引发了对应用安全性的广泛关注。开发者和用户需了解潜在风险，以保护个人隐私和数据安全。",
+  "tags": [
+    "Android",
+    "网络安全",
+    "应用程序",
+    "数据泄露",
+    "隐私保护"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-13T08:59:59.410649"
+}

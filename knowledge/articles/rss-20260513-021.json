@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260513-021",
+  "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+  "source": "rss-hacker-news",
+  "source_url": "https://github.com/cactus-compute/needle",
+  "summary": "Needle是一个新工具，通过将Gemini工具调用精简至2600万参数的模型，展现了其在性能和效率上的提升。这一创新可能会对工具开发领域产生积极影响。",
+  "tags": [
+    "机器学习",
+    "工具开发",
+    "模型优化"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-13T08:59:59.319074"
+}

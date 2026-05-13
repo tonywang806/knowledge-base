@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260513-025",
+  "title": "A detailed introduction to Kakoune for the aspiring power user",
+  "source": "rss-lobsters",
+  "source_url": "https://ficd.sh/blog/kakoune-is-a-text-editor/",
+  "summary": "本文详细介绍了Kakoune编辑器，旨在为有志于成为高级用户的读者提供良好的入门指导。内容涵盖了Kakoune的基本使用方法及其独特设计理念，适合希望提升文本编辑技能的程序员和技术爱好者。",
+  "tags": [
+    "Kakoune",
+    "文本编辑器",
+    "程序员工具",
+    "开源软件",
+    "技术入门"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-13T08:59:59.410571"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260513-024",
+  "title": "Popular Go library fsnotify raises supply chain alarms after maintainer access changes",
+  "source": "rss-lobsters",
+  "source_url": "https://socket.dev/blog/fsnotify-maintainer-dispute-sparks-supply-chain-concerns",
+  "summary": "流行的Go库fsnotify在维护者权限变更后引发了供应链安全警报，提醒开发者关注库的安全性与可靠性。此事件强调了在使用第三方库时应审慎评估维护者的变化可能带来的风险。",
+  "tags": [
+    "Go语言",
+    "fsnotify",
+    "供应链安全",
+    "开源项目",
+    "软件维护"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-05-13T08:59:59.410503"
+}

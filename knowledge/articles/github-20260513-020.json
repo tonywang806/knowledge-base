@@ -1,0 +1,18 @@
+{
+  "id": "github-20260513-020",
+  "title": "ShampooSalesAgent",
+  "source": "github-search",
+  "source_url": "https://github.com/jackfsuia/ShampooSalesAgent",
+  "summary": "ShampooSalesAgent是一个简化的AI销售代理框架，旨在快速部署销售代理并进行基准测试。此框架支持多种模型，包括OpenAI、Claude、HuggingFace、Gemini、文心一言、百川等，为销售行业提供了灵活的智能解决方案。",
+  "tags": [
+    "AI销售",
+    "销售代理",
+    "模型支持",
+    "框架部署"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-13T08:59:58.960144"
+}
