@@ -1,0 +1,19 @@
+{
+  "id": "github-20260514-003",
+  "title": "ai-guide",
+  "source": "github-search",
+  "source_url": "https://github.com/liyupi/ai-guide",
+  "summary": "程序员鱼皮的 AI 资源大全提供多方面的 AI 教程和资讯，包括从零基础的 Vibe Coding 到大模型应用如 DeepSeek 和 GPT，此外还有 Prompt 提示词、AI 编程与工具用法等，致力于帮助用户快速掌握 AI 技术，走在技术前沿。该项目为开源文档，现已升级为鱼皮 AI 导航网站。",
+  "tags": [
+    "AI教程",
+    "编程资源",
+    "开源项目",
+    "技术分享",
+    "大模型"
+  ],
+  "analysis": {
+    "relevance_score": 9
+  },
+  "status": "review",
+  "collected_at": "2026-05-14T08:55:39.995571"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260514-022",
+  "title": "Arena AI Model ELO History",
+  "source": "rss-hacker-news",
+  "source_url": "https://mayerwin.github.io/AI-Arena-History/",
+  "summary": "Arena AI Model的ELO历史数据展示了该模型在竞技环境中的表现，分析了其随着时间的变化及其对对手的适应能力。这为理解AI在博弈中的策略提供了重要参考。",
+  "tags": [
+    "AI",
+    "ELO",
+    "竞技",
+    "数据分析",
+    "模型优化"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-05-14T08:55:40.102642"
+}

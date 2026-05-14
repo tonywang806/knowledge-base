@@ -1,0 +1,12 @@
+{
+  "id": "4e900ae5-c9ba-48d6-9097-c5f077d1a25d",
+  "source": "github-search",
+  "title": "griptape",
+  "url": "https://github.com/griptape-ai/griptape",
+  "description": "Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory. ",
+  "stars": "2525",
+  "language": "Python",
+  "raw_content": "griptape\nModular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory. ",
+  "status": "pending",
+  "collected_at": "2026-05-14T08:55:39.995793"
+}

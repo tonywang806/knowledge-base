@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260514-025",
+  "title": "Fragnesia: New Linux Privilege Escalation Exploit",
+  "source": "rss-lobsters",
+  "source_url": "https://github.com/v12-security/pocs/tree/main/fragnesia",
+  "summary": "Fragnesia是一种新的Linux特权升级漏洞，可能会在操作系统的安全性上带来重要影响。该漏洞的存在使得恶意用户能够获取更高的系统权限，可能导致敏感数据泄露或系统遭到攻击。这一发现需要网络安全专业人士的关注与应对。",
+  "tags": [
+    "Linux",
+    "安全漏洞",
+    "特权升级",
+    "网络安全",
+    "信息安全"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-14T08:55:40.375864"
+}

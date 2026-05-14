@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260514-026",
+  "title": "An update on East River Source Control availability",
+  "source": "rss-lobsters",
+  "source_url": "https://ersc.io/blog/ersc-availability",
+  "summary": "此文更新了东河源控制的可用性信息，提供了当前状况和相关链接，旨在帮助用户了解最新动态。",
+  "tags": [
+    "技术更新",
+    "源控制",
+    "东河项目"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-05-14T08:55:40.375969"
+}

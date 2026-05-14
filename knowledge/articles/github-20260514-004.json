@@ -1,0 +1,19 @@
+{
+  "id": "github-20260514-004",
+  "title": "zcf",
+  "source": "github-search",
+  "source_url": "https://github.com/UfoMiao/zcf",
+  "summary": "本文讨论了Zero-Config Code Flow的概念，专门针对Claude代码及Codex。该方法简化了开发流程，使得代码无须繁杂的配置即可运行，有助于提高开发效率和减少出错几率，非常适合软件开发人员使用。",
+  "tags": [
+    "Zero-Config",
+    "Claude",
+    "Codex",
+    "代码开发",
+    "效率提升"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-14T08:55:39.995646"
+}
