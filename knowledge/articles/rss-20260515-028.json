@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260515-028",
+  "title": "\"This is written by an LLM\" comments should be flagged as off-topic",
+  "source": "rss-lobsters",
+  "source_url": "https://lobste.rs/s/wee21u/this_is_written_by_llm_comments_should_be",
+  "summary": "文章讨论了关于如何处理评论中提到“这是LLM产生的垃圾”的问题，建议将这些评论标记为离题。作者认为，评论的质量对平台至关重要，而这样的争论只会增加用户的挫败感，因此提出在标记低质量文章为垃圾的基础上，也应标记这类元评论为离题，帮助提升讨论质量。",
+  "tags": [
+    "LLM",
+    "评论管理",
+    "社群讨论",
+    "文本质量",
+    "平台规范"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-05-15T09:02:37.653128"
+}

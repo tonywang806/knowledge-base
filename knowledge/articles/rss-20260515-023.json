@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260515-023",
+  "title": "Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
+  "source": "rss-hacker-news",
+  "source_url": "https://github.com/GlycemicGPT/GlycemicGPT",
+  "summary": "GlycemicGPT是一个开源的人工智能驱动的糖尿病管理工具，旨在帮助患者更好地控制血糖水平。该平台提供个性化建议，并结合用户的健康数据，实现智能化管理。",
+  "tags": [
+    "糖尿病管理",
+    "人工智能",
+    "开源软件",
+    "健康科技"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-15T09:02:37.565453"
+}

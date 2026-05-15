@@ -1,0 +1,12 @@
+{
+  "id": "92f8f44f-093c-48bf-8100-62ab1c3e7ed0",
+  "source": "github-search",
+  "title": "SecureShell",
+  "url": "https://github.com/divagr18/SecureShell",
+  "description": "Plug-and-play terminal security layer for LLM agents. Drop-in gatekeeper that prevents dangerous shell commands. Works with OpenAI, Claude, Gemini & more.",
+  "stars": "23",
+  "language": "Python",
+  "raw_content": "SecureShell\nPlug-and-play terminal security layer for LLM agents. Drop-in gatekeeper that prevents dangerous shell commands. Works with OpenAI, Claude, Gemini & more.",
+  "status": "pending",
+  "collected_at": "2026-05-15T09:02:37.036439"
+}

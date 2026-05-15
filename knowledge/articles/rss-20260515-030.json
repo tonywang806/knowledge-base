@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260515-030",
+  "title": "PyCon US 2026 Typing Summit Recap",
+  "source": "rss-lobsters",
+  "source_url": "https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/",
+  "summary": "本文总结了2026年PyCon US Python类型峰会的要点，包括交集类型、ty中的约束集、Pyrefly中的张量形状，以及Guido讨论的未来方向，为对Python类型系统感兴趣的人提供了深入的视角。",
+  "tags": [
+    "PyCon",
+    "Python",
+    "类型系统",
+    "编程语言"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-05-15T09:02:37.653264"
+}

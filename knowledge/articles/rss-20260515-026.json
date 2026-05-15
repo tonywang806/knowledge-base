@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260515-026",
+  "title": "Claude for Legal",
+  "source": "rss-hacker-news",
+  "source_url": "https://github.com/anthropics/claude-for-legal",
+  "summary": "Claude for Legal 是一款专为法律行业设计的AI工具，旨在提升法律工作的效率，提高文书处理速度，并减少人工错误。该工具集成多项功能，支持法律文书生成、合同审查等任务，帮助律师更高效地完成工作。",
+  "tags": [
+    "法律科技",
+    "人工智能",
+    "法律自动化"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-15T09:02:37.565643"
+}
