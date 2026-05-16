@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260516-028",
+  "title": "5× faster fast_blur in image-rs",
+  "source": "rss-lobsters",
+  "source_url": "https://apas.tel/blog/optimizing-image-rs-blur",
+  "summary": "本文介绍了在image-rs图像处理库中，fast_blur方法的速度提升，该方法现在比之前快5倍。这一改进将显著提高图像模糊处理的效率，特别适用于需要高性能图像处理的应用场景。",
+  "tags": [
+    "image processing",
+    "performance improvement",
+    "fast_blur",
+    "image-rs",
+    "computational efficiency"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-16T08:34:25.956119"
+}

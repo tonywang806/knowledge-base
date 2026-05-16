@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260516-031",
+  "title": "Mullvad exit IPs as a fingerprinting vector",
+  "source": "rss-lobsters",
+  "source_url": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
+  "summary": "本文讨论了Mullvad VPN的出口IP如何作为指纹识别的向量，探讨了其对用户隐私的潜在影响。文章分析了通过出口IP进行用户活动追踪的风险，并提出改进建议，以提高VPN使用的安全性。",
+  "tags": [
+    "网络安全",
+    "VPN",
+    "指纹识别",
+    "用户隐私",
+    "Mullvad"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-16T08:34:25.956381"
+}

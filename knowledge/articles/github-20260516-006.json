@@ -1,0 +1,18 @@
+{
+  "id": "github-20260516-006",
+  "title": "aide",
+  "source": "github-search",
+  "source_url": "https://github.com/nicepkg/aide",
+  "summary": "本文介绍了在VSCode中使用各种高效功能征服代码的方法，包括一键注释、代码转换、UI生成代码以及AI批量处理文件等，极大提升了开发效率。",
+  "tags": [
+    "VSCode",
+    "代码处理",
+    "AI工具",
+    "开发效率"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-16T08:34:25.193243"
+}

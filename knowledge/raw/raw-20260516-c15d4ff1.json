@@ -1,0 +1,10 @@
+{
+  "id": "c15d4ff1-fde2-44db-85f2-8223d4b7d65f",
+  "source": "rss-lobsters",
+  "title": "PyCon US 2026 Typing Summit Recap",
+  "url": "https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/",
+  "description": "&lt;p&gt;Just published my notes from this year's Python Typing Summit at PyCon US. If you've ever been curious what one of these is like from the inside: intersection types, constraint sets in ty, tensor shapes in Pyrefly, Guido on direction.&lt;/p&gt;\n&lt;p&gt;&lt;a href=\"https://lobste.rs/s/bxvzyy/pycon_us_2026_typing_summit_recap\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+  "raw_content": "PyCon US 2026 Typing Summit Recap\n&lt;p&gt;Just published my notes from this year's Python Typing Summit at PyCon US. If you've ever been curious what one of these is like from the inside: intersection types, constraint sets in ty, tensor shapes in Pyrefly, Guido on direction.&lt;/p&gt;\n&lt;p&gt;&lt;a href=\"https://lobste.rs/s/bxvzyy/pycon_us_2026_typing_summit_recap\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+  "status": "pending",
+  "collected_at": "2026-05-16T08:34:25.956442"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260516-030",
+  "title": "Prolog Basics Explained with Pokémon",
+  "source": "rss-lobsters",
+  "source_url": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
+  "summary": "本文通过使用宝可梦（Pokémon）作为示例，解释了Prolog编程语言的基本概念。适合初学者了解逻辑编程的基础知识。",
+  "tags": [
+    "Prolog",
+    "编程语言",
+    "逻辑编程",
+    "宝可梦",
+    "教程"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-16T08:34:25.956313"
+}

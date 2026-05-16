@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260516-025",
+  "title": "A 0-click exploit chain for the Pixel 10",
+  "source": "rss-hacker-news",
+  "source_url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+  "summary": "这篇文章介绍了针对Pixel 10的零点击漏洞链，揭示了安全性问题和潜在的影响。文章的深度与技术性提供了对该问题的全面理解，可能有助于提高用户的安全意识和设备防护。",
+  "tags": [
+    "安全漏洞",
+    "Pixel10",
+    "零点击攻击",
+    "网络安全",
+    "技术分析"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-16T08:34:25.299188"
+}

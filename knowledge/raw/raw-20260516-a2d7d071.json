@@ -1,0 +1,12 @@
+{
+  "id": "a2d7d071-4ceb-4fd9-a258-f52e27a1e7ca",
+  "source": "github-search",
+  "title": "agentlys",
+  "url": "https://github.com/myriade-ai/agentlys",
+  "description": "Lightweight AI agent library. Turn Python functions/classes into AI tools instantly. No verbose configs or complex abstractions.",
+  "stars": "30",
+  "language": "Python",
+  "raw_content": "agentlys\nLightweight AI agent library. Turn Python functions/classes into AI tools instantly. No verbose configs or complex abstractions.",
+  "status": "pending",
+  "collected_at": "2026-05-16T08:34:25.194019"
+}

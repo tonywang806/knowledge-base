@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260516-027",
+  "title": "Moving away from Tailwind, and learning to structure my CSS",
+  "source": "rss-lobsters",
+  "source_url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+  "summary": "文章探讨了从Tailwind CSS转向传统CSS结构的过程，强调了样式的可维护性和可读性的重要性，同时提供了学习CSS结构的实用建议。",
+  "tags": [
+    "CSS",
+    "Tailwind",
+    "前端开发",
+    "学习"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-05-16T08:34:25.955998"
+}

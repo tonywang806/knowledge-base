@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260516-026",
+  "title": "LLM generated submissions should be disallowed",
+  "source": "rss-lobsters",
+  "source_url": "https://lobste.rs/s/29pm2f/llm_generated_submissions_should_be",
+  "summary": "文章讨论了应该禁止LLM生成的稿件在网站上发布，目前对此还没有明确政策。倡导禁止频繁发布此类内容的用户，并建议在提交页面增加通知，以减少讨论和争论，维护内容的质量。",
+  "tags": [
+    "内容审核",
+    "人工智能",
+    "政策建议",
+    "社区管理"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-16T08:34:25.955924"
+}
