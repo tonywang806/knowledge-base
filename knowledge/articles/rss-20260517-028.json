@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260517-028",
+  "title": "PyCon US 2026 Packaging Summit Recap",
+  "source": "rss-lobsters",
+  "source_url": "https://discuss.python.org/t/packaging-summit-at-pycon-us-2026/106911/2",
+  "summary": "本次Python Packaging Summit会议讨论了多个关键议题，包括Wheel 2.0及Zstandard、PyPI滥用向量、conda与pip的比较以及nab作为pip解析器的候选问题。会议内容对于对Python打包有兴趣的开发者非常有启发性。",
+  "tags": [
+    "Python",
+    "Packaging",
+    "PyCon",
+    "Wheel",
+    "pip"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-17T08:43:07.306530"
+}

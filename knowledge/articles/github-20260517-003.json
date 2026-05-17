@@ -1,0 +1,19 @@
+{
+  "id": "github-20260517-003",
+  "title": "ai-guide",
+  "source": "github-search",
+  "source_url": "https://github.com/liyupi/ai-guide",
+  "summary": "《程序员鱼皮的 AI 资源大全》提供了丰富的AI学习和开发资源，包括从基础教程到大模型应用的丰富内容。它涵盖了最新的AI资讯、Prompt提示词和工具用法，以及全面的AI产品变现指南，帮助用户快速掌握相关技术。该项目为开源文档，且已升级为鱼皮 AI 导航网站，为程序员和AI爱好者提供了宝贵资源。",
+  "tags": [
+    "AI资源",
+    "编程教程",
+    "开源文档",
+    "技术分享",
+    "大模型应用"
+  ],
+  "analysis": {
+    "relevance_score": 9
+  },
+  "status": "review",
+  "collected_at": "2026-05-17T08:43:06.812579"
+}

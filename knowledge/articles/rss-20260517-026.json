@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260517-026",
+  "title": "Subscription Bombing: Email under Attack",
+  "source": "rss-lobsters",
+  "source_url": "https://cacm.acm.org/practice/subscription-bombing-email-under-attack/",
+  "summary": "本文讨论了一种新兴的网络攻击方式——订阅轰炸，攻击者通过大量注册电子邮件服务以干扰网络用户，导致邮件服务的超负荷和用户体验恶化。此类攻击对普通用户和企业都有潜在影响，需要提前防范与应对。",
+  "tags": [
+    "网络安全",
+    "电子邮件",
+    "订阅轰炸",
+    "网络攻击"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-17T08:43:07.306032"
+}

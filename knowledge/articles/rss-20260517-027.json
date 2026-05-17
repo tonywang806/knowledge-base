@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260517-027",
+  "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+  "source": "rss-lobsters",
+  "source_url": "https://www.seangoedecke.com/steering-vectors/",
+  "summary": "DeepSeek-V4-Flash 的出现让大语言模型（LLM）导向变得再次引人注目，可能会对机器学习和自然语言处理领域带来新的变化和机遇。",
+  "tags": [
+    "大语言模型",
+    "深度学习",
+    "自然语言处理",
+    "技术创新"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-17T08:43:07.306109"
+}

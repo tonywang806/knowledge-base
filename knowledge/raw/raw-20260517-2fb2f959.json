@@ -1,0 +1,10 @@
+{
+  "id": "2fb2f959-94ae-4a46-a36c-52848f6e0826",
+  "source": "rss-lobsters",
+  "title": "PyCon US 2026 Packaging Summit Recap",
+  "url": "https://discuss.python.org/t/packaging-summit-at-pycon-us-2026/106911/2",
+  "description": "&lt;p&gt;Just published my notes from this year's Python Packaging Summit at PyCon US. If you've ever been curious what one of these is like from the inside: Wheel 2.0 + Zstandard, PyPI abuse vectors, conda vs pip, nab as a pip-resolver candidate. 🐍&lt;/p&gt;\n&lt;p&gt;&lt;a href=\"https://lobste.rs/s/e06upg/pycon_us_2026_packaging_summit_recap\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+  "raw_content": "PyCon US 2026 Packaging Summit Recap\n&lt;p&gt;Just published my notes from this year's Python Packaging Summit at PyCon US. If you've ever been curious what one of these is like from the inside: Wheel 2.0 + Zstandard, PyPI abuse vectors, conda vs pip, nab as a pip-resolver candidate. 🐍&lt;/p&gt;\n&lt;p&gt;&lt;a href=\"https://lobste.rs/s/e06upg/pycon_us_2026_packaging_summit_recap\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+  "status": "pending",
+  "collected_at": "2026-05-17T08:43:07.306530"
+}

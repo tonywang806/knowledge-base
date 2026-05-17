@@ -1,0 +1,12 @@
+{
+  "id": "ecc7b82d-3b36-46e5-8981-1c7f589280e1",
+  "source": "github-search",
+  "title": "UnrealGenAISupport",
+  "url": "https://github.com/prajwalshettydev/UnrealGenAISupport",
+  "description": "Unreal Engine plugin for LLM/GenAI models & MCP UE5 server. OpenAI GPT-5, Deepseek R1, Claude Opus/Sonnet, Gemini 3, Grok 4, Alibaba Qwen, Kimi, ElevenLabs TTS, Inworld, OpenRouter, Groq, GLM, Ollama, Local, Meshy, Tripo, Hunyuan3D, Rodin, fal, Dashscope, Seedream. NPC AI, agentic, chat, 3D gen, TTS, multimodal, image gen. UnrealMCP/UnrealClaude",
+  "stars": "587",
+  "language": "C++",
+  "raw_content": "UnrealGenAISupport\nUnreal Engine plugin for LLM/GenAI models & MCP UE5 server. OpenAI GPT-5, Deepseek R1, Claude Opus/Sonnet, Gemini 3, Grok 4, Alibaba Qwen, Kimi, ElevenLabs TTS, Inworld, OpenRouter, Groq, GLM, Ollama, Local, Meshy, Tripo, Hunyuan3D, Rodin, fal, Dashscope, Seedream. NPC AI, agentic, chat, 3D gen, TTS, multimodal, image gen. UnrealMCP/UnrealClaude",
+  "status": "pending",
+  "collected_at": "2026-05-17T08:43:06.813149"
+}

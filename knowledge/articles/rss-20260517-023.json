@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260517-023",
+  "title": "Moving away from Tailwind, and learning to structure my CSS",
+  "source": "rss-hacker-news",
+  "source_url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+  "summary": "本文讨论了从Tailwind CSS转向自定义CSS结构的过程，强调了健全的CSS结构在项目中的重要性，推动开发者探索更灵活和可维护的样式方案。",
+  "tags": [
+    "CSS结构",
+    "Tailwind CSS",
+    "前端开发",
+    "样式管理",
+    "Web设计"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-05-17T08:43:07.174983"
+}
