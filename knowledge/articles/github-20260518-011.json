@@ -1,0 +1,19 @@
+{
+  "id": "github-20260518-011",
+  "title": "UnrealGenAISupport",
+  "source": "github-search",
+  "source_url": "https://github.com/prajwalshettydev/UnrealGenAISupport",
+  "summary": "UnrealGenAISupport是一个为虚幻引擎（Unreal Engine）提供的插件，支持多种大型语言模型（LLM）和生成人工智能（GenAI），例如OpenAI的GPT-5和Claude Opus等。该插件可用于开发非玩家角色（NPC）AI及支持多种功能，如对话、3D生成和文本转语音（TTS）。",
+  "tags": [
+    "虚幻引擎",
+    "人工智能",
+    "生成模型",
+    "插件",
+    "NPC AI"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-18T09:09:58.207396"
+}

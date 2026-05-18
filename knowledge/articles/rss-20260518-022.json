@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260518-022",
+  "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
+  "source": "rss-hacker-news",
+  "source_url": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
+  "summary": "这篇文章介绍了一段仅16字节的x86代码，能够将经典的矩阵雨效果转化为声音。这种神奇的技术实现让人惊叹，展示了低级编程如何创造出意想不到的效果，适合对编程和音效设计感兴趣的读者。",
+  "tags": [
+    "x86",
+    "编程",
+    "音效设计",
+    "技术文章",
+    "矩阵雨"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-18T09:09:58.325188"
+}

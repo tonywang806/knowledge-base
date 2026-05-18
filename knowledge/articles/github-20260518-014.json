@@ -1,0 +1,18 @@
+{
+  "id": "github-20260518-014",
+  "title": "agenthub",
+  "source": "github-search",
+  "source_url": "https://github.com/Prism-Shadow/agenthub",
+  "summary": "AgentHub是为代理时代建立的高精度自主代理的LLM API中心，支持多种大语言模型，如GPT-5.5、Claude 4.6和Gemini 3.1，旨在提升智能代理的性能和效率。",
+  "tags": [
+    "LLM",
+    "API",
+    "自主代理",
+    "技术创新"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-18T09:09:58.207559"
+}

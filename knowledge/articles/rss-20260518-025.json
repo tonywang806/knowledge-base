@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260518-025",
+  "title": "Fits on a Floppy - A Manifesto for Small Software",
+  "source": "rss-lobsters",
+  "source_url": "https://fitsonafloppy.com",
+  "summary": "在应用程序不断变大的时代，依然能在软盘上运行有用应用是一种值得赞赏的现象。这些小型应用虽然自身体积小，却依赖于庞大的iOS和macOS SDK，展现了简约和功能性的结合。",
+  "tags": [
+    "小型软件",
+    "应用开发",
+    "简约设计",
+    "iOS",
+    "macOS"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-05-18T09:09:58.593337"
+}

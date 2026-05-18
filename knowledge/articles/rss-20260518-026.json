@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260518-026",
+  "title": "Claude Code managed to get Adobe Lightroom working on Linux",
+  "source": "rss-lobsters",
+  "source_url": "https://github.com/sander110419/lightroom-cc-on-linux",
+  "summary": "Claude Code成功在Linux平台上运行Adobe Lightroom，展示了在不同操作系统上实现高效图像处理软件的可能性。这一成就为Linux用户打开了新的编辑选择。",
+  "tags": [
+    "Adobe Lightroom",
+    "Linux",
+    "图像处理",
+    "软件兼容性"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-18T09:09:58.593427"
+}

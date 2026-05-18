@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260518-021",
+  "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+  "source": "rss-hacker-news",
+  "source_url": "https://github.com/MinishLab/semble",
+  "summary": "Semble是一种针对智能代理的代码搜索工具，其token使用量比传统的grep少98%。该工具有望提高代码搜索的效率，改善开发者的工作流程。",
+  "tags": [
+    "代码搜索",
+    "开发工具",
+    "机器学习",
+    "智能代理"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-18T09:09:58.325113"
+}

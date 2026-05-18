@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260518-027",
+  "title": "Reverse engineering Android malware with Claude Code",
+  "source": "rss-lobsters",
+  "source_url": "https://zanestjohn.com/blog/reing-with-claude-code",
+  "summary": "这篇文章介绍了如何利用Claude Code进行Android恶意软件的逆向工程。文章内容涵盖了相关工具的使用技巧和分析过程，对于网络安全研究人员提供了实用的指导和深入的分析。",
+  "tags": [
+    "Android",
+    "恶意软件",
+    "逆向工程",
+    "网络安全",
+    "技术分析"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-18T09:09:58.593492"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "838929e2-f37d-48f4-af83-805746bc7627",
+  "source": "rss-lobsters",
+  "title": "Fits on a Floppy - A Manifesto for Small Software",
+  "url": "https://fitsonafloppy.com",
+  "description": "&lt;p&gt;In a world where application are getting bigger and bigger seeing application that do something useful while still fitting in a floppy disk is remarkable.&lt;/p&gt;\n&lt;p&gt;To be fair, the apps linked there heavily use the iOS and macOS SDK, so the application itself is small but it still depends on a potentially bug amount of code.&lt;/p&gt;\n&lt;p&gt;&lt;a href=\"https://lobste.rs/s/sdylhl/fits_on_floppy_manifesto_for_small\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+  "raw_content": "Fits on a Floppy - A Manifesto for Small Software\n&lt;p&gt;In a world where application are getting bigger and bigger seeing application that do something useful while still fitting in a floppy disk is remarkable.&lt;/p&gt;\n&lt;p&gt;To be fair, the apps linked there heavily use the iOS and macOS SDK, so the application itself is small but it still depends on a potentially bug amount of code.&lt;/p&gt;\n&lt;p&gt;&lt;a href=\"https://lobste.rs/s/sdylhl/fits_on_floppy_manifesto_for_small\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+  "status": "pending",
+  "collected_at": "2026-05-18T09:09:58.593337"
+}
