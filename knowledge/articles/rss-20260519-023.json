@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260519-023",
+  "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+  "source": "rss-hacker-news",
+  "source_url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+  "summary": "近期报告显示，314个npm软件包遭到攻击，安全性遭到严重威胁。这一事件影响了众多开发者和项目，强调了对开源依赖管理的重视。 为此，开发者需要提高警惕，定期检查和更新依赖，确保代码安全。",
+  "tags": [
+    "npm",
+    "安全",
+    "开源",
+    "软件包",
+    "网络安全"
+  ],
+  "analysis": {
+    "relevance_score": 9
+  },
+  "status": "review",
+  "collected_at": "2026-05-19T09:07:59.577171"
+}

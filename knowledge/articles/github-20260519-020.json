@@ -1,0 +1,18 @@
+{
+  "id": "github-20260519-020",
+  "title": "genesis-agent",
+  "source": "github-search",
+  "source_url": "https://github.com/Garrus800-stack/genesis-agent",
+  "summary": "Genesis-agent是一个自我意识的认知AI代理，它能够读取、修改和验证自己的代码，具备自主规划、情节记忆、情感状态和多类认知处理的整合能力。该应用支持Claude、GPT-4或Ollama，适用于Windows、macOS和Linux的Electron桌面应用程序。",
+  "tags": [
+    "自我意识",
+    "认知AI",
+    "跨平台应用",
+    "情感智能"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-19T09:07:59.147600"
+}

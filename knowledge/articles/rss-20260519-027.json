@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260519-027",
+  "title": "A 16-byte x86 demo: Matrix rain with sound",
+  "source": "rss-lobsters",
+  "source_url": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
+  "summary": "该16字节x86演示展示了一个矩阵雨的视觉效果，并结合音效，为观众创造了一种新颖的体验。由于代码仅为16字节，展示了在极限条件下的创意实现。",
+  "tags": [
+    "编程",
+    "汇编语言",
+    "视觉艺术",
+    "音效",
+    "技术演示"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-05-19T09:07:59.749571"
+}

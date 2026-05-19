@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260519-028",
+  "title": "cargo-crap: Finding Untested Complexity in AI-Generated Rust Code",
+  "source": "rss-lobsters",
+  "source_url": "https://minikin.me/blog/cargo-crap/",
+  "summary": "文章探讨了cargo-crap工具如何帮助开发者检测AI生成的Rust代码中的未测试复杂性，强调其在提高代码质量和维护性方面的重要性。",
+  "tags": [
+    "Rust",
+    "AI",
+    "代码质量",
+    "开发工具",
+    "复杂性检测"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-19T09:07:59.749699"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260519-021",
+  "title": "My domain got abused on GitHub Pages",
+  "source": "rss-hacker-news",
+  "source_url": "https://meertens.dev/blog/github-enables-domain-abuse/",
+  "summary": "GitHub Pages上的域名被滥用，可能影响网站安全性与声誉。用户需加强领域保护措施，以防止未来的问题。",
+  "tags": [
+    "GitHub",
+    "域名",
+    "网络安全",
+    "滥用",
+    "保护措施"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-05-19T09:07:59.576960"
+}
