@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260520-026",
+  "title": "CopyFail: From Pod to Host",
+  "source": "rss-hacker-news",
+  "source_url": "https://xint.io/blog/copy-fail-pod-to-host",
+  "summary": "本文探讨了在容器化环境中，从Pod到主机的数据传输失败相关问题，分析了可能导致CopyFail的原因，及其对微服务架构和数据一致性的重要影响。引导读者了解如何改进数据传输方式，避免此类问题。",
+  "tags": [
+    "容器化",
+    "数据传输",
+    "微服务",
+    "CopyFail",
+    "技术分析"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-20T09:06:25.963226"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260520-028",
+  "title": "My domain got abused on Github Pages",
+  "source": "rss-lobsters",
+  "source_url": "https://meertens.dev/blog/github-enables-domain-abuse/",
+  "summary": "该文章讨论了在GitHub Pages上域名被滥用的经历，包括滥用的情况、后果及如何应对，强调了安全防范的重要性，提醒用户注意域名管理。",
+  "tags": [
+    "GitHub Pages",
+    "域名安全",
+    "网络滥用",
+    "安全防护"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-20T09:06:26.307292"
+}

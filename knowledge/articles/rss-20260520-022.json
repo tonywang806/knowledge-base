@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260520-022",
+  "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+  "source": "rss-hacker-news",
+  "source_url": "https://github.com/antoinezambelli/forge",
+  "summary": "Forge是对一个大型8B模型进行的研究，显示通过实施管道铁路（guardrails）策略，可以显著提升模型在代理任务中的表现，从原来的53%提升至99%。这一成果表明，适当的监管措施可极大地改善AI系统的效能与安全性。",
+  "tags": [
+    "AI",
+    "模型优化",
+    "代理任务",
+    "机器学习",
+    "研究成果"
+  ],
+  "analysis": {
+    "relevance_score": 9
+  },
+  "status": "review",
+  "collected_at": "2026-05-20T09:06:25.962952"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260520-027",
+  "title": "Gemini CLI will stop working from June 18, 2026",
+  "source": "rss-hacker-news",
+  "source_url": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
+  "summary": "Gemini CLI将在2026年6月18日停止工作，因此用户需提前做好迁移或升级准备，以免影响工作流程和服务使用。",
+  "tags": [
+    "Gemini CLI",
+    "技术更新",
+    "软件停止",
+    "用户通知"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-20T09:06:25.963283"
+}
