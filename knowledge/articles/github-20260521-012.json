@@ -1,0 +1,19 @@
+{
+  "id": "github-20260521-012",
+  "title": "openclaw-guide",
+  "source": "github-search",
+  "source_url": "https://github.com/liyupi/openclaw-guide",
+  "summary": "OpenClaw中文文档站提供全面的指南，涵盖AI助手的安装、消息渠道接入、技能配置等，支持多种聊天平台与LLM提供商，助力中文用户轻松使用开源AI技术。",
+  "tags": [
+    "OpenClaw",
+    "AI助手",
+    "开源技术",
+    "中文文档",
+    "多平台支持"
+  ],
+  "analysis": {
+    "relevance_score": 9
+  },
+  "status": "review",
+  "collected_at": "2026-05-21T09:07:10.675543"
+}

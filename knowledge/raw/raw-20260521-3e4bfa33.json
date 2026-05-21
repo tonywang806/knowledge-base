@@ -1,0 +1,12 @@
+{
+  "id": "3e4bfa33-5dbc-4ed4-8401-0d2aac4aa0ca",
+  "source": "github-search",
+  "title": "generative_ai_with_langchain",
+  "url": "https://github.com/benman1/generative_ai_with_langchain",
+  "description": "Build production-ready LLM applications and advanced agents using Python, LangChain, and LangGraph. This is the companion repository for the book on generative AI with LangChain.",
+  "stars": "1359",
+  "language": "Jupyter Notebook",
+  "raw_content": "generative_ai_with_langchain\nBuild production-ready LLM applications and advanced agents using Python, LangChain, and LangGraph. This is the companion repository for the book on generative AI with LangChain.",
+  "status": "pending",
+  "collected_at": "2026-05-21T09:07:10.675415"
+}

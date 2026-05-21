@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260521-027",
+  "title": "OpenSMTPD Is The Mail Server For The Future",
+  "source": "rss-lobsters",
+  "source_url": "https://bsdly.blogspot.com/2026/05/opensmtpd-is-mail-server-for-future.html",
+  "summary": "OpenSMTPD 被视为未来的邮件服务器，因其简化的配置、高度的安全性和易于管理的特性，适合现代邮件传输需求，并解决了传统邮件服务器的一些常见问题和不足。",
+  "tags": [
+    "OpenSMTPD",
+    "邮件服务器",
+    "网络安全",
+    "技术发展"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-21T09:07:11.214689"
+}

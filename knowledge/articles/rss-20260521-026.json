@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260521-026",
+  "title": "GitHub Source Code Breach - TeamPCP Claims Access to Internal Source Code",
+  "source": "rss-lobsters",
+  "source_url": "https://cybersecuritynews.com/github-source-code-breach/",
+  "summary": "最近，TeamPCP宣称获得了GitHub的内部源代码，导致了有关代码泄露的重大安全隐患。这一事件引发了对开发者和用户间安全性的担忧与讨论。",
+  "tags": [
+    "GitHub",
+    "安全漏洞",
+    "源代码泄露",
+    "TeamPCP",
+    "网络安全"
+  ],
+  "analysis": {
+    "relevance_score": 9
+  },
+  "status": "review",
+  "collected_at": "2026-05-21T09:07:11.214571"
+}
