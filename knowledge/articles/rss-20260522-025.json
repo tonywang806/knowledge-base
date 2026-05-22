@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260522-025",
+  "title": "Aggressive AI scrapers are making it kinda suck to run wikis",
+  "source": "rss-lobsters",
+  "source_url": "https://weirdgloop.org/blog/clankers",
+  "summary": "随着激进的AI爬虫的出现，运行维基的难度增加，影响了内容的管理和维护。这种变化给维基社区带来了新的挑战，尤其是在保护知识产权和内容安全方面。",
+  "tags": [
+    "人工智能",
+    "网站管理",
+    "维基",
+    "网络安全",
+    "爬虫技术"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-22T09:05:21.028391"
+}

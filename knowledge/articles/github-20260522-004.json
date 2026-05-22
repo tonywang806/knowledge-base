@@ -1,0 +1,19 @@
+{
+  "id": "github-20260522-004",
+  "title": "zcf",
+  "source": "github-search",
+  "source_url": "https://github.com/UfoMiao/zcf",
+  "summary": "本文介绍了Claude代码和Codex的零配置代码流，强调其简便性和高效性，使开发者能更快速地实现代码管理和自动化流程。",
+  "tags": [
+    "代码管理",
+    "自动化",
+    "开发工具",
+    "Claude",
+    "Codex"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-05-22T09:05:20.622599"
+}

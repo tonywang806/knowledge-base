@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260522-023",
+  "title": "We should get rid of average CPU utilization",
+  "source": "rss-hacker-news",
+  "source_url": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/",
+  "summary": "我们应该摒弃平均CPU利用率这一指标，因为它可能掩盖系统的真实表现，影响性能分析和资源管理。使用更具体的测量工具和指标将更有助于优化资源的分配与使用。",
+  "tags": [
+    "CPU利用率",
+    "性能分析",
+    "资源管理",
+    "技术优化"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-22T09:05:20.950484"
+}

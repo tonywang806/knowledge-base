@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260522-024",
+  "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
+  "source": "rss-hacker-news",
+  "source_url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
+  "summary": "文章讨论了在2021年款MacBook上使用Gemma4-31B将一年视频进行本地索引的过程，涉及系统资源管理和内存使用情况，适合寻找高效视频处理方案的用户。",
+  "tags": [
+    "视频索引",
+    "MacBook",
+    "Gemma4-31B",
+    "系统资源",
+    "视频处理"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-05-22T09:05:20.950571"
+}

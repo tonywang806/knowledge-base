@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260522-026",
+  "title": "Dependency cooldowns are unfair; we should use phased rollouts instead",
+  "source": "rss-lobsters",
+  "source_url": "https://illegalcode.net/rfcs/phased_rollouts.html",
+  "summary": "依赖冷却期存在不公平性，建议采用分阶段发布的方式以解决这一问题。分阶段发布可以减少风险，提高系统的稳定性和用户体验。",
+  "tags": [
+    "依赖管理",
+    "软件开发",
+    "分阶段发布",
+    "风险管理"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-22T09:05:21.028493"
+}
