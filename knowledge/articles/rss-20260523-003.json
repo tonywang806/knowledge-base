@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260523-003",
+  "title": "CISA tries to contain data leak",
+  "source": "rss-hacker-news",
+  "source_url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+  "summary": "CISA正在采取措施以遏制数据泄露的事件，关注数据安全和网络防护，以保护敏感信息免受威胁。相关措施可能涉及更新防护机制和加强网络监测。",
+  "tags": [
+    "数据安全",
+    "网络防护",
+    "CISA",
+    "信息保护",
+    "数据泄露"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-05-23T08:41:51.906743"
+}

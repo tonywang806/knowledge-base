@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260523-007",
+  "title": "The Maintainer's Dilemma",
+  "source": "rss-lobsters",
+  "source_url": "https://spf13.com/p/the-maintainers-dilemma/",
+  "summary": "文章讨论了维护者在开源项目中面临的困境，包括资源分配、时间管理和参与者的意见之争。强调了维护者在保持项目活跃与满足社区需求之间的挑战，并探讨可能的解决方法。",
+  "tags": [
+    "开源",
+    "维护者",
+    "项目管理",
+    "社区",
+    "技术挑战"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-23T08:41:52.083600"
+}

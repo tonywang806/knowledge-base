@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260523-001",
+  "title": "Microsoft starts canceling Claude Code licenses",
+  "source": "rss-hacker-news",
+  "source_url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+  "summary": "微软开始取消Claude Code的许可证，这一决策可能影响相关开发者和用户，为他们的项目和工作环境带来不确定性。需要关注后续的许可证转移政策及其对技术生态的影响。",
+  "tags": [
+    "Microsoft",
+    "Claude Code",
+    "许可证",
+    "开发者",
+    "技术变更"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-05-23T08:41:51.906577"
+}
