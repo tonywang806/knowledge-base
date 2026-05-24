@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260524-023",
+  "title": "Procedural Fascicle for R7RS Large Scheme",
+  "source": "rss-lobsters",
+  "source_url": "https://r7rs.org/large/fascicles/proc/",
+  "summary": "Scheme Working Group 2发布了R7RS-Large Foundations的初稿，介绍了名为“Procedural Fascicle”的新特性，包括支持在函数体中混合定义与表达式，提升了编程灵活性。该草案欢迎公众评论和建议。",
+  "tags": [
+    "Scheme",
+    "R7RS",
+    "编程",
+    "草案",
+    "计算机科学"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-24T08:51:17.126333"
+}

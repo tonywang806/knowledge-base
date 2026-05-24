@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260524-024",
+  "title": "Cuneiforth: A Forth for your Chifir",
+  "source": "rss-lobsters",
+  "source_url": "https://gopher.floodgap.com/gopher/gw?a=gopher%3A%2F%2Fthelambdalab.xyz%2F1cuneiforth%2F",
+  "summary": "文章描述了一组23世纪的考古学家发现一个生锈的货运集装箱，集装箱上写着“20世纪晚期计算机档案”。这引发了对计算机历史的探讨，以及一款名为Cuneiforth的Forth语言，适用于当代技术环境的思考。",
+  "tags": [
+    "考古学",
+    "计算机历史",
+    "编程语言",
+    "Forth语言"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-05-24T08:51:17.126413"
+}

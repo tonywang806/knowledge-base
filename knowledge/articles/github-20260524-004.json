@@ -1,0 +1,19 @@
+{
+  "id": "github-20260524-004",
+  "title": "zcf",
+  "source": "github-search",
+  "source_url": "https://github.com/UfoMiao/zcf",
+  "summary": "Zero-Config Code Flow为Claude和Codex提供了一种无需配置的编码流程，简化了软件开发与集成的过程，使开发者能够更加专注于代码编写，而非环境配置。",
+  "tags": [
+    "编程",
+    "软件开发",
+    "Claude",
+    "Codex",
+    "自动化"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-24T08:51:16.578833"
+}

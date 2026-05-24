@@ -1,0 +1,12 @@
+{
+  "id": "b178025f-a9bf-49db-85df-865ac1ada66e",
+  "source": "github-search",
+  "title": "promptfoo",
+  "url": "https://github.com/promptfoo/promptfoo",
+  "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.",
+  "stars": "21544",
+  "language": "TypeScript",
+  "raw_content": "promptfoo\nTest your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.",
+  "status": "pending",
+  "collected_at": "2026-05-24T08:51:16.578717"
+}

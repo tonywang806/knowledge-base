@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260524-022",
+  "title": "Hershey is a textual vector font format",
+  "source": "rss-lobsters",
+  "source_url": "https://wiki.xxiivv.com/site/hershey.html",
+  "summary": "Hershey是一种文本矢量字体格式，旨在提供高度可定制的字体显示。该格式以简洁的文本结构为特色，便于在各种应用程序中实现。在技术和设计领域，Hershey字体格式的灵活性使其成为一个值得探索的选项。",
+  "tags": [
+    "字体",
+    "矢量图",
+    "Hershey",
+    "文本格式",
+    "设计"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-05-24T08:51:17.126250"
+}
