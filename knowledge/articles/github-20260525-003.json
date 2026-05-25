@@ -1,0 +1,19 @@
+{
+  "id": "github-20260525-003",
+  "title": "ai-guide",
+  "source": "github-search",
+  "source_url": "https://github.com/liyupi/ai-guide",
+  "summary": "这篇文章汇总了程序员鱼皮的 AI 资源，从零基础教程到深度学习和大模型应用，涵盖了 AI 编程、工具和开发框架等多方面内容，旨在帮助读者快速掌握并应用 AI 技术，是一个全面的开源学习资源。",
+  "tags": [
+    "AI资源",
+    "编程教程",
+    "大模型",
+    "开源",
+    "技术学习"
+  ],
+  "analysis": {
+    "relevance_score": 9
+  },
+  "status": "review",
+  "collected_at": "2026-05-25T09:19:49.640854"
+}

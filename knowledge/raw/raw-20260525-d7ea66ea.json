@@ -1,0 +1,12 @@
+{
+  "id": "d7ea66ea-e2a1-458e-b0bb-9be96337e611",
+  "source": "github-search",
+  "title": "animus-cli",
+  "url": "https://github.com/launchapp-dev/animus-cli",
+  "description": "Autonomous AI agent orchestrator — run multi-model dev teams (Claude, Gemini, GPT) with YAML workflows, daemon scheduling, and MCP integration. 100% Rust.",
+  "stars": "37",
+  "language": "Rust",
+  "raw_content": "animus-cli\nAutonomous AI agent orchestrator — run multi-model dev teams (Claude, Gemini, GPT) with YAML workflows, daemon scheduling, and MCP integration. 100% Rust.",
+  "status": "pending",
+  "collected_at": "2026-05-25T09:19:49.641490"
+}

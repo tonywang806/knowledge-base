@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260525-022",
+  "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+  "source": "rss-hacker-news",
+  "source_url": "https://arxiv.org/abs/2605.06445",
+  "summary": "本文探讨了大型语言模型（LLM）在后台代码生成中的局限性，尤其是约束衰退现象对模型表现的影响。这一研究揭示了LLM代理在面对复杂开发任务时的脆弱性，影响其生成高质量代码的能力。",
+  "tags": [
+    "大型语言模型",
+    "代码生成",
+    "人工智能",
+    "计算机科学"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-25T09:19:50.004097"
+}
