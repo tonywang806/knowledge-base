@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260526-027",
+  "title": "Common Lisp Portability Library Status",
+  "source": "rss-lobsters",
+  "source_url": "https://portability.cl/",
+  "summary": "本文讨论了共同Lisp可移植性库的现状，介绍了该库在不同Lisp实现中的兼容性与使用情况，强调了开发者在使用过程中面临的挑战与解决方案。",
+  "tags": [
+    "Common Lisp",
+    "可移植性",
+    "开发者工具",
+    "编程语言"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-05-26T09:08:33.773680"
+}

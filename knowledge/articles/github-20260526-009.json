@@ -1,0 +1,19 @@
+{
+  "id": "github-20260526-009",
+  "title": "py-gpt",
+  "source": "github-search",
+  "source_url": "https://github.com/szczyglis-dev/py-gpt",
+  "summary": "py-gpt是一个桌面AI助手，利用多种先进的技术如GPT-5、GPT-4及其他AI模型，提供图像和视频生成、语音合成、搜索等多种功能，支持Linux、Windows和Mac系统。",
+  "tags": [
+    "AI助手",
+    "桌面应用",
+    "多功能",
+    "图像生成",
+    "语音识别"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-26T09:08:33.277857"
+}

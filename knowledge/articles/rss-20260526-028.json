@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260526-028",
+  "title": "Fully in-browser container builds",
+  "source": "rss-lobsters",
+  "source_url": "https://ochagavia.nl/blog/fully-in-browser-container-builds/",
+  "summary": "该文章讨论了完全在浏览器中进行容器构建的技术和方法。这种技术能够简化开发流程，提高效率，用户能够无需额外工具即可在网页上完成构建。",
+  "tags": [
+    "容器技术",
+    "浏览器开发",
+    "软件构建",
+    "开发效率",
+    "云计算"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-26T09:08:33.773732"
+}
