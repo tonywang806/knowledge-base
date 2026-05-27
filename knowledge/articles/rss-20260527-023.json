@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260527-023",
+  "title": "Show HN: Posthorn, self-hosted mail without the mail server",
+  "source": "rss-hacker-news",
+  "source_url": "https://github.com/craigmccaskill/posthorn",
+  "summary": "Posthorn 是一种无需邮件服务器的自托管邮件解决方案，旨在简化邮件管理与使用。用户可以轻松访问和管理邮件，消除传统邮件服务的复杂性和成本。",
+  "tags": [
+    "自托管",
+    "邮件服务",
+    "开源项目",
+    "技术创新"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-27T09:07:27.531201"
+}

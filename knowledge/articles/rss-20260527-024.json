@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260527-024",
+  "title": "Using AI to write better code more slowly",
+  "source": "rss-lobsters",
+  "source_url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+  "summary": "本文讨论了使用人工智能来编写更优质代码但速度较慢的现象。通过分析AI在编程中的应用，探讨了质量与速度的平衡以及如何将AI技术有效整合进开发流程。",
+  "tags": [
+    "人工智能",
+    "编程",
+    "代码优化",
+    "软件开发",
+    "技术应用"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-05-27T09:07:27.811149"
+}

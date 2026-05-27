@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260527-021",
+  "title": "Prompt Politeness Affects LLM Accuracy (2025)",
+  "source": "rss-hacker-news",
+  "source_url": "https://arxiv.org/abs/2510.04950",
+  "summary": "研究表明，提示语的礼貌程度会显著影响大型语言模型（LLM）的准确性。提高礼貌性提示的使用可能促进更有效的模型反应，从而改变对话的质量和结果。",
+  "tags": [
+    "语言模型",
+    "自然语言处理",
+    "提示语",
+    "人工智能",
+    "模型准确性"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-27T09:07:27.531030"
+}

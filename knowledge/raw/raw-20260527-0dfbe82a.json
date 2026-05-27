@@ -1,0 +1,12 @@
+{
+  "id": "0dfbe82a-d2e9-4d21-b1f4-3389cefd731d",
+  "source": "github-search",
+  "title": "ask",
+  "url": "https://github.com/elias-ba/ask",
+  "description": "ask is an AI-powered CLI tool for developers who live in the terminal. It brings multi-provider LLM support, agent capabilities, and shell-native intelligence to your fingertips.",
+  "stars": "46",
+  "language": "Shell",
+  "raw_content": "ask\nask is an AI-powered CLI tool for developers who live in the terminal. It brings multi-provider LLM support, agent capabilities, and shell-native intelligence to your fingertips.",
+  "status": "pending",
+  "collected_at": "2026-05-27T09:07:27.271035"
+}

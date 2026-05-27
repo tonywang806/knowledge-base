@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260527-022",
+  "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+  "source": "rss-hacker-news",
+  "source_url": "https://arps18.github.io/posts/claude-code-mastery/",
+  "summary": "本文讨论了Claude.md作为日常工作的有效工具，重点介绍了其技能、子代理、插件和多级控制协议（MCP）。对开发者和日常用户来说，Claude.md能够提高工作效率和自动化水平，因此值得深入了解与应用。",
+  "tags": [
+    "Claude.md",
+    "自动化工具",
+    "效率提升",
+    "插件",
+    "技术应用"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-05-27T09:07:27.531112"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "github-20260527-006",
+  "title": "aide",
+  "source": "github-search",
+  "source_url": "https://github.com/nicepkg/aide",
+  "summary": "这篇文章介绍了如何在 Visual Studio Code (VSCode) 中高效管理代码，包括一键注释、代码转换、从 UI 生成代码及 AI 的批量文件处理，提升开发效率。",
+  "tags": [
+    "VSCode",
+    "代码管理",
+    "AI工具",
+    "开发效率"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-27T09:07:27.270448"
+}
