@@ -1,0 +1,19 @@
+{
+  "id": "github-20260528-004",
+  "title": "zcf",
+  "source": "github-search",
+  "source_url": "https://github.com/UfoMiao/zcf",
+  "summary": "本文讨论了Claude和Codex的零配置代码流程，强调其简化的开发流程和高效的代码生成能力，适合快速开发和原型设计。",
+  "tags": [
+    "代码生成",
+    "Claude",
+    "Codex",
+    "开发流程",
+    "技术创新"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-28T09:13:14.636918"
+}

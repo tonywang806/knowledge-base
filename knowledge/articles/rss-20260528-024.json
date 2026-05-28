@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260528-024",
+  "title": "AI Datacenters Were Built for GPUs. What Happens When You Remove the GPUs?",
+  "source": "rss-hacker-news",
+  "source_url": "https://almartis.xyz/gpu-free-datacenter.html",
+  "summary": "近年来，数据中心普遍依赖于GPU进行运算，而当GPU被移除，数据中心的运算能力和效率会受到直接影响。这将引发对数据中心设计和运维的新思考，特别是在算力需求与硬件选择之间的平衡问题。",
+  "tags": [
+    "数据中心",
+    "GPU",
+    "计算能力",
+    "硬件设计"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-05-28T09:13:14.750575"
+}

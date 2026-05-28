@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260528-025",
+  "title": "Rust (and Slint) on a Jailbroken Kindle",
+  "source": "rss-hacker-news",
+  "source_url": "https://sverre.me/blog/rust-on-kindle/",
+  "summary": "该文章探讨了在越狱的Kindle设备上运行Rust编程语言及Slint图形界面的可能性，分析了其技术挑战和实施流程，提供了对开发者的实用指导。",
+  "tags": [
+    "Rust",
+    "Slint",
+    "越狱",
+    "Kindle",
+    "开发技术"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-28T09:13:14.750660"
+}

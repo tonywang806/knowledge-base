@@ -1,0 +1,19 @@
+{
+  "id": "github-20260528-017",
+  "title": "UCAI",
+  "source": "github-search",
+  "source_url": "https://github.com/nirholas/UCAI",
+  "summary": "环球合同人工智能接口（UCAI）是一个开放标准，旨在将AI代理与区块链连接，实现聪明合约的服务器生成。支持的技术包括Claude、Uniswap、Aave等，并与多种区块链网络如Polygon、Arbitrum和Ethereum EVM链集成，同时提供Python CLI和Web3工具，方便用户进行交易模拟。",
+  "tags": [
+    "区块链",
+    "人工智能",
+    "合同",
+    "智能合约",
+    "DeFi"
+  ],
+  "analysis": {
+    "relevance_score": 9
+  },
+  "status": "review",
+  "collected_at": "2026-05-28T09:13:14.637820"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260528-028",
+  "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
+  "source": "rss-hacker-news",
+  "source_url": "https://arxiv.org/abs/2510.04950",
+  "summary": "研究表明，提示礼貌性对大型语言模型的准确性有显著影响。礼貌的提示可能导致更好的理解和反应，提升模型的表现。",
+  "tags": [
+    "大型语言模型",
+    "提示设计",
+    "人工智能",
+    "礼貌性",
+    "模型准确性"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-28T09:13:14.750855"
+}
