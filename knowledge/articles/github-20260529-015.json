@@ -1,0 +1,18 @@
+{
+  "id": "github-20260529-015",
+  "title": "ask",
+  "source": "github-search",
+  "source_url": "https://github.com/elias-ba/ask",
+  "summary": "ask 是一款为开发人员设计的AI驱动CLI工具，专注于终端使用。它支持多个AI提供商的语言模型，具备代理功能，并提供本地Shell智能，极大地增强开发效率。",
+  "tags": [
+    "AI工具",
+    "CLI",
+    "开发者工具",
+    "多语言支持"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-29T09:08:57.538936"
+}

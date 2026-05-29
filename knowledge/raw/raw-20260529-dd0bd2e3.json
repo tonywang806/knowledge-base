@@ -1,0 +1,10 @@
+{
+  "id": "dd0bd2e3-fc73-4287-bcd6-0046e57778aa",
+  "source": "rss-lobsters",
+  "title": "tail CI logs over SSH",
+  "url": "https://blog.tangled.org/ssh/",
+  "description": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/d9n2yd/tail_ci_logs_over_ssh\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+  "raw_content": "tail CI logs over SSH\n&lt;p&gt;&lt;a href=\"https://lobste.rs/s/d9n2yd/tail_ci_logs_over_ssh\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+  "status": "pending",
+  "collected_at": "2026-05-29T09:08:57.991420"
+}

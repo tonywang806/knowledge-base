@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260529-027",
+  "title": "tail CI logs over SSH",
+  "source": "rss-lobsters",
+  "source_url": "https://blog.tangled.org/ssh/",
+  "summary": "该文章介绍了如何通过SSH访问和实时查看CI（持续集成）日志，强调了使用tail命令的技巧和最佳实践，方便开发者在远程环境中进行错误排查和监控。",
+  "tags": [
+    "CI",
+    "SSH",
+    "日志",
+    "开发工具",
+    "技术分享"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-29T09:08:57.991420"
+}

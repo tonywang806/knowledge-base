@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260529-026",
+  "title": "SQLite Does Not Accept Agentic Code",
+  "source": "rss-lobsters",
+  "source_url": "https://simonwillison.net/2026/May/27/sqlite-agents/",
+  "summary": "这篇文章探讨了SQLite数据库系统对于代理代码的接受程度，指出SQLite不支持这类代码，从而影响开发模式和代码安全性。",
+  "tags": [
+    "SQLite",
+    "数据库",
+    "代理代码",
+    "技术分析"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-05-29T09:08:57.991354"
+}

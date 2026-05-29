@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260529-022",
+  "title": "Claude Code – Everything You Can Configure That the Docs Don&#x27;t Tell You",
+  "source": "rss-hacker-news",
+  "source_url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+  "summary": "本文介绍了Claude Code的配置细节，重点探讨了文档未涵盖的设置选项，帮助用户深入理解如何充分利用该工具。这对于想要优化操作和功能的开发者尤其重要。",
+  "tags": [
+    "Claude Code",
+    "配置指南",
+    "开发工具",
+    "技术文章"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-29T09:08:57.746228"
+}

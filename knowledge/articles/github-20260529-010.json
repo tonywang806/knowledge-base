@@ -1,0 +1,19 @@
+{
+  "id": "github-20260529-010",
+  "title": "generative_ai_with_langchain",
+  "source": "github-search",
+  "source_url": "https://github.com/benman1/generative_ai_with_langchain",
+  "summary": "该内容介绍了如何使用Python、LangChain和LangGraph构建生产就绪的LLM应用程序和高级代理，这是一本关于生成式AI与LangChain的书的附属仓库。",
+  "tags": [
+    "生成式AI",
+    "LangChain",
+    "Python",
+    "应用开发",
+    "高级代理"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-29T09:08:57.538729"
+}
