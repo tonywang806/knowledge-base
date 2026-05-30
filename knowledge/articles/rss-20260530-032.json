@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260530-032",
+  "title": "How do you version public web APIs?",
+  "source": "rss-lobsters",
+  "source_url": "https://lobste.rs/s/g9u6b7/how_do_you_version_public_web_apis",
+  "summary": "在公共Web API版本管理中，将版本号嵌入URL路径（如/api/v1）与使用语义版本控制相结合，似乎是一种反模式。这种做法不仅把API合同分散到URL和版本号两个地方，还可能在进行重大变更时导致路径和逆代理的繁杂问题，从而限制了API的灵活性和可维护性。",
+  "tags": [
+    "API版本管理",
+    "语义版本控制",
+    "Web开发",
+    "API设计"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-30T08:48:09.138417"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260530-025",
+  "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+  "source": "rss-hacker-news",
+  "source_url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+  "summary": "Liquid AI公布了其最新的8B-A1B模型，该模型采用MoE（Mixture of Experts）架构，并在38万亿个参数上进行了训练。这项技术的突破可能会改变人工智能领域的发展格局。",
+  "tags": [
+    "人工智能",
+    "机器学习",
+    "模型训练",
+    "MoE",
+    "技术创新"
+  ],
+  "analysis": {
+    "relevance_score": 9
+  },
+  "status": "review",
+  "collected_at": "2026-05-30T08:48:08.890791"
+}

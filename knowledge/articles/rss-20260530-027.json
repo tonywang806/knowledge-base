@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260530-027",
+  "title": "Flathub disallows LLM-based submissions",
+  "source": "rss-lobsters",
+  "source_url": "https://social.treehouse.systems/@barthalion/116657011366876079",
+  "summary": "Flathub 官方宣布不再接受基于大型语言模型 (LLM) 的提交，这一政策变动意在维护平台的内容质量，以避免自动生成的低质量软件与应用程序入驻。",
+  "tags": [
+    "Flathub",
+    "语言模型",
+    "软件提交",
+    "内容质量",
+    "平台政策"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-30T08:48:09.138222"
+}

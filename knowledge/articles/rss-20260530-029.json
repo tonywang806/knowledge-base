@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260530-029",
+  "title": "CVE-2026-48710: A Maintainer's Perspective",
+  "source": "rss-lobsters",
+  "source_url": "https://marcelotryle.com/blog/2026/05/28/cve-2026-48710-a-maintainers-perspective/",
+  "summary": "CVE-2026-48710是一项关于软件安全漏洞的研究，从维护者的角度探讨了该漏洞的影响及解决方案。维护人员分享了在应对此类问题时的经验和反思，强调了安全性和持续改进的重要性。",
+  "tags": [
+    "CVE",
+    "安全漏洞",
+    "软件维护",
+    "信息安全"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-30T08:48:09.138296"
+}

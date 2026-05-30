@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260530-021",
+  "title": "Algebraic Effects for the Rest of Us",
+  "source": "rss-hacker-news",
+  "source_url": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
+  "summary": "本文探讨了代数效应的概念及其在编程语言中的应用，重点在于如何通过代数效应来简化副作用的管理，使程序设计更加灵活和易于理解。",
+  "tags": [
+    "代数效应",
+    "编程语言",
+    "副作用管理",
+    "程序设计",
+    "技术文章"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-30T08:48:08.890587"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260530-030",
+  "title": "The Critical State of Cyberspacs",
+  "source": "rss-lobsters",
+  "source_url": "https://www.jstor.org/content/pdf/oa_chapter_edited/jj.40494811.19?acceptTC=true&amp;coverpage=false&amp;addFooter=false",
+  "summary": "当前，北约在网络空间面临挑战而无法明确攻击方，导致威慑失败。各国和企业对互联网的依赖使得全球网络稳定性面临威胁。本文讨论了网络基础设施的控制及其重要性，提出去中心化的架构和联合网络的策略，以促进数据路径的管理，从而增强网络安全。",
+  "tags": [
+    "网络安全",
+    "北约",
+    "去中心化架构",
+    "国际网络",
+    "网络战争"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-05-30T08:48:09.138344"
+}

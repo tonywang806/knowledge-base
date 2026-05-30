@@ -1,0 +1,12 @@
+{
+  "id": "c747cd95-e48f-4e26-886a-b6c5a6953346",
+  "source": "github-search",
+  "title": "agenthub",
+  "url": "https://github.com/Prism-Shadow/agenthub",
+  "description": "AgentHub is the LLM API Hub for the Agent era, built for high-precision autonomous agents. (GPT-5.5/Claude 4.6/Gemini 3.1)",
+  "stars": "91",
+  "language": "Python",
+  "raw_content": "agenthub\nAgentHub is the LLM API Hub for the Agent era, built for high-precision autonomous agents. (GPT-5.5/Claude 4.6/Gemini 3.1)",
+  "status": "pending",
+  "collected_at": "2026-05-30T08:48:08.657597"
+}

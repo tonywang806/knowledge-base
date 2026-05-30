@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260530-028",
+  "title": "SQLite Does Not Accept Agentic Code",
+  "source": "rss-lobsters",
+  "source_url": "https://simonwillison.net/2026/May/27/sqlite-agents/",
+  "summary": "这篇文章探讨了SQLite对功能性代码的限制，强调了它不支持自主执行的代码，可能影响开发者在使用该数据库时的灵活性和创意。因此，了解其优势和不足之处对开发者非常重要。",
+  "tags": [
+    "SQLite",
+    "数据库",
+    "编程",
+    "功能性代码",
+    "软件开发"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-05-30T08:48:09.138264"
+}

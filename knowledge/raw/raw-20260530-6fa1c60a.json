@@ -1,0 +1,10 @@
+{
+  "id": "6fa1c60a-e11a-485e-a33a-3a7440396e77",
+  "source": "rss-lobsters",
+  "title": "How do you version public web APIs?",
+  "url": "https://lobste.rs/s/g9u6b7/how_do_you_version_public_web_apis",
+  "description": "&lt;p&gt;Often there is an existing API called something like \"Product API\". It often also has /api/v1 in the path.&lt;/p&gt;\n&lt;p&gt;To me this often feels like an antipattern, especially when the API itself uses semantic versioning: mixing the routes with the API contract.&lt;/p&gt;\n&lt;p&gt;Having /v1/ in the URL while also having a major.minor.patch version: coupling the first number of the semantic version to the URL path feels counter intuitive to me, if you make a breaking change, you ma",
+  "raw_content": "How do you version public web APIs?\n&lt;p&gt;Often there is an existing API called something like \"Product API\". It often also has /api/v1 in the path.&lt;/p&gt;\n&lt;p&gt;To me this often feels like an antipattern, especially when the API itself uses semantic versioning: mixing the routes with the API contract.&lt;/p&gt;\n&lt;p&gt;Having /v1/ in the URL while also having a major.minor.patch version: coupling the first number of the semantic version to the URL path feels counter intuitive to me, if you make a breaking change, you may need new paths and new reverse proxy routes, and whatnot, and you also spread the API contract to two places, the URL and the version number.&lt;/p&gt;\n&lt;p&gt;If you start simultaneously building a brand new successor to the \"Product API\", the old API is effectively stuck as \"v1\", even if it gets breaking changes of its own.&lt;/p&gt;\n&lt;p&gt;What do you think?&lt;/p&gt;\n&lt;p&gt;Do you have any API design pet peeves or opinions to share?&lt;/p&gt;\n&lt;p&gt;Sorry for the confusing brain dump text, very interested in hearing people's opinions.&lt;/p&gt;\n&lt;p&gt;Thank you&lt;/p&gt;",
+  "status": "pending",
+  "collected_at": "2026-05-30T08:48:09.138417"
+}
