@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260531-022",
+  "title": "Nix on Sailfish X (Sailfish OS for Sony Xperia)",
+  "source": "rss-lobsters",
+  "source_url": "https://toast.al/posts/techlore/2026-05-30_nix-on-sailfish-os/",
+  "summary": "本文讨论了在索尼Xperia设备上运行的Sailfish OS上使用Nix的经验与技术细节，包括配置、包管理等方面的内容，适合对新系统感兴趣的开发者。",
+  "tags": [
+    "Sailfish OS",
+    "Nix",
+    "Sony Xperia",
+    "技术分享",
+    "开源"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-05-31T09:02:25.560036"
+}

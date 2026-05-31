@@ -1,0 +1,12 @@
+{
+  "id": "b5a144e2-a69e-4fe2-b055-d29772163a25",
+  "source": "github-search",
+  "title": "FastGPT",
+  "url": "https://github.com/labring/FastGPT",
+  "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+  "stars": "28203",
+  "language": "TypeScript",
+  "raw_content": "FastGPT\nFastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+  "status": "pending",
+  "collected_at": "2026-05-31T09:02:25.134385"
+}
