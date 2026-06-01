@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260601-024",
+  "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
+  "source": "rss-hacker-news",
+  "source_url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
+  "summary": "美联航一架波音767因机上蓝牙设备名称引发警报而返回纽瓦克。虽然事件未造成危险，但引发了对航空安全及无线设备使用的关注。",
+  "tags": [
+    "航空安全",
+    "蓝牙设备",
+    "美联航",
+    "航空事件",
+    "技术影响"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-06-01T09:49:31.150429"
+}

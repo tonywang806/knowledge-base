@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260601-027",
+  "title": "UTF8 email with DMA: DragonFly Mail Agent",
+  "source": "rss-lobsters",
+  "source_url": "https://www.vincentdelft.be/post/post_20260530",
+  "summary": "这篇文章介绍了DragonFly Mail Agent（DMA）在处理UTF-8电子邮件中的应用，强调了其在邮件格式和内容编码方面的优势，帮助用户更好地理解和使用UTF-8标准，提升邮件通讯的效率和准确性。",
+  "tags": [
+    "UTF-8",
+    "电子邮件",
+    "邮件代理",
+    "DragonFly",
+    "编码"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-01T09:49:31.452232"
+}

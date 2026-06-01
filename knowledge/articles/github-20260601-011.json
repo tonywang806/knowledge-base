@@ -1,0 +1,19 @@
+{
+  "id": "github-20260601-011",
+  "title": "UnrealGenAISupport",
+  "source": "github-search",
+  "source_url": "https://github.com/prajwalshettydev/UnrealGenAISupport",
+  "summary": "UnrealGenAISupport是一个为Unreal Engine提供的插件，支持多种大型语言模型（LLM）和生成性人工智能（GenAI）模型，如OpenAI的GPT-5、Deepseek R1等。该插件提供NPC AI、聊天、3D生成和文本转语音等功能，旨在提升游戏开发和虚拟现实中的智能交互体验，适用于UE5服务器。",
+  "tags": [
+    "Unreal Engine",
+    "人工智能",
+    "插件",
+    "游戏开发",
+    "虚拟现实"
+  ],
+  "analysis": {
+    "relevance_score": 9
+  },
+  "status": "review",
+  "collected_at": "2026-06-01T09:49:30.868027"
+}

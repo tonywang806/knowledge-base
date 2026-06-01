@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260601-026",
+  "title": "Unlawful by design: Exposing the human rights costs of generative AI",
+  "source": "rss-lobsters",
+  "source_url": "https://www.amnesty.org/en/documents/pol40/0996/2026/en/",
+  "summary": "这篇文章揭示了生成性人工智能的设计所带来的对人权的严重侵犯，指出其技术发展往往忽视了对个人隐私和权利的保护，强调需要进行监管和政策干预以防止这些技术对社会的不利影响。",
+  "tags": [
+    "人权",
+    "生成性AI",
+    "技术伦理",
+    "隐私保护"
+  ],
+  "analysis": {
+    "relevance_score": 9
+  },
+  "status": "review",
+  "collected_at": "2026-06-01T09:49:31.452109"
+}
