@@ -1,0 +1,12 @@
+{
+  "id": "9d6099b5-b1f1-4703-9ad2-0976c875d9c0",
+  "source": "github-search",
+  "title": "awesome-ChatGPT-repositories",
+  "url": "https://github.com/taishi-i/awesome-ChatGPT-repositories",
+  "description": "A curated list of resources dedicated to open source GitHub repositories related to ChatGPT, OpenAI API, and Codex. Searchable via Claude Code skills.",
+  "stars": "3060",
+  "language": "Python",
+  "raw_content": "awesome-ChatGPT-repositories\nA curated list of resources dedicated to open source GitHub repositories related to ChatGPT, OpenAI API, and Codex. Searchable via Claude Code skills.",
+  "status": "pending",
+  "collected_at": "2026-06-02T09:26:05.850005"
+}

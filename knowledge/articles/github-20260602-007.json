@@ -1,0 +1,19 @@
+{
+  "id": "github-20260602-007",
+  "title": "griptape",
+  "source": "github-search",
+  "source_url": "https://github.com/griptape-ai/griptape",
+  "summary": "Griptape是一个模块化的Python框架，专为AI代理和工作流设计，支持连贯的推理、工具以及记忆功能，以提升智能代理的决策能力和执行力。",
+  "tags": [
+    "Python框架",
+    "人工智能",
+    "工作流",
+    "链式推理",
+    "模块化设计"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-02T09:26:05.850132"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260602-017",
+  "title": "UCAI",
+  "source": "github-search",
+  "source_url": "https://github.com/nirholas/UCAI",
+  "summary": "UCAI是一个通用合约人工智能接口，旨在将AI代理与区块链连接。它提供了MCP服务器生成器，可用于智能合约，支持多个协议和链，如Uniswap、Aave、ERC20、NFTs等，同时具备Python CLI和Web3集成能力，能进行交易模拟，兼容Polygon、Arbitrum和Ethereum EVM链。",
+  "tags": [
+    "区块链",
+    "智能合约",
+    "人工智能",
+    "Web3",
+    "NLP"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-02T09:26:05.850893"
+}

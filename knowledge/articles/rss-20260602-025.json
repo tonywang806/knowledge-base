@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260602-025",
+  "title": "Strace-ui, Bonsai_term, and the TUI renaissance",
+  "source": "rss-hacker-news",
+  "source_url": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/",
+  "summary": "Strace-ui、Bonsai_term以及TUI复兴代表了终端用户界面（TUI）的新发展。这些工具不仅提升了开发者的体验，还为用户提供了更直观的交互界面，推动了TUI的应用和创新。",
+  "tags": [
+    "Strace-ui",
+    "Bonsai_term",
+    "TUI",
+    "开发工具",
+    "用户体验"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-02T09:26:06.249508"
+}

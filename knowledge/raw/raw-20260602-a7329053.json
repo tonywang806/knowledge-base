@@ -1,0 +1,12 @@
+{
+  "id": "a7329053-af90-4cd4-946b-1e4bed00d9f2",
+  "source": "github-search",
+  "title": "py-gpt",
+  "url": "https://github.com/szczyglis-dev/py-gpt",
+  "description": "Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, speech synthesis and recognition, web search, memory, presets, assistants,and more. Linux, Windows, Mac",
+  "stars": "1807",
+  "language": "Python",
+  "raw_content": "py-gpt\nDesktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, speech synthesis and recognition, web search, memory, presets, assistants,and more. Linux, Windows, Mac",
+  "status": "pending",
+  "collected_at": "2026-06-02T09:26:05.850357"
+}

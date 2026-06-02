@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260602-026",
+  "title": "AI Agent Guidelines for CS336 at Stanford",
+  "source": "rss-hacker-news",
+  "source_url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+  "summary": "这份文件为斯坦福大学CS336课程提供了AI代理的指导方针，涵盖了设计、实现和测试AI代理的关键要素，尤其强调伦理考虑和技术创新的重要性。这些内容对学习如何构建智能代理和相关的实践技能有重要帮助。",
+  "tags": [
+    "AI代理",
+    "斯坦福大学",
+    "课程指南",
+    "技术伦理",
+    "人工智能"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-02T09:26:06.249561"
+}
