@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260603-025",
+  "title": "rsync and outrage",
+  "source": "rss-lobsters",
+  "source_url": "https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0",
+  "summary": "本文讨论了rsync工具的使用以及引发的争议，涉及其在数据同步中的优势与潜在问题。具体评论指出了一些用户对工具缺陷的担忧，以及其对开发过程中产生的预期外影响。",
+  "tags": [
+    "rsync",
+    "数据同步",
+    "工具争议",
+    "开发问题"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-06-03T09:35:50.740992"
+}

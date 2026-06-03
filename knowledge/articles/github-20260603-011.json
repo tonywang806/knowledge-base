@@ -1,0 +1,19 @@
+{
+  "id": "github-20260603-011",
+  "title": "UnrealGenAISupport",
+  "source": "github-search",
+  "source_url": "https://github.com/prajwalshettydev/UnrealGenAISupport",
+  "summary": "UnrealGenAISupport是一个为Unreal Engine提供的插件，支持多种大型语言模型和生成AI，包括OpenAI GPT-5和其他著名模型，如Claude Opus和Gemini 3，旨在为游戏开发提供NPC AI、聊天、3D生成和文本转语音等功能，实现多模态应用。",
+  "tags": [
+    "Unreal Engine",
+    "AI插件",
+    "游戏开发",
+    "多模态",
+    "NPC AI"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-03T09:35:50.394185"
+}
