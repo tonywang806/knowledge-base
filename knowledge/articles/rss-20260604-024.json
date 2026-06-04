@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260604-024",
+  "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+  "source": "rss-hacker-news",
+  "source_url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+  "summary": "作者创建了一个易受攻击的应用程序，并投入1500美元来测试大型语言模型（LLMs）是否能够破解该应用。本文分析了LLMs在安全测试中的有效性和潜在风险。",
+  "tags": [
+    "人工智能",
+    "安全测试",
+    "应用程序漏洞",
+    "大型语言模型"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-04T09:18:39.447397"
+}

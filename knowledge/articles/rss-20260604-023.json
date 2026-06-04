@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260604-023",
+  "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+  "source": "rss-hacker-news",
+  "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+  "summary": "Gemma 4 12B是一种统一的多模态模型，无需编码器，旨在提升各类模态数据处理效果。该模型通过优化性能和简化架构，将不同模态的信息融合，使其在机器学习和人工智能领域有着广泛应用潜力。",
+  "tags": [
+    "多模态",
+    "机器学习",
+    "人工智能",
+    "Gemma 4",
+    "模型优化"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-04T09:18:39.447348"
+}

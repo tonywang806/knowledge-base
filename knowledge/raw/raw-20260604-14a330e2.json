@@ -1,0 +1,12 @@
+{
+  "id": "14a330e2-a45d-4026-b007-08dbb69bbe84",
+  "source": "github-search",
+  "title": "agenthub",
+  "url": "https://github.com/Prism-Shadow/agenthub",
+  "description": "AgentHub SDK is the unified and transparent multi-LLM SDK for building reliable Agent Apps. (GPT-5.5/Claude 4.8/Gemini 3.5)",
+  "stars": "91",
+  "language": "Python",
+  "raw_content": "agenthub\nAgentHub SDK is the unified and transparent multi-LLM SDK for building reliable Agent Apps. (GPT-5.5/Claude 4.8/Gemini 3.5)",
+  "status": "pending",
+  "collected_at": "2026-06-04T09:18:39.083548"
+}

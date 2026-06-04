@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260604-029",
+  "title": "rsync and outrage",
+  "source": "rss-lobsters",
+  "source_url": "https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0",
+  "summary": "这篇文章讨论了rsync工具的潜在问题和引发的公众愤怒，点明了用户在使用rsync时可能面临的挑战和后果。作者通过评论区提供的多样观点，深入探讨了该工具的局限性与使用时需注意的风险。",
+  "tags": [
+    "rsync",
+    "工具",
+    "技术问题",
+    "用户反馈",
+    "公共讨论"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-06-04T09:18:39.637562"
+}

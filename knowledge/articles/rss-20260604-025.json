@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260604-025",
+  "title": "The ways we contain Claude across products",
+  "source": "rss-hacker-news",
+  "source_url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+  "summary": "本文探讨了在各类产品中如何有效地对Claude进行管理和应用。内容涵盖不同产品中的具体策略和实施方法，旨在提供一个全面的视角，帮助技术人员理解Claude的最佳实践及潜在影响。",
+  "tags": [
+    "Claude",
+    "产品管理",
+    "技术实践",
+    "策略"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-04T09:18:39.447447"
+}
