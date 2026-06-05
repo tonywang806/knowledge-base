@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260605-024",
+  "title": "Do transformers need three projections? Systematic study of QKV variants",
+  "source": "rss-hacker-news",
+  "source_url": "https://arxiv.org/abs/2606.04032",
+  "summary": "本文系统研究了Transformer模型中QKV（Query, Key, Value）投影的不同变体，探讨了是否需要三种投影。研究结果为改进Transformers的设计提供了理论依据，为后续模型优化提供了重要线索。",
+  "tags": [
+    "Transformer",
+    "深度学习",
+    "机器学习",
+    "QKV机制",
+    "模型优化"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-05T09:07:50.804548"
+}

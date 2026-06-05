@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260605-025",
+  "title": "Go Experiments Explained",
+  "source": "rss-hacker-news",
+  "source_url": "https://www.alexedwards.net/blog/go-experiments-explained",
+  "summary": "本文深入探讨了Go编程语言中的实验性功能，旨在帮助开发者理解其应用场景及优缺点，同时指导如何有效地利用这些实验功能优化代码和项目设计。",
+  "tags": [
+    "Go语言",
+    "编程技巧",
+    "软件开发",
+    "实验性功能"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-05T09:07:50.804621"
+}

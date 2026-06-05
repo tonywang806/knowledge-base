@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260605-021",
+  "title": "Fine-tuning an LLM to write docs like it&#x27;s 1995",
+  "source": "rss-hacker-news",
+  "source_url": "https://passo.uno/fine-tuning-docs-llm/",
+  "summary": "这篇文章讨论了如何微调大型语言模型(LLM)，使其在文档写作方面模拟1995年的风格。重点强调了对此类模型的训练过程和技术细节，以实现具体的写作风格。",
+  "tags": [
+    "LLM",
+    "文档写作",
+    "微调",
+    "人工智能",
+    "技术应用"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-06-05T09:07:50.804341"
+}

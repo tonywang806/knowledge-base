@@ -1,0 +1,19 @@
+{
+  "id": "github-20260605-013",
+  "title": "Stellar-Chat",
+  "source": "github-search",
+  "source_url": "https://github.com/ktutak1337/Stellar-Chat",
+  "summary": "Stellar-Chat是一款多功能的聊天应用程序，用户可以开发自定义代理，创建图像，并利用视觉识别和语音交互。它能与本地大型语言模型及OpenAI、Gemini、Perplexity、Claude等商业模型无缝集成，并支持与上传的文档和网站进行对话。",
+  "tags": [
+    "聊天应用",
+    "多模态",
+    "人工智能",
+    "语言模型",
+    "用户定制"
+  ],
+  "analysis": {
+    "relevance_score": 9
+  },
+  "status": "review",
+  "collected_at": "2026-06-05T09:07:50.597162"
+}

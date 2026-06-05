@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260605-023",
+  "title": "Open Code Review – An AI-powered code review CLI tool",
+  "source": "rss-hacker-news",
+  "source_url": "https://github.com/alibaba/open-code-review",
+  "summary": "本文介绍了一款名为Open Code Review的CLI工具，利用人工智能技术来优化代码审查流程，提升了代码审核的效率和准确性。该工具可以帮助开发者快速获取代码质量反馈，促进团队协作与代码规范性。",
+  "tags": [
+    "人工智能",
+    "代码审查",
+    "开发工具",
+    "CLI工具"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-05T09:07:50.804495"
+}
