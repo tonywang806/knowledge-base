@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260606-028",
+  "title": "Did Claude increase bugs in rsync?",
+  "source": "rss-hacker-news",
+  "source_url": "https://alexispurslane.github.io/rsync-analysis/",
+  "summary": "该内容主要讨论Claude在rsync中的一些修改是否导致了更多的bug。在社区中对此进行评价及讨论，涉及到rsync工具的稳定性和功能改进。",
+  "tags": [
+    "rsync",
+    "bug修复",
+    "Claude",
+    "软件开发",
+    "开源项目"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-06-06T08:52:52.314781"
+}

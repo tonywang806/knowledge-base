@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260606-029",
+  "title": "My Agent Skill for Test-Driven Development",
+  "source": "rss-hacker-news",
+  "source_url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+  "summary": "本文探讨了测试驱动开发（TDD）中的代理技能，强调如何通过有效的代理技术提升开发流程和代码质量。这些技能有助于开发者更高效地进行测试和调试，从而提高整个开发团队的协作和生产力。",
+  "tags": [
+    "测试驱动开发",
+    "软件开发",
+    "代理技能",
+    "技术提升"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-06-06T08:52:52.314828"
+}

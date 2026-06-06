@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260606-021",
+  "title": "How LLMs work",
+  "source": "rss-hacker-news",
+  "source_url": "https://www.0xkato.xyz/how-llms-actually-work/",
+  "summary": "大型语言模型（LLMs）通过深度学习和神经网络技术，通过分析和生成自然语言文本来工作。它们依据大量的数据来进行自我学习，从而提高对语言的理解和生成能力。LLMs的构建与训练涉及复杂的算法和计算能力，能够在多种任务中表现出色。",
+  "tags": [
+    "机器学习",
+    "自然语言处理",
+    "深度学习",
+    "人工智能"
+  ],
+  "analysis": {
+    "relevance_score": 9
+  },
+  "status": "review",
+  "collected_at": "2026-06-06T08:52:52.314486"
+}

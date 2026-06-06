@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260606-027",
+  "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+  "source": "rss-hacker-news",
+  "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+  "summary": "Gemma 4 QAT模型专注于优化压缩技术，以提高移动设备和笔记本电脑的运行效率，展现了在不同设备上的应用潜力和价值。该技术将为提升设备性能提供新思路，特别适合资源受限的环境。",
+  "tags": [
+    "压缩技术",
+    "移动设备",
+    "笔记本电脑",
+    "设备性能",
+    "优化"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-06T08:52:52.314742"
+}

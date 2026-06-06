@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260606-030",
+  "title": "How do you sieve/filter/manage your internet mail?",
+  "source": "rss-lobsters",
+  "source_url": "https://lobste.rs/s/dku5yb/how_do_you_sieve_filter_manage_your",
+  "summary": "本文探讨了高订阅邮件列表和评论补丁的用户如何筛选、管理互联网邮件的工作流程，包括归档和标签的管理。文中还提及是否使用FOSS工具及Sieve脚本来提高邮件管理的效率。",
+  "tags": [
+    "邮件管理",
+    "FOSS工具",
+    "Sieve脚本",
+    "工作流程",
+    "归档标签"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-06-06T08:52:52.566455"
+}
