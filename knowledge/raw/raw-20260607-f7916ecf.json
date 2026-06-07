@@ -1,0 +1,12 @@
+{
+  "id": "f7916ecf-b281-4c60-b918-8dbd265216df",
+  "source": "github-search",
+  "title": "Stellar-Chat",
+  "url": "https://github.com/ktutak1337/Stellar-Chat",
+  "description": "A versatile multi-modal chat application that enables users to develop custom agents, create images, leverage visual recognition, and engage in voice interactions. It integrates seamlessly with local LLMs and commercial models like OpenAI, Gemini, Perplexity, and Claude, and allows to converse with uploaded documents and websites.",
+  "stars": "142",
+  "language": "C#",
+  "raw_content": "Stellar-Chat\nA versatile multi-modal chat application that enables users to develop custom agents, create images, leverage visual recognition, and engage in voice interactions. It integrates seamlessly with local LLMs and commercial models like OpenAI, Gemini, Perplexity, and Claude, and allows to converse with uploaded documents and websites.",
+  "status": "pending",
+  "collected_at": "2026-06-07T09:03:06.522265"
+}

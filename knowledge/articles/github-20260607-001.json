@@ -1,0 +1,19 @@
+{
+  "id": "github-20260607-001",
+  "title": "FastGPT",
+  "source": "github-search",
+  "source_url": "https://github.com/labring/FastGPT",
+  "summary": "FastGPT是一个基于大语言模型的知识平台，提供全面的功能，包括数据处理、RAG检索和视觉AI工作流编排，使开发和部署复杂的问答系统变得简单，无需繁琐的设置或配置。",
+  "tags": [
+    "人工智能",
+    "问答系统",
+    "数据处理",
+    "视觉AI",
+    "自动化"
+  ],
+  "analysis": {
+    "relevance_score": 9
+  },
+  "status": "review",
+  "collected_at": "2026-06-07T09:03:06.521630"
+}

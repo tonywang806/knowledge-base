@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260607-023",
+  "title": "Harness engineering: Leveraging Codex in an agent-first world",
+  "source": "rss-hacker-news",
+  "source_url": "https://openai.com/index/harness-engineering/",
+  "summary": "本文探讨了在以代理为中心的环境中如何利用Codex进行工程化，强调了这一方法的创新性和在现代开发中的实际应用。同时，讨论了Codex对工程流程和效率的影响，为开发人员提供了新的思路和工具。",
+  "tags": [
+    "Codex",
+    "工程化",
+    "代理系统",
+    "技术创新"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-07T09:03:06.682271"
+}

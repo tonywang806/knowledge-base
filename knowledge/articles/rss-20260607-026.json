@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260607-026",
+  "title": "Arithmetic Without Numbers – How LLMs Do Math",
+  "source": "rss-hacker-news",
+  "source_url": "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html",
+  "summary": "本文探讨了大型语言模型（LLMs）如何在没有数字的情况下进行算术运算，分析了它们的工作原理和应用，对理解语言模型在数学计算上的潜力具有重要意义。",
+  "tags": [
+    "大型语言模型",
+    "算术运算",
+    "自然语言处理",
+    "AI技术"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-07T09:03:06.682485"
+}

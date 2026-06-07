@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260607-025",
+  "title": "Human-Like Neural Nets by Catapulting",
+  "source": "rss-hacker-news",
+  "source_url": "https://gwern.net/llm-catapult",
+  "summary": "该文探讨了通过使用Catapulting方法来发展人类类似的神经网络，这种创新性技术可能改变神经网络的结构和功能，提升其性能与适应性，具体应用及影响尚待深入研究。",
+  "tags": [
+    "神经网络",
+    "人工智能",
+    "机器学习",
+    "Catapulting",
+    "技术创新"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-06-07T09:03:06.682398"
+}

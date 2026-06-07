@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260607-022",
+  "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+  "source": "rss-hacker-news",
+  "source_url": "https://arxiv.org/abs/2601.14470",
+  "summary": "本文探讨了在自主软件工程中，代币经济学如何量化代币的使用情况。研究提供了对代币在软件开发和分布式系统中的应用的深刻理解，为开发者和投资者提供了指导。",
+  "tags": [
+    "代币经济学",
+    "软件工程",
+    "自主系统",
+    "分布式系统"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-07T09:03:06.682191"
+}

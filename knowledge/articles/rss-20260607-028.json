@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260607-028",
+  "title": "The Guix Nix Abomination: Leveraging Guix derivations in Nix",
+  "source": "rss-lobsters",
+  "source_url": "https://fzakaria.com/2026/06/05/the-guix-nix-abomination-leveraging-guix-derivations-in-nix",
+  "summary": "本文探讨了如何在Nix中利用Guix的派生机制，分析了这种方法对软件包管理和构建过程的影响。这一跨系统的融合展示了两者优点的结合，扩大了用户的选择和灵活性。",
+  "tags": [
+    "Guix",
+    "Nix",
+    "软件包管理",
+    "技术分析",
+    "开发工具"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-07T09:03:07.033615"
+}

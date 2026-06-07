@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260607-030",
+  "title": "How LLMs Actually Work",
+  "source": "rss-lobsters",
+  "source_url": "https://0xkato.xyz/how-llms-actually-work/",
+  "summary": "本文深入探讨了大型语言模型（LLMs）的工作原理，涉及其架构、训练过程及应用场景，为希望了解LLMs的读者提供了详细的技术分析与理解。",
+  "tags": [
+    "语言模型",
+    "人工智能",
+    "技术分析",
+    "机器学习",
+    "大数据"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-07T09:03:07.033725"
+}
