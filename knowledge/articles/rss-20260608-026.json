@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260608-026",
+  "title": "GentleOS - A pair of hobby OSes for vintage 32-bit and 16-bit PCs",
+  "source": "rss-lobsters",
+  "source_url": "https://github.com/luke8086/gentleos32",
+  "summary": "GentleOS是一款针对复古32位和16位个人计算机的爱好者操作系统，旨在为旧款硬件提供现代化体验和兼容性，适合那些对复古计算机抱有热情的用户。",
+  "tags": [
+    "操作系统",
+    "复古计算机",
+    "爱好者项目",
+    "32位",
+    "16位"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-06-08T09:34:44.057675"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260608-021",
+  "title": "The Smallest Brain You Can Build: A Perceptron in Python",
+  "source": "rss-hacker-news",
+  "source_url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+  "summary": "本文探讨了如何在Python中构建一个简单的感知器，这是一个基本的人工神经网络模型，适合初学者学习机器学习的基础概念。通过代码示例和解释，读者能更好地理解感知器的工作原理和实际应用。",
+  "tags": [
+    "Python",
+    "机器学习",
+    "感知器",
+    "神经网络",
+    "人工智能"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-08T09:34:43.880682"
+}

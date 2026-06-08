@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260608-024",
+  "title": "Do agents.md files help coding agents?",
+  "source": "rss-hacker-news",
+  "source_url": "https://twitter.com/rasbt/status/2063649136323252397",
+  "summary": "agents.md 文件在开发编码代理时具有重要作用，它们能够提供必要的文档和指导，帮助开发者创建更有效的代理。这些文件可以提升开发效率和代码质量，降低学习曲线。",
+  "tags": [
+    "编码代理",
+    "开发文档",
+    "技术指导"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-08T09:34:43.880915"
+}

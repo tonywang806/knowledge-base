@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260608-022",
+  "title": "Playing with Vision Embeddings",
+  "source": "rss-hacker-news",
+  "source_url": "https://prestonbjensen.com/posts/playing-with-vision-embeddings",
+  "summary": "本文章探讨了视觉嵌入技术的应用，尤其是在图像处理和计算机视觉领域的潜力。通过分析不同方法，作者展示了这些技术如何改变视觉数据的处理方式以及它们在各行业中的重要性。",
+  "tags": [
+    "视觉嵌入",
+    "图像处理",
+    "计算机视觉",
+    "技术应用"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-08T09:34:43.880763"
+}
