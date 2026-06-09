@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260609-029",
+  "title": "Can we stop tagging every thing as vibecoding?",
+  "source": "rss-lobsters",
+  "source_url": "https://lobste.rs/s/qgy6ak/can_we_stop_tagging_every_thing_as",
+  "summary": "文章讨论了不当使用\"vibecoding\"标签的问题，指出很多与人工智能无关的内容也被强行标记，导致标签的滥用和含义模糊。作者列举了几个实例，强调标签应该更准确地反映内容。",
+  "tags": [
+    "vibecoding",
+    "人工智能",
+    "标签使用",
+    "内容分析",
+    "文章批评"
+  ],
+  "analysis": {
+    "relevance_score": 6
+  },
+  "status": "review",
+  "collected_at": "2026-06-09T09:07:18.372761"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260609-015",
+  "title": "ask",
+  "source": "github-search",
+  "source_url": "https://github.com/elias-ba/ask",
+  "summary": "ask是一款为开发者设计的人工智能命令行工具，支持多种大型语言模型，具有代理功能和本地化智能，方便开发者在终端内使用。",
+  "tags": [
+    "AI工具",
+    "命令行",
+    "开发者",
+    "机器学习",
+    "终端"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-09T09:07:17.908350"
+}

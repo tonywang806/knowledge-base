@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260609-025",
+  "title": "Apple Core AI Framework",
+  "source": "rss-hacker-news",
+  "source_url": "https://developer.apple.com/documentation/coreai/",
+  "summary": "Apple的Core AI框架提供了一系列工具和API，用于构建基于人工智能的应用，使开发者能够实现机器学习和深度学习的功能，提升应用的智能化水平。该框架旨在简化AI集成过程，提高开发效率。",
+  "tags": [
+    "Apple",
+    "人工智能",
+    "Core AI",
+    "机器学习",
+    "开发工具"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-09T09:07:18.288889"
+}

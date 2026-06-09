@@ -1,0 +1,12 @@
+{
+  "id": "2df08d23-c846-4b4a-afcd-d76b1b1b33d0",
+  "source": "github-search",
+  "title": "cascadeflow",
+  "url": "https://github.com/lemony-ai/cascadeflow",
+  "description": "Cascading runtime for AI agents. Optimize cost, latency, quality, and policy decisions inside the agent loop.",
+  "stars": "2483",
+  "language": "Python",
+  "raw_content": "cascadeflow\nCascading runtime for AI agents. Optimize cost, latency, quality, and policy decisions inside the agent loop.",
+  "status": "pending",
+  "collected_at": "2026-06-09T09:07:17.908062"
+}

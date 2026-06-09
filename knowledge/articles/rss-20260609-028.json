@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260609-028",
+  "title": "Self-hosting email the hard way from your own routable IPv4 block up",
+  "source": "rss-lobsters",
+  "source_url": "https://anil.recoil.org/notes/recoil-self-hosting-2026",
+  "summary": "这篇文章讨论了如何从自己的可路由IPv4地址块自托管电子邮件的复杂过程，涉及网络配置、邮件服务器设置及安全措施。尽管自托管挑战重重，但能够掌控数据和提高隐私安全是其主要优势。",
+  "tags": [
+    "自托管",
+    "电子邮件",
+    "网络安全",
+    "IPv4",
+    "技术配置"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-09T09:07:18.372656"
+}

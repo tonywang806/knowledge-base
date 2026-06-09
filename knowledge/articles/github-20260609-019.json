@@ -1,0 +1,19 @@
+{
+  "id": "github-20260609-019",
+  "title": "opentrade",
+  "source": "github-search",
+  "source_url": "https://github.com/brandononchain/opentrade",
+  "summary": "OpenTrade 是一款强大的开源交易平台，整合了多个流行的 AI 模型和工具，提供丰富的交易策略与技术分析功能，适合量化交易、高频交易及对冲基金使用。",
+  "tags": [
+    "开源",
+    "交易",
+    "AI",
+    "量化交易",
+    "技术分析"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-09T09:07:17.908507"
+}
