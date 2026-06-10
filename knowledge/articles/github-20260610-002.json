@@ -1,0 +1,19 @@
+{
+  "id": "github-20260610-002",
+  "title": "promptfoo",
+  "source": "github-search",
+  "source_url": "https://github.com/promptfoo/promptfoo",
+  "summary": "Promptfoo是一个用于测试AI模型、代理和检索增强生成（RAG）的平台，支持安全测试和性能比较。它能够验证GPT、Claude、Gemini等模型的表现，并提供简单的配置，适用于命令行和持续集成/持续部署（CI/CD）。这个工具被OpenAI和Anthropic等公司所使用，改善了AI的安全性和效能。",
+  "tags": [
+    "AI测试",
+    "安全性",
+    "模型比较",
+    "工具",
+    "技术"
+  ],
+  "analysis": {
+    "relevance_score": 9
+  },
+  "status": "review",
+  "collected_at": "2026-06-10T09:12:43.761698"
+}

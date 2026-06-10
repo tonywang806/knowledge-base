@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260610-021",
+  "title": "macOS Container Machines",
+  "source": "rss-hacker-news",
+  "source_url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+  "summary": "本文讨论了macOS容器机器的概念和应用，探讨了它们在开发和测试环境中如何提供隔离的工作环境，提升效率和安全性。",
+  "tags": [
+    "macOS",
+    "容器技术",
+    "开发环境",
+    "测试",
+    "安全性"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-06-10T09:12:44.105900"
+}

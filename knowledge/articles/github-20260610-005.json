@@ -1,0 +1,19 @@
+{
+  "id": "github-20260610-005",
+  "title": "awesome-ChatGPT-repositories",
+  "source": "github-search",
+  "source_url": "https://github.com/taishi-i/awesome-ChatGPT-repositories",
+  "summary": "这是一个精心策划的资源列表，专注于与ChatGPT、OpenAI API和Codex相关的开源GitHub存储库，可通过Claude Code技能进行搜索。该列表可为开发者和研究人员提供丰富的资源和工具，促进相关技术的应用和研究。",
+  "tags": [
+    "ChatGPT",
+    "OpenAI",
+    "Codex",
+    "开源",
+    "资源列表"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-10T09:12:43.761851"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260610-019",
+  "title": "opentrade",
+  "source": "github-search",
+  "source_url": "https://github.com/brandononchain/opentrade",
+  "summary": "opentrade是一款强大的开源TradingView AI代理，配备50种工具和15种模型（包括Claude、GPT、Gemini等），兼具量化、HFT和对冲基金的技能，以及Pine Script v6支持，适合专业交易者使用。",
+  "tags": [
+    "开源",
+    "交易工具",
+    "AI",
+    "算法交易",
+    "金融技术"
+  ],
+  "analysis": {
+    "relevance_score": 9
+  },
+  "status": "review",
+  "collected_at": "2026-06-10T09:12:43.762427"
+}

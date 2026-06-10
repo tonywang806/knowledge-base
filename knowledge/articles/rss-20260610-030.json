@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260610-030",
+  "title": "Blogging with an LLM assistant",
+  "source": "rss-lobsters",
+  "source_url": "https://vincent.bernat.ch/en/blog/2026-blogging-llm",
+  "summary": "本文探讨了使用大型语言模型（LLM）作为写作助手进行博文创作的优势和方法。作者分享了如何利用LLM提升写作效率、创意生成和内容质量，同时还提供了实际的使用技巧和案例分析，使更多博主受益于先进技术的应用。",
+  "tags": [
+    "博客写作",
+    "大型语言模型",
+    "写作助手",
+    "内容创作",
+    "技术应用"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-10T09:12:44.228148"
+}

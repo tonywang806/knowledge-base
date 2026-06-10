@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260610-028",
+  "title": "Cleaning up after AI rockstar developers",
+  "source": "rss-lobsters",
+  "source_url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+  "summary": "本文讨论了如何在AI开发者利用人工智能技术后进行的清理工作，强调了团队合作和后续维护的重要性。提到的挑战包括代码质量和可读性问题，以及如何对AI生成的结果进行有效管理，以确保项目的长期成功和稳定性。",
+  "tags": [
+    "AI开发",
+    "技术管理",
+    "团队合作",
+    "代码质量"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-06-10T09:12:44.228018"
+}

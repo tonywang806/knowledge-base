@@ -1,0 +1,18 @@
+{
+  "id": "github-20260610-008",
+  "title": "cascadeflow",
+  "source": "github-search",
+  "source_url": "https://github.com/lemony-ai/cascadeflow",
+  "summary": "Cascadeflow是一个用于AI代理的级联运行时，通过优化成本、延迟、质量和策略决策来提升代理循环的效率，旨在提升AI代理的整体表现。",
+  "tags": [
+    "AI代理",
+    "优化",
+    "级联运行时",
+    "决策支持"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-10T09:12:43.761973"
+}
