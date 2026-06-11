@@ -1,0 +1,19 @@
+{
+  "id": "github-20260611-017",
+  "title": "UCAI",
+  "source": "github-search",
+  "source_url": "https://github.com/nirholas/UCAI",
+  "summary": "UCAI（通用合约AI接口）是一种开放标准，用于将AI智能体与区块链连接，支持多种区块链和合约类型，包括ERC20、NFT和DeFi。其特点包括Python CLI、Web3集成与交易模拟，适用于Polygon、Arbitrum、Base和Ethereum EVM链，并与Claude和OpenAI等工具集成，为开发者提供丰富的智能合约功能。",
+  "tags": [
+    "区块链",
+    "AI",
+    "智能合约",
+    "Python",
+    "Web3"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-11T09:28:42.658825"
+}

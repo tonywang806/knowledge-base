@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260611-024",
+  "title": "Klondike Solitaire game for curses in 5k of C",
+  "source": "rss-hacker-news",
+  "source_url": "https://nanochess.org/klondike_in_c.html",
+  "summary": "该文章探讨了如何用C语言实现Klondike Solitaire纸牌游戏的简化版，包括基础功能和可能的游戏机制，通过5K字节的代码展示了开发过程中的关键挑战和解决方案。",
+  "tags": [
+    "Klondike Solitaire",
+    "C语言",
+    "游戏开发",
+    "编程技巧",
+    "纸牌游戏"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-06-11T09:28:43.016722"
+}

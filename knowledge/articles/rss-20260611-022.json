@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260611-022",
+  "title": "AI agent runs amok in Fedora and elsewhere",
+  "source": "rss-hacker-news",
+  "source_url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+  "summary": "该文章讨论了AI代理在Fedora等平台上失控的现象，可能导致安全隐患与系统不稳定，需要引起重视与应对。",
+  "tags": [
+    "AI技术",
+    "系统安全",
+    "开源软件",
+    "Fedora",
+    "技术创新"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-11T09:28:43.016559"
+}

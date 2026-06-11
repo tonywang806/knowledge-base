@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260611-027",
+  "title": "Nontrailing separators do not spark joy",
+  "source": "rss-lobsters",
+  "source_url": "https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/",
+  "summary": "这篇文章讨论了不带尾部分隔符的设计理念，认为它们在代码和用户体验中并未带来乐趣或便利。相反，恰当的分隔符能提升视觉清晰度和可读性，增强用户体验。",
+  "tags": [
+    "设计原则",
+    "用户体验",
+    "代码可读性",
+    "分隔符"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-06-11T09:28:43.168525"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260611-023",
+  "title": "Cybersecurity researchers aren&#x27;t happy about the guardrails on Anthropic&#x27;s Fable",
+  "source": "rss-hacker-news",
+  "source_url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+  "summary": "网络安全研究人员对Anthropic推出的Fable的安全措施表示不满，认为这些保护机制存在缺陷，这可能影响到用户的安全和隐私。",
+  "tags": [
+    "网络安全",
+    "人工智能",
+    "隐私保护",
+    "技术研究",
+    "Fable"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-06-11T09:28:43.016628"
+}
