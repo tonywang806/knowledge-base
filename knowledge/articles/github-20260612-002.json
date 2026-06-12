@@ -1,0 +1,19 @@
+{
+  "id": "github-20260612-002",
+  "title": "promptfoo",
+  "source": "github-search",
+  "source_url": "https://github.com/promptfoo/promptfoo",
+  "summary": "Promptfoo是一种用于测试AI提示、代理和RAGs的工具，提供红队、渗透测试和漏洞扫描功能。支持GPT、Claude、Gemini和DeepSeek等多种AI的性能比较，具备简单的声明配置，且可与命令行和CI/CD整合，应用于OpenAI和Anthropic等公司。",
+  "tags": [
+    "AI测试",
+    "安全性",
+    "性能比较",
+    "工具",
+    "DevOps"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-12T09:23:33.828677"
+}

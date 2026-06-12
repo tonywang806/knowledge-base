@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260612-032",
+  "title": "merman: Mermaid.js, but headless, in Rust",
+  "source": "rss-lobsters",
+  "source_url": "https://github.com/Latias94/merman",
+  "summary": "Merman是一个基于Rust的无头框架，旨在实现类似Mermaid.js的图表生成能力。它支持高效的图形渲染，适合开发者进行嵌入式图形应用。",
+  "tags": [
+    "Rust",
+    "Mermaid.js",
+    "图表生成",
+    "开源项目"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-06-12T09:23:34.353692"
+}

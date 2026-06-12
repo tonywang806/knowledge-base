@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260612-030",
+  "title": "There Is Life Before Main in Rust",
+  "source": "rss-lobsters",
+  "source_url": "https://grack.com/blog/2026/06/11/life-before-main/",
+  "summary": "本文讨论了Rust编程语言中的主函数(main)之前的生命，探讨了Rust中模块、测试以及配置等机制，表明在程序执行前可以进行多种重要操作，这对开发者了解Rust的整体结构及灵活性非常重要。",
+  "tags": [
+    "Rust",
+    "编程语言",
+    "软件开发",
+    "模块化",
+    "测试"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-12T09:23:34.353528"
+}

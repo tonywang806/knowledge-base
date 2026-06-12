@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260612-028",
+  "title": "German court ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers",
+  "source": "rss-lobsters",
+  "source_url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+  "summary": "德国法院裁定，谷歌的AI生成的概述被视为谷歌自己的文字，因此谷歌需对错误答案承担责任。这一判决可能影响AI生成内容的法律责任，涉及知识产权和信息准确性。",
+  "tags": [
+    "谷歌",
+    "AI",
+    "法律判决",
+    "信息准确性",
+    "知识产权"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-12T09:23:34.353411"
+}

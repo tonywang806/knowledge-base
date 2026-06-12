@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260612-023",
+  "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+  "source": "rss-hacker-news",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+  "summary": "Anthropic就其Invisible Claude Fable安全保障措施的缺陷表示歉意，承认这些措施在保护用户方面存在不足，可能导致一些潜在风险。这一声明呼应了人们对AI安全性和责任问题的广泛关注。",
+  "tags": [
+    "AI安全",
+    "Anthropic",
+    "Claude Fable",
+    "技术伦理",
+    "用户保护"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-06-12T09:23:34.108293"
+}
