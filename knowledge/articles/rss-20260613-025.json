@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260613-025",
+  "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
+  "source": "rss-hacker-news",
+  "source_url": "https://bitboard.work/",
+  "summary": "BitBoard 是一个为代理提供分析工作的工具，旨在提升工作效率和数据洞察。此产品由 YC P25 孵化，适合需要数据分析支持的代理行业。",
+  "tags": [
+    "数据分析",
+    "代理工具",
+    "YC项目",
+    "工作效率"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-13T09:03:44.415949"
+}

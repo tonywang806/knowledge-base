@@ -1,0 +1,19 @@
+{
+  "id": "github-20260613-006",
+  "title": "aide",
+  "source": "github-search",
+  "source_url": "https://github.com/nicepkg/aide",
+  "summary": "这篇文章讨论了在 Visual Studio Code (VSCode) 中通过一系列强大功能征服代码的技巧，包括一键注释、代码转换、从用户界面生成代码以及 AI 批量处理文件等。文章为开发者提供了实用的工具和方法，提升编码效率。",
+  "tags": [
+    "VSCode",
+    "编程技巧",
+    "AI工具",
+    "代码处理",
+    "开发者工具"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-13T09:03:44.220652"
+}

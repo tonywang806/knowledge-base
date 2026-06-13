@@ -1,0 +1,19 @@
+{
+  "id": "github-20260613-014",
+  "title": "agenthub",
+  "source": "github-search",
+  "source_url": "https://github.com/Prism-Shadow/agenthub",
+  "summary": "AgentHub SDK 是一个统一透明的多大型语言模型（LLM）软件开发工具包，旨在构建可靠的代理应用程序，支持 GPT-5.5、Claude 4.8 和 Gemini 3.5。",
+  "tags": [
+    "技术",
+    "AI",
+    "SDK",
+    "语言模型",
+    "代理应用"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-13T09:03:44.221193"
+}
