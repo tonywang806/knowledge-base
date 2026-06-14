@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260614-021",
+  "title": "Making Claude a Chemist",
+  "source": "rss-hacker-news",
+  "source_url": "https://www.anthropic.com/research/making-claude-a-chemist",
+  "summary": "本篇文章探讨了将Claude这款AI模型应用于化学领域的可能性与影响，分析了其在研究和教育中的潜在作用，以及如何通过编码和算法优化使其在化学实验和数据分析中发挥更大作用。",
+  "tags": [
+    "AI",
+    "化学",
+    "模型应用",
+    "科研",
+    "教育"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-14T09:05:44.116488"
+}

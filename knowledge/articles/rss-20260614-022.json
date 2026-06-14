@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260614-022",
+  "title": "repo-slopscore: Detecting AI/LLM contributions in git repositories via commit history analysis",
+  "source": "rss-lobsters",
+  "source_url": "https://slopscan.ava.pet/",
+  "summary": "repo-slopscore是一个工具，通过分析git仓库的提交历史，检测AI和大型语言模型(LLM)的贡献。这一技术有助于了解AI在软件开发中的具体应用和影响。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Git",
+    "技术工具",
+    "软件开发"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-14T09:05:44.431639"
+}

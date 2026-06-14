@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260614-024",
+  "title": "Talk more to your coding agents",
+  "source": "rss-lobsters",
+  "source_url": "https://www.datawill.io/posts/2026-06-my-agent-workflow/",
+  "summary": "鼓励程序员与其编程助手进行更多交流能提升工作效率。通过更频繁的互动，能更好地明确需求、减少误解，从而提升代码质量和开发速度。",
+  "tags": [
+    "编程助手",
+    "工作效率",
+    "代码质量",
+    "开发交流"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-06-14T09:05:44.431874"
+}

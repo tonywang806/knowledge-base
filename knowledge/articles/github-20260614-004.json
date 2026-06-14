@@ -1,0 +1,19 @@
+{
+  "id": "github-20260614-004",
+  "title": "zcf",
+  "source": "github-search",
+  "source_url": "https://github.com/UfoMiao/zcf",
+  "summary": "本文介绍了针对Claude和Codex的零配置代码流程（Zero-Config Code Flow），旨在简化开发者在使用这些AI编码工具时的配置步骤，提高工作效率。",
+  "tags": [
+    "AI编码",
+    "零配置",
+    "开发工具",
+    "Claude",
+    "Codex"
+  ],
+  "analysis": {
+    "relevance_score": 7
+  },
+  "status": "review",
+  "collected_at": "2026-06-14T09:05:44.019303"
+}
