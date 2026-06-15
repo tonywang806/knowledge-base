@@ -1,0 +1,12 @@
+{
+  "id": "1745deaf-2eb9-4c83-b338-fcb005e816ae",
+  "source": "github-search",
+  "title": "UCAI",
+  "url": "https://github.com/nirholas/UCAI",
+  "description": "Universal Contract AI Interface (UCAI) 🔗 ABI to MCP | The open standard for connecting AI agents to blockchain. MCP server generator for smart contracts. Claude + Uniswap, Aave, ERC20, NFTs, DeFi. Python CLI, Web3 integration, transaction simulation. Polygon, Arbitrum, Base, Ethereum EVM chains. Claude, GPT, LLM tooling, Solidity, OpenAI.",
+  "stars": "33",
+  "language": "Python",
+  "raw_content": "UCAI\nUniversal Contract AI Interface (UCAI) 🔗 ABI to MCP | The open standard for connecting AI agents to blockchain. MCP server generator for smart contracts. Claude + Uniswap, Aave, ERC20, NFTs, DeFi. Python CLI, Web3 integration, transaction simulation. Polygon, Arbitrum, Base, Ethereum EVM chains. Claude, GPT, LLM tooling, Solidity, OpenAI.",
+  "status": "pending",
+  "collected_at": "2026-06-15T10:07:41.263912"
+}

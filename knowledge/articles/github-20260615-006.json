@@ -1,0 +1,18 @@
+{
+  "id": "github-20260615-006",
+  "title": "aide",
+  "source": "github-search",
+  "source_url": "https://github.com/nicepkg/aide",
+  "summary": "本文介绍了在 VSCode 中通过一键注释、代码转换、UI 图生成代码和 AI 批量处理文件等功能，帮助用户高效管理和处理代码，提高编程效率。",
+  "tags": [
+    "VSCode",
+    "编程工具",
+    "高效编码",
+    "AI技术"
+  ],
+  "analysis": {
+    "relevance_score": 8
+  },
+  "status": "review",
+  "collected_at": "2026-06-15T10:07:41.263110"
+}

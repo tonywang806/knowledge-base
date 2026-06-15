@@ -1,0 +1,19 @@
+{
+  "id": "github-20260615-003",
+  "title": "ai-guide",
+  "source": "github-search",
+  "source_url": "https://github.com/liyupi/ai-guide",
+  "summary": "该AI资源大全网站为程序员提供了丰富的学习材料和实践教程，包括大模型玩法、最新AI资讯、编程教程和各种AI工具的使用方法，适合所有希望掌握AI技术的用户。",
+  "tags": [
+    "AI教程",
+    "编程学习",
+    "大模型应用",
+    "开源资源",
+    "技术指南"
+  ],
+  "analysis": {
+    "relevance_score": 9
+  },
+  "status": "review",
+  "collected_at": "2026-06-15T10:07:41.262884"
+}
